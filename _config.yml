@@ -22,7 +22,13 @@ collections:
   om_foreningen:
     permalink: /:collection/:name
     output: true
-
+  styrelse_och_stadgar:
+    permalink: /:collection/:name
+    output: true
+  pagaende_projekt:
+    permalink: /:collection/:name
+    output: true
+  
 # Jekyll
 permalink:          /blog/:title/
 markdown:           kramdown
