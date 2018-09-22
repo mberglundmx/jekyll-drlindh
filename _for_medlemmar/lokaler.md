@@ -19,8 +19,8 @@ Lokalen bokas genom att skicka mejl till
 
 Ange Brf-nummer samt nummer enligt skatteverkets regler, e-postadress samt önskat datum och tid (dag / kväll) när du önskar hyra lokalen.
 
-Här finns information om gemensamhetslokalen
-Här finns en blankett och reglerna för gemensamhetslokalen!
+[Här finns information om gemensamhetslokalen](assets/img/Info_gemensamhetslokal.pdf)
+[Här finns en blankett och reglerna för gemensamhetslokalen!](/assets/img/riktlinjer_gemlokal_ifyllbar_blankett.pdf)
 
 ## Gymmet
 
