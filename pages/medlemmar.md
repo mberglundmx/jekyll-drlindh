@@ -11,9 +11,12 @@ Här finner du information för medlemmar i föreningen, klicka på länkarna ne
 
 {% for post in site.pages %}
 <p>
-<a href="{{ post.url }}">{{ post.title }}
+<h4>
+<a href="{{ post.url }}">
+{{ post.title }}
 </a>
 </h4>
+
 {{ post.content | strip_newlines | truncate: 180 }}
 </p>
 {% endfor %}
