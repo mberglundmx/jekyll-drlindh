@@ -46,7 +46,7 @@
           </article>
 					<!-- Post -->
 					<section class="posts">
-						{% for post in site.for_medlemmar %}
+						{% for post in site.[page.collection] %}
 							<article>
 								<header>
 									<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>

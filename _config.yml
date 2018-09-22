@@ -19,6 +19,9 @@ collections:
   for_medlemmar:
     permalink: /:collection/:name
     output: true
+  om_foreningen:
+    permalink: /:collection/:name
+    output: true
 
 # Jekyll
 permalink:          /blog/:title/
