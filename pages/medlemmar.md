@@ -10,10 +10,12 @@ sitemap:
 Här finner du information för medlemmar i föreningen, klicka på länkarna nedan för mer information
 
 {% for post in site.pages %}
-{% assign author = site.data.authors[post.author] %}
-<a href="{{ post.url }}">{{ post.title }}</a></h4>
+<p>
+<a href="{{ post.url }}">{{ post.title }}
+</a>
+</h4>
 {{ post.content | strip_newlines | truncate: 180 }}
-</li>
+</p>
 {% endfor %}
 
 # Medlemskap
