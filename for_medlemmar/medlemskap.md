@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Medlemskap
-permalink: /medlemmar/medlemskap
 sitemap:
     priority: 0.7
     lastmod: 2018-09-22

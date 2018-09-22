@@ -15,6 +15,11 @@ defaults:
     layout: post
     author:
 
+collections:
+  - for_medlemmar
+    permalink: /:collection/:name
+
+
 # Jekyll
 permalink:          /blog/:title/
 markdown:           kramdown
