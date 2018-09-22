@@ -2,6 +2,10 @@
 layout: page
 title: För Medlemmar
 permalink: /medlemmar
+sitemap:
+    priority: 0.7
+    lastmod: 2018-09-22
+    changefreq: weekly
 ---
 Här finner du information för medlemmar i föreningen, klicka på länkarna nedan för mer information
 
