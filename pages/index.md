@@ -5,6 +5,6 @@ description: Every great website starts with a great homepage. The homepage tell
 sitemap:
     priority: 1.0
     lastmod: 2017-11-02
-		changefreq: weekly
+	changefreq: weekly
 permalink: /
 ---
