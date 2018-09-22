@@ -1,7 +1,7 @@
 ---
 layout: collection
 collection: styrelse_och_stadgar
-title: För Medlemmar
+title: Styrelse och stadgar
 subtitle: 
 permalink: /styrelse_och_stadgar
 sitemap:
