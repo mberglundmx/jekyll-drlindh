@@ -16,7 +16,7 @@ defaults:
     author:
 
 collections:
-  - for_medlemmar
+  for_medlemmar:
     permalink: /:collection/:name
 
 
