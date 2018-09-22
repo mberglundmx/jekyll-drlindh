@@ -13,14 +13,6 @@ Här finner du information för medlemmar i föreningen, klicka på länkarna ne
 {% assign author = site.data.authors[post.author] %}
     <li>
     <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
-    <time datetime="{{ post.date }}">
-        <small>
-        <strong>{{ post.date | date_to_string }}</strong>
-        {% if author %}
-            by {{ author.name }}
-        {% endif %}
-        </small>
-    </time>
     {{ post.excerpt | strip_newlines | truncate: 180 }}
     </li>
 {% endfor %}
