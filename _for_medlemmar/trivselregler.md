@@ -2,8 +2,6 @@
 layout: page
 title: Trivselregler
 ---
-## Allmänna trivselregler
-
 Våra trivselregler finns för allas trevnad!
 
 ## Ljudnivå
