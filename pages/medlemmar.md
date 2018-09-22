@@ -17,7 +17,7 @@ Här finner du information för medlemmar i föreningen, klicka på länkarna ne
 </a>
 </h4>
 
-{{ post.excerpt | strip_newlines | truncate: 180 }}
+{{ post.content | strip_newlines | strip_html | truncate: 180 }}
 </p>
 <a href="{{ post.url | absolute_url }}" class="button">Läs mer</a></li>
 
