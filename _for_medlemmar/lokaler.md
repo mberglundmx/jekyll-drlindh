@@ -34,7 +34,7 @@ För att få tillgång till gymmet lämna namn och det gamla lägenhetsnumret  v
 * Föreningen: drlindh@gmail.com
 * Gym-ansvarig: kentasp37@gmail.com
 
-Fler bilder från gymmet.
+[Fler bilder från gymmet.](/gymmet)
 
 ## Gästlägenheten
 
@@ -47,7 +47,7 @@ Avgiften för gästlägenheten är 200 kr per dygn.
 
 Lägenheten får endast hyras av föreningens medlemmar och är tänkt som tillfällig övernattning för gäster till boende inom bostadsrättsföreningen. Den som hyr gästlägenheten ska ha med sig lakan och örngott (alt sovpåse ) och handdukar. Tvål och schampo finns inte i lägenheten.
 
-Information om gästlagenheten
+[Information om gästlagenheten](/gastlagenheten)
 
 ## Tvättstugor
 
