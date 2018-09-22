@@ -1,6 +1,8 @@
 <ul class="links">
   <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">Theme Home</a></li>
-  <li class="{% if page.url contains '/about/' %} active {% endif %}"><a href="{{ "/about/" | absolute_url }}">About</a></li>
-  <li class="{% if page.url contains '/blog/' %} active {% endif %}"><a href="{{ "/blog/" | absolute_url }}">Blog</a></li>
-  <li class="{% if page.url contains '/elements/' %} active {% endif %}"><a href="{{ "/elements/" | absolute_url }}">Elements Reference</a></li>
+  <li class="{% if page.url contains '/for_medlemmar/' %} active {% endif %}"><a href="{{ "/for_medlemmar/" | absolute_url }}">För medlemmar</a></li>
+  <li class="{% if page.url contains '/om_foreningen/' %} active {% endif %}"><a href="{{ "/om_foreningen/" | absolute_url }}">Om föreningen</a></li>
+  <li class="{% if page.url contains '/styrelse_och_stadgar/' %} active {% endif %}"><a href="{{ "/styrelse_och_stadgar/" | absolute_url }}">Styrelse och stadgar</a></li>
+  <li class="{% if page.url contains '/pagaende_projekt/' %} active {% endif %}"><a href="{{ "/pagaende_projekt/" | absolute_url }}">Pågående projekt</a></li>
+  <li class="{% if page.url contains '/kontakt/' %} active {% endif %}"><a href="{{ "/kontakt/" | absolute_url }}">Kontakt</a></li>
 </ul>
