@@ -5,7 +5,7 @@ description: Having a massive list of every element of a theme is useful for qui
 sitemap:
     priority: 0.7
     lastmod: 2017-11-02
-	changefreq: weekly
+    changefreq: weekly
 permalink: /elements
 ---
 Elements
