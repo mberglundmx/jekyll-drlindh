@@ -47,7 +47,7 @@ Avgiften för gästlägenheten är 200 kr per dygn.
 
 Lägenheten får endast hyras av föreningens medlemmar och är tänkt som tillfällig övernattning för gäster till boende inom bostadsrättsföreningen. Den som hyr gästlägenheten ska ha med sig lakan och örngott (alt sovpåse ) och handdukar. Tvål och schampo finns inte i lägenheten.
 
-[Information om gästlagenheten](/gastlagenheten)
+[Information om gästlagenheten](/assets/img/Information_om-_gastlagenhet_o_bastu2017.pdf)
 
 ## Tvättstugor
 
