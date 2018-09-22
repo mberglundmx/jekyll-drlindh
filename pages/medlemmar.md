@@ -10,6 +10,7 @@ sitemap:
 Här finner du information för medlemmar i föreningen, klicka på länkarna nedan för mer information
 
 {% for post in site.pages %}
+{% if post.url contains '/medlemmar/'}
 <p>
 <h4>
 <a href="{{ post.url }}">
@@ -20,7 +21,7 @@ Här finner du information för medlemmar i föreningen, klicka på länkarna ne
 {{ post.content | strip_newlines | strip_html | truncate: 180 }}
 </p>
 <a href="{{ post.url | absolute_url }}" class="button">Läs mer</a></li>
-
+{% endif %}
 {% endfor %}
 
 # Medlemskap
