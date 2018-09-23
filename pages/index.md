@@ -1,9 +1,6 @@
 ---
 layout: index
-title: BRF DOktor Lindh
-sitemap:
-    priority: 1.0
-    lastmod: 2017-11-02
-    changefreq: weekly
+title: BRF Doktor Lindh
 permalink: /
 ---
+Här kan du läsa mer information om vår Bostadsrättsförening, klicka på menyerna ovan.
