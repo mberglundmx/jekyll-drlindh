@@ -55,8 +55,7 @@ sass:
 #github:             default
 
 # personal
-location:           Doktor Lindhs gata 4
-phone:              ---
+location:           Brf Dr. Lindh<br>Dr. Lindhs gata 3<br>413 25 Göteborg
 email:              drlindh@gmail.com
 
 # Gems
