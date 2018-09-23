@@ -24,7 +24,7 @@ Ange Brf-nummer samt nummer enligt skatteverkets regler, e-postadress samt önsk
 
 ## Gymmet
 
-![null](/assets/img/uploads/2012-07-15_spegelbild-rev.gif){:class="left"}
+![null](/assets/img/uploads/2012-07-15_spegelbild-rev.gif){:class="image left"}
 
 I hus 1:s källare, ingång norra gaveln, har föreningen ett gym för bostadsrättsinnehavarna.
 För att få tillgång till gymmet lämna namn och det gamla lägenhetsnumret  via mail till drlindh@gmail.com eller kontakta styrelsen med ett brev i brevlådan i Hus 3 entré. Det är en symbolisk månads avgift, 20 kr/lgh, för dem som nyttjar gymmet bl.a. för att täcka städkostnader. Avgiften tas ut i efterhand via hyresavin.
