@@ -15,7 +15,7 @@ Vi som bodde i husen önskade en uppfräschning/reparation av dem, men inte någ
 
 Sommaren 1991 – innan någon reparation eller ombyggnad påbörjats – erbjöd Bostadsbolaget de boende att köpa fastigheterna. Fr.o.m. den 1 februari 1992 blev husen på Dr. Lindhs gata en bostadsrättsförening och samtidigt påbörjades reparationerna. Dessa gjordes i enlighet med de boendes önskemål och innebar en upprustning av husen med bibehållen lägenhetsstorlek. Dessutom behövde vi inte flytta under reparationsarbetet.
 
-Doktor Lindhs Gata
+## Doktor Lindhs Gata
 Vår gata är uppkallad efter Alrik Lindh, 1844 – 98, överkirurg vid Sahlgrenska sjukhuset. Under Lindhs tid växte den moderna kirurgin fram och han införde snabbt nyheterna på sjukhuset där han var överkirurg från 1882 fram till sin död. Han var en mycket populär läkare som kunde ta folk på ett förtroendeingivande, personligt och skämtsamt sätt.Doktor Lindh var ledamot av hälsovårdsnämnden och tog del i utredningen angående det nya Sahlgrenska vid Änggården. 1891 inrättades på hans initiativ ett konvalescenthem inom landeriet Götaberg. Denne man var vidare den förste ordföranden i lokalavdelningen av Svenska Likbränningsföreningen.
 
 Doktor Lindhs Gata fick sitt namn 1958. Till minne av Alrik Lindh finns även en pensionsfond avsedd för sjuksköterskor. Flertalet av Guldhedens ”doktorsgator” är namngivna 1949 liksom våra tre ”systergator”. I förslagsarbetet deltog professor Sven Johansson, som avled 1959.
