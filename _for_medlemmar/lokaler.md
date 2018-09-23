@@ -38,7 +38,7 @@ För att få tillgång till gymmet lämna namn och det gamla lägenhetsnumret  v
 
 ## Gästlägenheten
 
-![](/assets/img/uploads/gastlgh.jpg)
+![](/assets/img/uploads/gastlgh.jpg){:class="image left"}
 
 Vår gästlägenhet är enkelt inredd och försedd med två sängar, täcken, kuddar och filtar (allt i syntetmaterial). I gästlägenheten finns toa, dusch och bastu. Det finns inga möjligheter att laga mat eller att brygga kaffe.
 
