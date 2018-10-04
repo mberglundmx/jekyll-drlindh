@@ -4,8 +4,6 @@ title: Att hyra ut i andra hand
 ---
 Föreningen tillämpar ett strikt regelverk då det gäller andrahandsuthyrning av bostadsrätter. Sådan uthyrning skall alltid godkännas av styrelsen, och är tillåten under max ett (1) år om godtagbara skäl kan anges. Reglerna finns samlade på ett dokument.
 
-hj
-
 Uthyrning av lägenheten i andra hand utan styrelsens medgivande kan medföra att nyttjanderätten till lägenheten förverkas.
 Vid andrahandsuthyrning av bostadsrätt skall ev förhyrd P-plats och förhyrt, extra, nätförråd återlämnas till föreningen.
 
