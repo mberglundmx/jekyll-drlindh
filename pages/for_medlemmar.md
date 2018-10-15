@@ -6,10 +6,10 @@ subtitle: >-
   vill bli medlem.
 permalink: /for_medlemmar
 ---
-Detta är body text
+Detta är bodytext
 
 Detta är H1
 
 Detta är H2
 
-Här är mera body text
+Här är mera bodytext
