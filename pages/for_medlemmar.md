@@ -6,4 +6,10 @@ subtitle: >-
   vill bli medlem.
 permalink: /for_medlemmar
 ---
-Hur stor blir den text som skrivs i body
+Detta är body text
+
+Detta är H1
+
+Detta är H2
+
+Här är mera body text
