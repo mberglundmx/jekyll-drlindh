@@ -8,8 +8,8 @@ permalink: /for_medlemmar
 ---
 Detta är bodytext
 
-Detta är H1
+# Detta är H1
 
-Detta är H2
+## Detta är H2
 
 Här är mera bodytext
