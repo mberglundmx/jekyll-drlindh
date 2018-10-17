@@ -61,7 +61,6 @@ email:              drlindh@gmail.com
 
 # Gems
 gems:
-  - jekyll-mentions
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-gist
