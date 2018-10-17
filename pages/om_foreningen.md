@@ -1,13 +1,8 @@
 ---
-layout: collection
-collection: om_foreningen
+layout: archive
 title: Om föreningen
 subtitle: 
 permalink: /om_foreningen
-sitemap:
-    priority: 0.7
-    lastmod: 2018-09-22
-    changefreq: weekly
 ---
 Bostadsrättsföreningen Doktor Lindh registrerades 24 oktober 1991. Föreningens nuvarande ekonomiska plan upprättades den 6 augusti 1997 och nuvarande stadgar (se nedan) registrerades 2010-11-30 hos Bolagsverket.
 
@@ -22,3 +17,9 @@ Dr. Lindhs gata 3; GÖTEBORG GULDHEDEN 68:1
 Dr. Lindhs gata 1; GÖTEBORG GULDHEDEN 68:2
 
 Föreningens organisationsnummer: 716 444 97 58
+
+<div class="tiles">
+{% for post in site.[page.collection] %}
+	{% include post-grid.html %}
+{% endfor %}
+</div><!-- /.tiles -->
