@@ -2,6 +2,7 @@
 layout: post
 title: Nytt nummer av Lindbladet – april 2018
 date: '2018-04-25'
+teaser: /images/uploads/lindblad (liten).png
 ---
 Nu finns senaste numret av Lindbladet också digitalt:
 
