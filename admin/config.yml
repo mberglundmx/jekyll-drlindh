@@ -47,9 +47,9 @@ collections: # A list of collections the CMS should be able to edit
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
       - {label: "Liten bild", name: "teaser", widget: "image", default: "400x250.png"}
       - {label: "Stor bild (valfritt)", name: "feature", widget: "image", required: false}
-      - {label: "Body", name: "body", widget: "markdown", required: false}
   - name: "om_foreningen"
     label: "Om föreningen"
     folder: "_om_foreningen"
@@ -59,9 +59,9 @@ collections: # A list of collections the CMS should be able to edit
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
       - {label: "Liten bild", name: "teaser", widget: "image", default: "400x250.png"}
       - {label: "Stor bild (valfritt)", name: "feature", widget: "image", required: false}
-      - {label: "Body", name: "body", widget: "markdown", required: false}
   - name: "styrelse_och_stadgar"
     label: "Styrelse och stadgar"
     folder: "_styrelse_och_stadgar"
@@ -71,9 +71,9 @@ collections: # A list of collections the CMS should be able to edit
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
       - {label: "Liten bild", name: "teaser", widget: "image", default: "400x250.png"}
       - {label: "Stor bild (valfritt)", name: "feature", widget: "image", required: false}
-      - {label: "Body", name: "body", widget: "markdown", required: false}
   - name: "pagaende_projekt"
     label: "Pågående projekt"
     folder: "_pagaende_projekt"
@@ -83,6 +83,6 @@ collections: # A list of collections the CMS should be able to edit
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
       - {label: "Liten bild", name: "teaser", widget: "image", default: "400x250.png"}
       - {label: "Stor bild (valfritt)", name: "feature", widget: "image", required: false}
-      - {label: "Body", name: "body", widget: "markdown", required: false}
