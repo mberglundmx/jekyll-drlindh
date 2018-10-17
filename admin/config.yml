@@ -5,7 +5,7 @@ backend:
   repo: drlindh/www # Path to your GitHub repository
   branch: master # Branch to update (master by default)
 
-media_folder: "assets/img/uploads" # Folder where user uploaded files should go
+media_folder: "images/uploads" # Folder where user uploaded files should go
 
 publish_mode: editorial_workflow # Enable drafts
 
@@ -19,10 +19,11 @@ collections: # A list of collections the CMS should be able to edit
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields: # The fields each document in this collection have
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Liten bild", name: "teaser", widget: "image", default: "400x250.png"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Publish Date", name: "date", widget: "date"}
+      - {label: "Stor bild (valfritt)", name: "feature", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown", required: false}
-      - {label: "Liten bild", name: "teaser", widget: "image", default: "400x250.png", tagname: "img"}
     # PAGES
   - name: "page"
     label: "Huvudsidor"
