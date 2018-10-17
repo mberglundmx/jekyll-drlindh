@@ -1,5 +1,6 @@
 ---
-layout: archive
+layout: collection
+collection: om_foreningen
 title: Om föreningen
 subtitle: 
 permalink: /om_foreningen
@@ -18,8 +19,4 @@ Dr. Lindhs gata 1; GÖTEBORG GULDHEDEN 68:2
 
 Föreningens organisationsnummer: 716 444 97 58
 
-<div class="tiles">
-{% for post in site.[page.collection] %}
-	{% include post-grid.html %}
-{% endfor %}
-</div><!-- /.tiles -->
+
