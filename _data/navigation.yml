@@ -1,0 +1,18 @@
+# Site navigation links
+
+- title: Medlemmar
+  url: /for_medlemmar/
+  excerpt: Information för våra medlemmar
+  image:
+- title: Föreningen
+  url: /om_foreningen/
+  excerpt: Om vår bostadsrättsföreninge, historik samt ekonomisk förvaltning
+  image:
+- title: Styrelse och stadgar
+  url: /styrelse_och_stadgar/
+  excerpt: Stadgar, årsredovisningar m.m.
+  image:
+- title: Projekt
+  url: /pagaende_projekt/
+  excerpt: Pågående och historiska projekt
+  image:

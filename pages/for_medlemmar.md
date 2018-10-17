@@ -1,5 +1,6 @@
 ---
 layout: collection
+collection: for_medlemmar
 title: För Medlemmar
 subtitle: >-
   Här finns information för dig som är är medlem i bostadsrättsföreningen eller
