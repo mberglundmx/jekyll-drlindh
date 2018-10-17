@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Tvättstugor
+teaser: /images/uploads/img_6174.jpg
 ---
 I varje hus finns tvättstuga. 
 
