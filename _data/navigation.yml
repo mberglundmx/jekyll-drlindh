@@ -1,6 +1,18 @@
 # Site navigation links
 
-- title:
-  url:
+- title: För medlemmar
+  url: /for_medlemmar/
+  excerpt:
+  image:
+- title: Om föreningen
+  url: /om_foreningen/
+  excerpt:
+  image:
+- title: Styrelse och stadgar
+  url: /styrelse_och_stadgar/
+  excerpt:
+  image:
+- title: Pågående projekt
+  url: /pagaende_projekt/
   excerpt:
   image:
