@@ -64,18 +64,6 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Body", name: "body", widget: "markdown", required: false}
       - {label: "Liten bild (rek storlek: 400x250)", name: "teaser", widget: "image", default: "400x250.png"}
       - {label: "Stor bild (valfritt, rek storlek: 1024x256)", name: "feature", widget: "image", required: false}
-  - name: "styrelse_och_stadgar"
-    label: "Styrelse och stadgar"
-    folder: "_styrelse_och_stadgar"
-    sort: "title:asc"
-    create: true
-    slug: "{{slug}}"
-    fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
-      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
-      - {label: "Body", name: "body", widget: "markdown", required: false}
-      - {label: "Liten  (rek storlek: 400x250)", name: "teaser", widget: "image", default: "400x250.png"}
-      - {label: "Stor bild (valfritt, rek storlek: 1024x256)", name: "feature", widget: "image", required: false}
   - name: "pagaende_projekt"
     label: "Pågående projekt"
     folder: "_pagaende_projekt"
