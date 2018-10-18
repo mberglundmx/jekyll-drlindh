@@ -1,13 +1,6 @@
 ---
-layout: collection
-collection: styrelse_och_stadgar
+layout: page
 title: Styrelse och stadgar
-subtitle: 
-permalink: /styrelse_och_stadgar
-sitemap:
-    priority: 0.7
-    lastmod: 2018-09-22
-    changefreq: weekly
 ---
 Styrelsen verksamhetsåret 2017-2018
 Ordförande	Christer Norén	Hus 3	Kontakt
