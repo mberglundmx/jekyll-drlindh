@@ -1,7 +1,8 @@
 ---
 layout: archive
+title: BRF Doktor Lindh
 permalink: /
-title: "BRF Doktor Lindh"
+feature: /images/uploads/img_6220 (feature).jpg
 ---
 
 Här kan du läsa mer information om vår Bostadsrättsförening, klicka på menyerna ovan, eller läs senaste nyheterna nedan.
