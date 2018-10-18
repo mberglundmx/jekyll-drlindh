@@ -26,6 +26,9 @@ collections:
   pagaende_projekt:
     permalink: /:collection/:name
     output: true
+  kontakt:
+    permalink: /:collection/:name
+    output: true
   
 # Jekyll
 permalink:          /blog/:title/
