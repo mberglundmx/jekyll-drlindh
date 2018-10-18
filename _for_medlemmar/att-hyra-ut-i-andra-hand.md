@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Att hyra ut i andra hand
+teaser: /images/uploads/img_6149 (liten).jpg
+feature: ''
 ---
 Föreningen tillämpar ett strikt regelverk då det gäller andrahandsuthyrning av bostadsrätter. Sådan uthyrning skall alltid godkännas av styrelsen, och är tillåten under max ett (1) år om godtagbara skäl kan anges. Reglerna finns samlade på ett dokument.
 
@@ -13,4 +15,4 @@ Styrelsen måste meddelas rörande önskemålet om andrahandsuthyrning i så god
 
 Andrahandsuthyrning av hyresrätter är inte tillåtet (gäller även SGS studentrum)!
 
-Policy för andrahandsuthyrning
+[Policy för andrahandsuthyrning](/images/uploads/policy.pdf)
