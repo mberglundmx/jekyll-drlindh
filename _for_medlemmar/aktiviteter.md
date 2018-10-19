@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Aktiviteter
+teaser: /images/uploads/img_6155 (liten).jpg
 ---
 ## Vår- och höststädning
 Varje vår och höst är det gemensam städning av både inner- och yttermiljö. Som medlem i föreningen förväntas du ställa upp på denna trevliga tillställning som avslutas med förtäring i vår gemensamma lokal.
