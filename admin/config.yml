@@ -38,6 +38,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Permalink", name: "permalink", widget: "hidden"}
       - {label: "Body", name: "body", widget: "markdown", required: false}
       - {label: "Stor bild (valfritt, rek storlek: 1024x256)", name: "feature", widget: "image", required: false}
+      - {label: "Collection", name: "collection", widget: "hidden"}
 
     # Medlemsinfo
   - name: "for_medlemmar"

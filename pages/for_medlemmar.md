@@ -6,6 +6,7 @@ subtitle: >-
   vill bli medlem.
 permalink: /for_medlemmar
 feature: /images/uploads/img_6136 (feature).jpg
+collection: for_medlemmar
 ---
 Detta är bodytext
 
