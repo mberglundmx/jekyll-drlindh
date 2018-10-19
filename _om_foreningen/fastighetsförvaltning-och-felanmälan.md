@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Fastighetsförvaltning och felanmälan
+teaser: /images/uploads/img_6138 (liten).jpg
 ---
 Teknisk fastighetsförvaltning sköts av Svensk markservice (SMS).
 Fastighetsskötare är Magnus ”Manne” Rosin och Pierre Meths.
