@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Sophantering
+teaser: /images/uploads/img_6133 (liten).jpg
 ---
 ## Källsortering i soprummen
 I alla soprum är det möjligt att källsortera, här kan du slänga
