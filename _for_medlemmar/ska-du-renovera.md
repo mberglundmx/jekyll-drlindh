@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Ska du renovera?
+teaser: /images/uploads/dr-lindh-testbild (liten).png
 ---
 Tänk på det här innan du sätter i gång!
 
