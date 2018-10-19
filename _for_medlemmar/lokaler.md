@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Lokaler
+teaser: /images/uploads/gastlgh (liten).jpg
 ---
 ## Samlingslokalen
 
