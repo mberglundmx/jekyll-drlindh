@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Trivselregler
+teaser: /images/uploads/img_6149 (liten).jpg
 ---
 Våra trivselregler finns för allas trevnad!
 
