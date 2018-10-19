@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Ekonomisk förvaltning
+teaser: /images/uploads/img_3023 (liten).jpg
 ---
 Ekonomisk förvaltning sköts av Revisorsringen sedan januari 2007.
 Följande uppdrag sköts av Revisorsringen
