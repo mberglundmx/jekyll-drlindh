@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Parkering och förråd
+teaser: /images/uploads/img_6150 (liten).jpg
 ---
 ## Garage och P-däck
 All uthyrning och uppsägning av garage/parkeringsplatser sköts av Revisorsringen. Då det gäller P-platser på P-däcket och i garaget kan man mot en liten merkostnad erhålla plats med uttag för elektrisk motorvärmare.
