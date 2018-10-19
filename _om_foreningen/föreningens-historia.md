@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Föreningens historia
+teaser: /images/uploads/DSCF3495 (liten).jpg
+feature: /images/uploads/DSCF3495 (feature).jpg
 ---
 ## Kort bakgrund till föreningens bildande
 De fyra husen på Dr. Lindhs gata uppfördes under slutet av 50-talet och tidigt 60-tal och de första lägenheterna var inflyttningsklara i början av 1960. Husens ägare var Göteborgs Bostadsbolag, och via ett avtal med sjukvårdsförvaltningen uppläts bostäderna enbart till personer som var anställda inom sjukvården i Göteborg. Lägenheterna var alltså en sorts tjänstebostäder och de boende var s.k. andrahandshyresgäster. Förstahandshyresgäst var sjukvårdsförvaltningen.
