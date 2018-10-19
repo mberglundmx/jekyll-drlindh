@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Styrelse och stadgar
+teaser: /images/uploads/dr-lind-sidhuvud (liten).png
 ---
 Styrelsen verksamhetsåret 2017-2018
 Ordförande	Christer Norén	Hus 3	Kontakt
