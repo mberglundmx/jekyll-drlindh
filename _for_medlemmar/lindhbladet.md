@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Lindhbladet
+teaser: /images/uploads/lindblad (liten).png
 ---
 Bostadsrättsföreningens informationsblad som utkommer 2-3 ggr/år med information från styrelsen samt inlägg av medlemmar. Vårnumret brukar komma i april och höstnumret i oktober.
 
