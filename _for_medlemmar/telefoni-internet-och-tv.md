@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 'Telefoni, internet och TV'
+teaser: /images/uploads/DSCF3488 (liten).jpg
 ---
 Föreningen har ett gemensamt avtal med Bredbandsbolaget för FiberTV, internet och IP-telefoni.
 
