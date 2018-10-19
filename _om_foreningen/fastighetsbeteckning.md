@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Fastighetsbeteckning
+teaser: /images/uploads/img_6220 (liten).jpg
 ---
 Fastighetsbeteckningen för husen är
 - Dr. Lindhs gata 6; GÖTEBORG GULDHEDEN 67:1
