@@ -58,6 +58,7 @@ Uppgifter för tillfällig parkering
 <textarea id="ovrigt">
 
 </textarea>
+
 </form>
 </fieldset>
 
