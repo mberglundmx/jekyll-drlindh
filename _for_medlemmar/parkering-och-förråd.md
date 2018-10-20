@@ -32,25 +32,27 @@ Uppgifter för tillfällig parkering
 <label for="efternamn">Efternamn medlem:</label>
 <input type="text" id="efternamn">
 
-<label for="lagenhetsnummer">Lägenhetsnummer Gammalt \*:</label>
+<label for="lagenhetsnummer">Lägenhetsnummer Gammalt *:</label>
 <input type="text" id="lagenhetsnummer">
-<label for="lagenhetsnummer_nytt">Lägenhetsnummer Nytt \*:</label>
+<label for="lagenhetsnummer_nytt">Lägenhetsnummer Nytt *:</label>
 <input type="text" id="lagenhetsnummer_nytt">
 <label for="husnr">Hus nr:</label>
-<input type="text" id"husnr">
-<label for="telefon">Telefon \*:</label>
+<input type="text" id="husnr">
+<label for="telefon">Telefon *:</label>
 <input type="text" id="telefon">
-<label for="epost">Email \*:</label>
+<label for="epost">Email *:</label>
 <input type="text" id="epost">
-### Tidsperiod för tillfällig parkering
-<label for="fran">Från datum \*:</label>
+
+  ### Tidsperiod för tillfällig parkering
+
+<label for="fran">Från datum *:</label>
 <input type="text" id="fran">
-<label for="till">Till datum \*:</label>
+<label for="till">Till datum *:</label>
 <input type="text" id="till">
 
-<label for="antal_dygn">Antal dygn \*:</label>
+<label for="antal_dygn">Antal dygn *:</label>
 <input type="text" id="antal_dygn">
-<label for="regnr">Bilens registreringsnummer \*:</label>
+<label for="regnr">Bilens registreringsnummer *:</label>
 <input type="text" id="regnr">
 <label for="ovrigt">Övrig info:</label>
 <textarea id="ovrigt">
