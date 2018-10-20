@@ -22,9 +22,9 @@ Föreningen har 19 besöksplatser i anslutning till P-däck och infart vid undre
 
 Avgift betalas i P-automaten på P-däck, och är mån-fre kl 8-18 3 kr/tim, övrig tid 2 kr/tim. Det är möjligt att betala med SMS, avgiften är densamma som man betalar med mynt.
 
-Uppgifter för tillfällig parkering
-
 <fieldset>
+<h3>Ansökan om tillfälligt parkeringstillstånd</h3>
+
 <form data-netlify="true" data-netlify-honeypot="bot-field">
 <label>Förnamn medlem *:</label>
 <input type="text" name="fornamn">
@@ -43,7 +43,7 @@ Uppgifter för tillfällig parkering
 <label for="epost">Email *:</label>
 <input type="text" id="epost">
 
-<h3>Tidsperiod för tillfällig parkering</h3>
+<h4>Tidsperiod för tillfällig parkering</h4>
 
 <label for="fran">Från datum *:</label>
 <input type="text" id="fran">
