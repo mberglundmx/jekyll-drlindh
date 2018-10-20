@@ -27,10 +27,10 @@ Uppgifter för tillfällig parkering
 <fieldset>
 <form data-netlify=true data-netlify-honeypot="bot-field">
 <label>Förnamn medlem \*:</label>
-<input type=text name=fornamn>
+<input type="text" name="fornamn">
 
-<label for=efternamn>Efternamn medlem:</label>
-<input type=text id=efternamn>
+<label for="efternamn">Efternamn medlem:</label>
+<input type="text" id="efternamn">
 
 <label for=lagenhetsnummer>Lägenhetsnummer Gammalt \*:</label>
 <input type=text id=lagenhetsnummer>
