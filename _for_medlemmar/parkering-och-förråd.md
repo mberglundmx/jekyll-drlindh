@@ -24,35 +24,40 @@ Avgift betalas i P-automaten på P-däck, och är mån-fre kl 8-18 3 kr/tim, öv
 
 Uppgifter för tillfällig parkering
 
+<fieldset>
 <form data-netlify=true data-netlify-honeypot="bot-field">
 <label>Förnamn medlem *:</label>
 <input type=text name=fornamn>
-<label>Efternamn medlem:</label>
-<input type=text name=efternamn>
-<label>Lägenhetsnummer Gammalt *:</label>
-<input type=text name=lagenhetsnummer>
-<label>Lägenhetsnummer Nytt *:</label>
-<input type=text name=lagenhetsnummer_nytt>
-<label>Hus nr:</label>
-<input type=text name=husnr>
-<label>Telefon *:</label>
-<input type=text name=telefon>
-<label>Email *:</label>
-<input type=text name=epost>
+
+<label for=efternamn>Efternamn medlem:</label>
+<input type=text id=efternamn>
+
+<label for=lagenhetsnummer>Lägenhetsnummer Gammalt *:</label>
+<input type=text id=lagenhetsnummer>
+<label for=lagenhetsnummer_nytt>Lägenhetsnummer Nytt *:</label>
+<input type=text id=lagenhetsnummer_nytt>
+<label for=husnr>Hus nr:</label>
+<input type=text id=husnr>
+<label for=telefon>Telefon *:</label>
+<input type=text id=telefon>
+<label for=epost>Email *:</label>
+<input type=text id=epost>
 ### Tidsperiod för tillfällig parkering
-<label>Från datum *:</label>
-<input type=text name=fran>
-<label>Till datum *:</label>
-<input type=text name=till>
-<label>Antal dygn *:</label>
-<input type=text name=antal_dygn>
-<label>Bilens registreringsnummer *:</label>
-<input type=text name=regnr>
-<label>Övrig info:</label>
-<textarea>
+<label for=fran>Från datum *:</label>
+<input type=text id=fran>
+<label for=till>Till datum *:</label>
+<input type=text id=till>
+
+<label for=antal_dygn>Antal dygn *:</label>
+<input type=text id=antal_dygn>
+<label for=regnr>Bilens registreringsnummer *:</label>
+<input type=text id=regnr>
+<label for=ovrigt>Övrig info:</label>
+<textarea id=ovrigt>
 
 </textarea>
 </form>
+</fieldset>
 
 ## Parkering för rörelsehindrade
 Fordon med speciellt tillstånd för rörelsehindrade får parkera i 3 timmar på gator och torg som förvaltas av kommunen. Detta gäller också på gator där parkering enligt en lokal trafikföreskrift är förbjuden eller tillåten under kortare tid än 3 timmar som på Dr Lindhs gata.
