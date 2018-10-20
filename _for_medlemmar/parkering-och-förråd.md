@@ -43,7 +43,7 @@ Uppgifter för tillfällig parkering
 <label for="epost">Email *:</label>
 <input type="text" id="epost">
 
-  ### Tidsperiod för tillfällig parkering
+<h3>Tidsperiod för tillfällig parkering</h3>
 
 <label for="fran">Från datum *:</label>
 <input type="text" id="fran">
