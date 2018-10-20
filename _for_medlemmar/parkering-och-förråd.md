@@ -29,7 +29,7 @@ Uppgifter för tillfällig parkering
 <label>Förnamn medlem *:</label>
 <input type="text" name="fornamn">
 
-<label for="efternamn">Efternamn medlem:</label>
+<label for="efternamn">Efternamn medlem *:</label>
 <input type="text" id="efternamn">
 
 <label for="lagenhetsnummer">Lägenhetsnummer Gammalt *:</label>
