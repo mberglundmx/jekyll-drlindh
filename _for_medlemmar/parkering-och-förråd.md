@@ -58,7 +58,7 @@ Uppgifter för tillfällig parkering
 <textarea id="ovrigt">
 
 </textarea>
-
+<input type="submit" id="Skicka in">
 </form>
 </fieldset>
 
