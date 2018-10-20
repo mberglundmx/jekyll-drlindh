@@ -25,7 +25,7 @@ Avgift betalas i P-automaten på P-däck, och är mån-fre kl 8-18 3 kr/tim, öv
 <fieldset>
 <h3>Ansökan om tillfälligt parkeringstillstånd</h3>
 
-<form data-netlify="true" data-netlify-honeypot="bot-field">
+<form data-netlify="true" data-netlify-honeypot="bot-field" id=parkeringstillstånd>
 <label>Förnamn medlem *:</label>
 <input type="text" name="fornamn">
 
