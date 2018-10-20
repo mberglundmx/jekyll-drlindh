@@ -25,8 +25,8 @@ Avgift betalas i P-automaten på P-däck, och är mån-fre kl 8-18 3 kr/tim, öv
 Uppgifter för tillfällig parkering
 
 <fieldset>
-<form data-netlify=true data-netlify-honeypot="bot-field">
-<label>Förnamn medlem*:</label>
+<form data-netlify="true" data-netlify-honeypot="bot-field">
+<label>Förnamn medlem *:</label>
 <input type="text" name="fornamn">
 
 <label for="efternamn">Efternamn medlem:</label>
