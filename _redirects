@@ -15,4 +15,4 @@
 #/old-content.html    /shiny-new-content.html
 #/page-1              /page-2                   302
 
-https://nifty-torvalds-6d20b6.netlify.com/* https://beta.drlindh.se/:splat 301!
+# https://nifty-torvalds-6d20b6.netlify.com/* https://beta.drlindh.se/:splat 301!
