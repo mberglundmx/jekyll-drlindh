@@ -68,5 +68,8 @@ gems:
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]
 
+include:
+  - _redirects
+ 
 # set to 'true' to enable Netlify CMS (/admin) in production builds
 netlifycms: true
