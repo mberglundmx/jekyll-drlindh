@@ -8,10 +8,4 @@ permalink: /for_medlemmar
 feature: /images/uploads/img_6136 (feature).jpg
 collection: for_medlemmar
 ---
-Detta är bodytext
 
-# Detta är H1
-
-## Detta är H2
-
-Här är mera bodytext
