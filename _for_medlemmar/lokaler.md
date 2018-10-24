@@ -21,21 +21,7 @@ Lokalen bokas genom att skicka mejl till
 Ange Brf-nummer samt nummer enligt skatteverkets regler, e-postadress samt önskat datum och tid (dag / kväll) när du önskar hyra lokalen.
 
 [Här finns information om gemensamhetslokalen](assets/img/Info_gemensamhetslokal.pdf)
-[Här finns en blankett och reglerna för gemensamhetslokalen!](/assets/img/riktlinjer_gemlokal_ifyllbar_blankett.pdf)
-
-## Gymmet
-
-![null](/assets/img/uploads/2012-07-15_spegelbild-rev.gif){:class="image left"}
-
-I hus 1:s källare, ingång norra gaveln, har föreningen ett gym för bostadsrättsinnehavarna.
-För att få tillgång till gymmet lämna namn och det gamla lägenhetsnumret  via mail till drlindh@gmail.com eller kontakta styrelsen med ett brev i brevlådan i Hus 3 entré. Det är en symbolisk månads avgift, 20 kr/lgh, för dem som nyttjar gymmet bl.a. för att täcka städkostnader. Avgiften tas ut i efterhand via hyresavin.
-
-### Kontakta
-
-* Föreningen: drlindh@gmail.com
-* Gym-ansvarig: kentasp37@gmail.com
-
-[Fler bilder från gymmet.](/gymmet)
+[Här finns en blankett och reglerna för gemensamhetslokalen!](/assets/img/riktlinjer_gemlokal_ifyllbar_blankett.pdf)e
 
 ## Gästlägenheten
 
@@ -49,30 +35,3 @@ Avgiften för gästlägenheten är 200 kr per dygn.
 Lägenheten får endast hyras av föreningens medlemmar och är tänkt som tillfällig övernattning för gäster till boende inom bostadsrättsföreningen. Den som hyr gästlägenheten ska ha med sig lakan och örngott (alt sovpåse ) och handdukar. Tvål och schampo finns inte i lägenheten.
 
 [Information om gästlagenheten](/assets/img/Information_om-_gastlagenhet_o_bastu2017.pdf)
-
-## Tvättstugor
-
-Regler för användning, samt tidbokning, finns anslaget i tvättstugan som är belägen i entréplan i varje hus.
-
-Har ni tappat nycklarna till tvättlåset kan en ny låscylinder med tillhörande nycklar till markeringstavlan beställas och kvitteras ut hos fastighetsskötaren till självkostnadspris.
-
-I Hus 4s Tvättstuga finns en s.k. grovtvättmaskin med tillhörande torkrum, för mattor och större textilier typ tunga överkast. Den är avsedd för samtliga medlemmar och bokas via en almanacka i förrummet till tvättstugan i Hus 4.
-
-## Hobbylokal
-
-En hobbylokal finns i 6:ans bottenvåning. För att få dörr-ID brickan programmerad för entré till hobbylokalen måste en engångsavgift på 100 kr erläggas till fastighetsskötarna.
-Har du några frågor? Kontakta fastighetsskötarna eller styrelsen per e-post eller lägg ett meddelande i föreningens brevlåda i entrén Hus 3.
-
-### Kontakta
-
-* Föreningen: drlindh@gmail.com
-* Fastighetsskötaren: fastighetsskötar@drlindh.se
-
-## Vävstuga
-
-En vävstuga har iordningställts i 1:ans källare (ingång norra gaveln). För att få dörr-ID brickan programmerad samt nycklar för entré till vävstugan, kontakta Kerstin Eurenius, Hus 3, som är kontaktperson för vävstugan. Alternativt genom brev i styrelsens brevlåda i entrén till Hus 3 eller e-post till till styrelsen.
-
-### Kontakta
-
-* Föreningen: drlindh@gmail.com
-* Vävstuge-ansvarig: Kerstin Eurenius
