@@ -27,7 +27,7 @@ Om du någon gång till exempel arrangerar en större fest eller utför något b
 
 ## Gemensamma utrymmen
 
-Entré- och våningsplan är inga lekplatser eller förvaringsutrymmen för cyklar, barnvagnar etc.
+Entré- och våningsplan är inga lekplatser eller förvaringsutrymmen för cyklar, barnvagnar etc. Att förvara saker här utgör en säkehetsriks vid tex brand eller annan akut situation.
 
 ## Husdjur
 
@@ -35,7 +35,7 @@ En lugn och trygg boendemiljö är väsentlig för de boendes trygghet och trivs
 
 Detta innebär t ex att s k kamphundar är förbjudna. Den boende ansvarar också för att besökande gäster uppfyller ovanstående krav.
 
-Det gäller alltså hundar som:
+**Det gäller alltså hundar som**
 
 * har extremt stor kamplust
 * blir lätt retade och biter
