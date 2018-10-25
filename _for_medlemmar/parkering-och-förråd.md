@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Parkering och förråd
+title: Parkering
 teaser: /images/uploads/img_6150 (liten).jpg
 ---
 ## Garage och P-däck
