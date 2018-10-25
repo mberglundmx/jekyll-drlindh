@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Brnadskydd och säkerhet
+title: Brandskydd och säkerhet
 teaser: /images/uploads/img_6205 (liten).jpg
 ---
 Det är viktigt att veta hur du ska agera om det börjar brinna i ett flerbostadshus. Titta på informationen från räddningstjänsten om hur du skyddar dig och dina grannar mot brand.
