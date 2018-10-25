@@ -3,6 +3,8 @@ layout: page
 title: Aktiviteter
 teaser: /images/uploads/img_6155 (liten).jpg
 ---
+I föreningen ordnas flera olika aktiviteter om året, en del anordnas av styrelsen, och andra av våra medlemmar. Nedan är några exempel på sådana aktiviteter.
+
 ## Vår- och höststädning
 
 Varje vår och höst är det gemensam städning av både inner- och yttermiljö. Som medlem i föreningen förväntas du ställa upp på denna trevliga tillställning som avslutas med förtäring i vår gemensamma lokal.
