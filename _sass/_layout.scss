@@ -152,9 +152,6 @@
 		@include fill-parent;
 	}
 	@at-root {
-		.tile {
-			a { text-decoration: none; }
-		}
 		.page-content {
 			@include fill-parent;
 			// larger font for intro paragraph
