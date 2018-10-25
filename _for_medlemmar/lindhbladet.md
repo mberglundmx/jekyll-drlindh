@@ -11,7 +11,7 @@ Om du är intresserad av tidigare Lindhblad än de som ligger här nedan så hö
 
 ## Senaste numret av Lindhbladet
 
-Lindhbladet april 2018
+[Lindhbladet oktober 2018]
 
 ## Tidigare nummer av Lindblandet
 
