@@ -3,8 +3,6 @@ layout: page
 title: Samlingslokalen
 teaser: /images/uploads/gastlgh (liten).jpg
 ---
-## Samlingslokalen
-
 Brf Dr Lindh har en gemensamhetslokal i bottenvåningen på Dr Lindhs gata 3 som medlemmarna kan hyra. I lokalen finns bord och stolar. Om man har konferenssittning får det plats omkring 60 personer.
 Det finns tallrikar, koppar, bestick och glas för omkring 50 personer.
 I vårt lilla café finns mikrovågsugn, kylskåp kokplatta och diskmaskin. Det finns också en kaffebryggare som kan brygga två kannor kaffe samtidigt.
