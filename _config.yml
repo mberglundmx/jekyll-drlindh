@@ -69,7 +69,7 @@ gems:
 # Pagination Settings
 pagination:
   enabled: true
-  per_page: 2
+  per_page: 4
   permalink: '/notiser/:num/'
   title_suffix: ' - page :num'
   limit: 0

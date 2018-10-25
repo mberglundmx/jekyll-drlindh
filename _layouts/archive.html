@@ -18,8 +18,33 @@ layout: default
 		</div>
 		<div class="archive-wrap">
 			<div class="page-content">
-				{{ content }}
+				<p>{{ content }}</p>
 			</div><!-- /.page-content -->
 		</div class="archive-wrap"><!-- /.archive-wrap -->
 	</div><!-- /.wrap -->
 </div><!-- /#main -->
+
+<div class="tiles">
+{% for post in paginator.posts %}
+	{% include post-grid.html %}
+{% endfor %}
+</div><!-- /.tiles -->
+
+<!-- 
+    Showing buttons to move to the next and to the previous list of posts (pager buttons).
+  -->
+  {% if paginator.total_pages > 1 %}
+  <ul class="pager">
+      {% if paginator.previous_page %}
+      <li class="previous">
+          <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Nyare notiser</a>
+      </li>
+      {% endif %}
+      {% if paginator.next_page %}
+      <li class="next">
+          <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Äldre notiser &rarr;</a>
+      </li>
+      {% endif %}
+  </ul>
+  {% endif %}
+
