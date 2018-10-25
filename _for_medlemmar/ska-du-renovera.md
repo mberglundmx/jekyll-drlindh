@@ -3,16 +3,16 @@ layout: page
 title: Ska du renovera?
 teaser: /images/uploads/dr-lindh-testbild (liten).png
 ---
-Tänk på det här innan du sätter i gång!
+## Tänk på det här innan du sätter i gång!
 
-# Tillstånd för ombyggnad och nyinstallation på egen hand
+### Tillstånd för ombyggnad och nyinstallation på egen hand
 
 Du har rätt att efter eget val ändra, bygga om eller installera nyheter i din bostad. Men du måste först ha formellt tillstånd av bostadsrättsföreningens styrelse. Det beror på sådant som brandsäkerhet, fastighetens byggkonstruktion samt det faktum att i ägandet ingår rätten att disponera din bostad men ej ägande i egentlig mening. Det är föreningen som äger själva fastigheten.
 Bygglovsansökan till styrelsen kan Du klicka fram här. Den lämnas i föreningens brevlåda i entrén i Hus 3, alternativt skickas till drlindh@gmail.com (Den kan tyvärr inte fyllas i på nätet).
 
 ## [Ansökan att skicka till styrelsen](/assets/img/2013-02-15_bygglov-brf.pdf)
 
-## VVS-installationer i lägenheten
+### VVS-installationer i lägenheten
 
 Det är viktigt att VVS-installationer genomföres av kvalificerad personal för att undvika skador på byggnader och stammar.
 
@@ -38,10 +38,8 @@ Om man däremot upptäcker att ett vattenrör läcker hos sig själv eller hos n
 
 ## Köksfläkt
 
-Dr. Lindhs bostadsrättsförening accepterar följande alternativ för installation av köksfläkt
+Dr. Lindhs bostadsrättsförening accepterar följande alternativ för installation av köksfläkt. Vid anslutning av fläkt till ventilationskanal skall en stryplåda (typ Electrolux EFRW125, alt EFRA125) monteras efter fläkten. Fläkten kan vara av valfritt fabrikat. Använd en kolfilterfläkt
 
-Vid anslutning av fläkt till ventilationskanal skall en stryplåda (typ Electrolux EFRW125, alt EFRA125) monteras efter fläkten. Fläkten kan vara av valfritt fabrikat.
-Använd en kolfilterfläkt
 Kontakta gärna Stefan Dävermo på Torfors AB för vidare information, tel 031-82 25 00, www.torfors.se
 
 ## Gasspis
