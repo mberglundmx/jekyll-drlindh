@@ -3,7 +3,6 @@
    ========================================================================== */
 
 .tile {
-  a { text-decoration: none; }
 
   @include outer-container;
   margin-bottom: $gutter;

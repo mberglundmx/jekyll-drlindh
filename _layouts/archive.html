@@ -19,18 +19,15 @@ layout: default
 		<div class="archive-wrap">
 			<div class="page-content">
 				<p>{{ content }}</p>
+
+				<div class="tiles">
+					{% for post in paginator.posts %}
+						{% include post-grid.html %}
+					{% endfor %}
+				</div><!-- /.tiles -->
+
 			</div><!-- /.page-content -->
-		</div class="archive-wrap"><!-- /.archive-wrap -->
-	</div><!-- /.wrap -->
-</div><!-- /#main -->
-
-<div class="tiles">
-{% for post in paginator.posts %}
-	{% include post-grid.html %}
-{% endfor %}
-</div><!-- /.tiles -->
-
-<!-- 
+  <!-- 
     Showing buttons to move to the next and to the previous list of posts (pager buttons).
   -->
   {% if paginator.total_pages > 1 %}
@@ -47,4 +44,10 @@ layout: default
       {% endif %}
   </ul>
   {% endif %}
+		</div class="archive-wrap"><!-- /.archive-wrap -->
+	</div><!-- /.wrap -->
+</div><!-- /#main -->
+
+
+
 
