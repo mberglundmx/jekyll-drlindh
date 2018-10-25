@@ -3,7 +3,7 @@ layout: page
 title: Sophantering och källsortering
 teaser: /images/uploads/img_6133 (liten).jpg
 ---
-I alla soprum är det möjligt att källsortera skräp. Här kan du slänga:
+I alla soprum är det möjligt att källsortera skräp. I soprummet kan du slänga:
 
 * Hushållsavfall – brännbart
 * Kompost – bioavfall i speciella påsar
