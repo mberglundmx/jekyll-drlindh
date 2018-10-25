@@ -2,9 +2,8 @@
 layout: page
 title: Gästlägenheten
 teaser: /images/uploads/gastlgh (liten).jpg
+feature: /images/uploads/gastlgh (feature).jpg
 ---
-![](/images/uploads/gastlgh.jpg)
-
 Vår gästlägenhet är enkelt inredd och försedd med två sängar, täcken, kuddar och filtar (allt i syntetmaterial). I gästlägenheten finns toa, dusch och bastu. Det finns inga möjligheter att laga mat eller att brygga kaffe.
 
 Gästlägenheten är belägen på i bottenvåningen på Doktor Lindhs gata 3.
