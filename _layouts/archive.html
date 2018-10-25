@@ -37,12 +37,12 @@ layout: default
   <ul class="pager">
       {% if paginator.previous_page %}
       <li class="previous">
-          <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Nyare notiser</a>
+          <a class=".btn" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Nyare notiser</a>
       </li>
       {% endif %}
       {% if paginator.next_page %}
       <li class="next">
-          <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Äldre notiser &rarr;</a>
+          <a class=".btn" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Äldre notiser &rarr;</a>
       </li>
       {% endif %}
   </ul>
