@@ -11,4 +11,13 @@ Avgiften för gästlägenheten är 200 kr per dygn.
 
 Lägenheten får endast hyras av föreningens medlemmar och är tänkt som tillfällig övernattning för gäster till boende inom bostadsrättsföreningen. Den som hyr gästlägenheten ska ha med sig lakan och örngott (alt sovpåse ) och handdukar. Tvål och schampo finns inte i lägenheten.
 
-[Information om gästlagenheten](/images/uploads/Information_om-_gastlagenhet_o_bastu2017.pdf)
+## Bokning av gästlägenheten
+
+Du bokar lägenheten / bastun genom att kontakta någon av de bokningsansvariga via e-post, Ange incheckningsdag och utcheckningsdag.
+
+* Hans.Ragneskog@gmail.com 
+* patricia.adolfsson@gmail.com
+
+Bokning kan ske tidigast tre månader i förväg och senast 2 dagar innan bokningsdag. En bokning får omfatta max 5 nätter. Det går bara att göra en bokning i taget och en ny bokning är möjlig först när föregående bokning är avverkad. Eventuella undantag kan beviljas av bokningsansvarig beroende av det aktuella bokningsläget.
+
+[Information om gästlagenheten i pdf-format](/images/uploads/Information_om-_gastlagenhet_o_bastu2017.pdf)
