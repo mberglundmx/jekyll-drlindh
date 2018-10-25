@@ -21,7 +21,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Publish Date", name: "date", widget: "date"}
-      - {label: "Liten bild", name: "teaser", widget: "image", default: "400x250.png"}
+      - {label: "Liten bild (rek storlek: 400x250)", name: "teaser", widget: "image", default: "/images/400x250.png"}
       - {label: "Stor bild (valfritt)", name: "feature", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown", required: false}
     # PAGES
@@ -51,7 +51,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Body", name: "body", widget: "markdown", required: false}
-      - {label: "Liten bild (rek storlek: 400x250)", name: "teaser", widget: "image", default: "400x250.png"}
+      - {label: "Liten bild (rek storlek: 400x250)", name: "teaser", widget: "image", default: "/images/400x250.png"}
       - {label: "Stor bild (valfritt, rek storlek: 1024x256)", name: "feature", widget: "image", required: false}
   - name: "om_foreningen"
     label: "Om föreningen"
@@ -63,7 +63,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Body", name: "body", widget: "markdown", required: false}
-      - {label: "Liten bild (rek storlek: 400x250)", name: "teaser", widget: "image", default: "400x250.png"}
+      - {label: "Liten bild (rek storlek: 400x250)", name: "teaser", widget: "image", default: "/images/400x250.png"}
       - {label: "Stor bild (valfritt, rek storlek: 1024x256)", name: "feature", widget: "image", required: false}
   - name: "kontakt"
     label: "Kontaktinformation"
@@ -75,7 +75,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Body", name: "body", widget: "markdown", required: false}
-      - {label: "Liten bild (rek storlek: 400x250)", name: "teaser", widget: "image", default: "400x250.png"}
+      - {label: "Liten bild (rek storlek: 400x250)", name: "teaser", widget: "image", default: "/images/400x250.png"}
       - {label: "Stor bild (valfritt, rek storlek: 1024x256)", name: "feature", widget: "image", required: false}
   - name: "pagaende_projekt"
     label: "Pågående projekt"
@@ -87,5 +87,5 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Body", name: "body", widget: "markdown", required: false}
-      - {label: "Liten bild (rek storlek: 400x250)", name: "teaser", widget: "image", default: "400x250.png"}
+      - {label: "Liten bild (rek storlek: 400x250)", name: "teaser", widget: "image", default: "/images/400x250.png"}
       - {label: "Stor bild (valfritt, rek storlek: 1024x256)", name: "feature", widget: "image", required: false}
