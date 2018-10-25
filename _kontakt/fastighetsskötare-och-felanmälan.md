@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Fastighetsskötare och felanmälan
-teaser: 400x250.png
+teaser: /images/400x250.png
 ---
 **Telefon dagtid** 031-41 34 04 \
 **E-post **fastighetsskotaren@drlindh.se

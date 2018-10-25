@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Styrelsen
-teaser: 400x250.png
+teaser: /images/400x250.png
 ---
 **Brf Doktor Lindhs postadress**
 
