@@ -3,7 +3,7 @@ layout: page
 title: Aktiviteter
 teaser: /images/uploads/img_6155 (liten).jpg
 ---
-I föreningen ordnas flera olika aktiviteter om året, en del anordnas av styrelsen, och andra av våra medlemmar. Nedan är några exempel på sådana aktiviteter.
+I föreningen ordnas flera olika aktiviteter, de ordnas av husråden och andra av våra medlemmar. Nedan är några exempel på sådana aktiviteter.
 
 ## Vår- och höststädning
 
