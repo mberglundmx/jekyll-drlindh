@@ -5,7 +5,7 @@ teaser: /images/uploads/img_6205 (liten).jpg
 ---
 Det är viktigt att veta hur du ska agera om det börjar brinna i ett flerbostadshus. Titta på informationen från räddningstjänsten om hur du skyddar dig och dina grannar mot brand.
 
-* [Brandsäkerhet hemma](<Skydda dig mot brand>)
+* [Brandsäkerhet hemma](http://www.rsgbg.se/Documents/Anslag/Trapphus.pdf)
 * [Brandsäkerhet i flerbostadshus](http://www.rsgbg.se/hem-och-fritid/brandsakert-hemma/flerbostadshus/)
 
 ## Utrymningsvägar
