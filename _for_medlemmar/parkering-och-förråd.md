@@ -5,17 +5,13 @@ teaser: /images/uploads/img_6150 (liten).jpg
 ---
 ## Garage och P-däck
 
-All uthyrning och uppsägning av garage/parkeringsplatser sköts av Revisorsringen. Det finns P-platser på P-däcket och i garaget kan man mot en liten merkostnad erhålla plats med uttag för elektrisk motorvärmare.
+Det finns P-platser på P-däcket och i garaget där man mot en liten merkostnad erhålla plats med uttag för elektrisk motorvärmare. Parkeringsplatsen hör inte till lägenheten utan plats söks i särskild ordning (kölista).  I första hand kan medlem hyra en parkeringsplats per medlem/familj. Medlem kan hyra mer än en parkeringsplats om ingen kösituation föreligger. All uthyrning och uppsägning av garage/parkeringsplatser sköts av Revisorsringen.  
 
-Uppsägning måste ske senast en månad före avtalets upphörande för garage/parkeringsplatser. 
+Andrahandsuthyrning av P-platser i garage och på P-däck är inte tillåtet! Vid andrahandsuthyrning av lägenhet förfaller omgående hyresrätten till parkeringsplats.
+
+Enbart kördugligt och registrerat fordon får parkeras på förhyrd plats. Härmed menas att platsen endast är avsedd för fordon, varför uppställning av andra föremål exv. däck, takbox m.m. inte får förekomma.
 
 Vid frågor ring eller maila Revisorsringen, Jenny Bergendahl jenny.bergendahl@revisorsringen.se , 031-7098158
-
-Hyreskontrakt garage BRF Dr Lindh P-plats regler och kontrakt
-
-Andrahandsuthyrning av P-platser i garage och på P-däck är inte tillåtet!
-
-
 
 ## Besöksparkering
 
@@ -67,19 +63,10 @@ Avgift betalas i P-automaten på P-däck, och är mån-fre kl 8-18 3 kr/tim, öv
 
 Fordon med speciellt tillstånd för rörelsehindrade får parkera i 3 timmar på gator och torg som förvaltas av kommunen. Detta gäller också på gator där parkering enligt en lokal trafikföreskrift är förbjuden eller tillåten under kortare tid än 3 timmar som på Dr Lindhs gata.
 
-På kommunens webbsida kan du läsa mer om parkeringsreglerna
+[På kommunens webbsida kan du läsa mer om parkeringsreglerna](https://goteborg.se/wps/portal/start/parkeringstillstand-och-parkeringsplatser/parkeringstillstand/parkeringstillstand-for-rorelsehindrade/regler-for-att-parkera/!ut/p/z1/jY_LDoIwEEW_hm1nShVbd7AxEhKjCYLdGJAKjVCbipr49T42ajTG2U1yzp25ICEHaYqTrote703R3vaVDNYpxTmPaIgzuhzhNBY8oTzyuWCQPQB8mxCjhR8xxMnMB_mP_wOQH_GvhyAGqcuOnDcdQSKY4GyIQcAwGNGBuL8fmpLxGqRTW-WUI0d3a9X0vR176GHlWm2qhhyUh7ZwO-W0qYlt7De12R96yJ8K2C7NL4nKrtKcsu0!/dz/d5/L2dBISEvZ0FBIS9nQSEh/)
 
 ## Parkering inom bostadsområdet
 
 Det är tillåtet att parkera max 10 minuter i bostadsområdet i samband med av- och pålastning.
+
 P-övervakningen hanteras f o m januari 2007 av Controlla, (Tel. 23 00 00).
-
-## Vindsförråd
-
-Till varje lägenhet hör ett vindsförråd. Vindsförråden är anpassade till lägenhetsstorleken d v s 4-6 rummare –> stort vindsförråd och 1 rummare –> litet vindsförråd.
-
-## Extra förråd
-
-I hus 1:s källare finns 5 stora förråd 8-13 kvm och ett 30 tal mindre nätförråd på 2-6 kvm med möjlighet att hyra för föreningens medlemmar. Hyran ligger mellan ca 400- 6500kr /år.
-
-För frågor eller önskan att ställa sig i kö för stora eller små förråden maila namn, BRF-nummer, lgh-nummer till drlindh@gmail.com.
