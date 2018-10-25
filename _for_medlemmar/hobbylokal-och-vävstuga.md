@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hobbylokal och vävstuga
-teaser: 400x250.png
+teaser: /images/400x250.png
 ---
 ## Hobbylokal
 

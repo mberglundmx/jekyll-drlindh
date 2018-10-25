@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nycklar och dörr-brickor
-teaser: 400x250.png
+teaser: /images/400x250.png
 ---
 Nycklar och dörrbrickor administreras av fastighetsskötarna. Vid avflyttning skall utkvitterade nycklar till husets ytterdörr lämnas hos fastighetsskötarna. Nya bostadsrättsinnehavare kan kvittera ut metallnycklar till entrédörrar hos fastighetsskötarna.
 
