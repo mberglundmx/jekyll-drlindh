@@ -29,7 +29,7 @@ Johansson, känd för sin lårbensspik, återfinns sedan 1992 på vår närmaste
 Kortaste gatunamnet tillhör den äldste av doktorerna. Doktor Bex avled 1690. De därnäst kortaste doktorsnamnen är Fries och Lindh. Dessa två namn blir ofta ännu kortare genom felstavning.
 Källor: Göteborgs Kommun m.m.
 
-## ARTIKLAR FRÅN FÖRENINGENS BILDANDE 1991-1992
+## Artiklar från föreningens bildande 1991-1992
 
 Här kan Du ta del av artiklar som skrevs i dagspressen under tiden som pionjärerna jobbade på att ta över husen från Bostadsbolaget:
 
