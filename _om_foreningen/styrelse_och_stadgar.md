@@ -19,7 +19,7 @@ Föreningens styrelsen har möte en gång i månaden, vanligen första helgfria 
 
 **Ledamot** Marie Hedberg,Hus 1
 
-**Ledamot **Hans Ragneskog, Hus 6
+**Ledamot** Hans Ragneskog, Hus 6
 
 **Suppleant** Karin Gerdin Brännström, Hus 4
 
@@ -29,8 +29,6 @@ Föreningens styrelsen har möte en gång i månaden, vanligen första helgfria 
 
 Styrelsens ledamöter har olika ansvarsområden
 För vissa områden är också medlemmar utanför styrelsen ansvariga
-
-
 
 ## SBC Boendeindikator
 
