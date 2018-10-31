@@ -17,5 +17,10 @@ All uthyrning och uppsägning av garageplatser och parkeringsplatser sköts av R
 
 ### Frågor om hyra och avgifter
 
-Då det gäller hyres- och avgiftsdebitering kontakta Revisorsringen per mail:
-Jenny Bergendahl; jenny.bergendahl@revisorsringen.se, eller tel: 031-7098158
+Alla medlemmar har tillgång till information om den egna bostadsrätten i "Realportalen" som är Revisorsringens digitala tjänst. Användarnamn och lösenord finns på "hyresavin".
+
+När det gäller hyres- och avgiftsdebitering kontakta Revisorsringens
+Jenny Bergendahl, jenny.bergendahl@revisorsringen.se, 031-7098158.
+
+* [Realportalen](https://revisorsringen.realportal.nu/) 
+* [Revisorsringens webbsida](http://www.revisorsringen.se/)
