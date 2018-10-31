@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Stadgar och årsredovisning
-teaser: /images/uploads/img_6153 (liten).jpg
+teaser: /images/uploads/DSCF3495 (liten).jpg
+feature: /images/uploads/DSCF3495 (feature).jpg
 ---
 ## Föreningens stadgar
 
