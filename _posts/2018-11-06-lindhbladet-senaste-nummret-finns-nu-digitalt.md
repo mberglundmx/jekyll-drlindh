@@ -7,4 +7,4 @@ feature: /images/uploads/lindblad (liten).png
 ---
 Senaste numret av Lindhbaldet kom i oktober 
 
-[Läs Lindhbladhet](https://github.com/drlindh/www/blob/master/images/uploads/Lindhbladet_2_2018-web.pdf)
+[Läs Lindhbladhet](/images/uploads/Lindhbladet_2_2018-web.pdf)
