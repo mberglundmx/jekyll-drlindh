@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Revisorsringen, ekonomisk förvaltare'
-teaser: /images/400x250.png
+teaser: /images/uploads/revisorsringen_loga45-300x104.png
 ---
 Föreningens ekonomiske förvaltare är Revisorsringen\
 Distansgatan 2, \
