@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 'Fördråd '
-teaser: 400x250.png
+title: 'Förråd '
+teaser: /images/uploads/400x250.png
 ---
 ## Vindsförråd
 
