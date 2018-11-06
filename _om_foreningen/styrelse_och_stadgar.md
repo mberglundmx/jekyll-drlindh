@@ -2,6 +2,7 @@
 layout: page
 title: Styrelse
 teaser: /images/uploads/dr-lind-sidhuvud (liten).png
+feature: /images/uploads/dr-lind-sidhuvud (feature).png
 ---
 Föreningens styrelsen har möte en gång i månaden, vanligen första helgfria torsdagen i månaden. 
 
