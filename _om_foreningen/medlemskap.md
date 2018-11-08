@@ -2,6 +2,7 @@
 layout: page
 title: Medlemskap
 teaser: /images/uploads/img_6222 (liten).jpg
+feature: /images/uploads/img_6222 (feature).jpg
 ---
 För att bli medlem i föreningen måste man vara delägare i en bostadsrätt i föreningen. Alla medlemmar ska godkännas av föreningens styrelse.
 
