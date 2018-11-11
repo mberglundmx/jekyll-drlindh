@@ -13,7 +13,7 @@ I alla soprum är det möjligt att källsortera skräp. I soprummet kan du slän
 * Glas – ofärgat och färgat
 * Plast
 
-## Rum för elektronikavfall, hus 1 södra gaveln
+## Rum för elektronikavfall, södra gaveln på hus 1
 
 Här finns möjlighet att lämna:
 
@@ -31,11 +31,12 @@ Elektronik är alltid gratis.
 ## Grovsopor
 
 Container beställs till föreningen regelbundet, torsdag till söndag, följande veckor är en preliminära planeringen:
-Vecka 1 efter jul
-Vecka 16 eller i samband med föreningens vårstädning
-Vecka 21
-Vecka 35
-Vecka 43 elleri samband med föreningens höststädning
+
+* Vecka 1, efter jul
+* Vecka 16, eller i samband med föreningens vårstädning
+* Vecka 21
+* Vecka 35
+* Vecka 43, elleri samband med föreningens höststädning
 
 ## Återvinningsstation
 
