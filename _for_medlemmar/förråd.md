@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Förråd '
+title: 'Förråd'
 teaser: /images/uploads/400x250.png
 ---
 ## Vindsförråd

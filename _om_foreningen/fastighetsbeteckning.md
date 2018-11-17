@@ -3,7 +3,7 @@ layout: page
 title: Fastighetsbeteckning
 teaser: /images/uploads/img_6220 (liten).jpg
 ---
-I föreninge ingå fyra hus, fastighetsbeteckningen för husen är:
+I föreningen ingår fyra fastigheter, fastighetsbeteckningarna är:
 
 * Dr. Lindhs gata 6; GÖTEBORG GULDHEDEN 67:1
 * Dr. Lindhs gata 4; GÖTEBORG GULDHEDEN 67:2
