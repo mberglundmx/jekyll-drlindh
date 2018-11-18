@@ -22,9 +22,18 @@ Föreningens styrelse har möte en gång i månaden, vanligen första helgfria t
 Styrelsens ledamöter har olika ansvarsområden
 För vissa områden är också medlemmar utanför styrelsen ansvariga.
 
-Revisorser
+## Revisorer
 
-Valberedning
+* Erik Olsson, ordinarie
+* Lars Bengtsson, suppleant
+
+## Valberedning
+
+* Kerstin Hinnerson, Hus 6
+* Gunilla Rehn, hus 6, sammanskallande
+* Margareta Övergaard, Hus 3
+* Staffan Björk, Hus 4
+* Lars Bengtsson, Hus 1
 
 ## SBC Boendeindikator
 
