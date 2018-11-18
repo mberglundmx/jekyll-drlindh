@@ -9,7 +9,7 @@ teaser: /images/uploads/dr-lindh-testbild (liten).png
 
 Du har rätt att efter eget val ändra, bygga om eller installera nyheter i din bostad. Men du måste först ha formellt tillstånd av bostadsrättsföreningens styrelse. Det beror på sådant som brandsäkerhet, fastighetens byggkonstruktion samt det faktum att i ägandet ingår rätten att disponera din bostad men ej ägande i egentlig mening. Det är föreningen som äger själva fastigheten.
 
-Ansökan till styrelsen kan lämnas i föreningens brevlåda i entrén i Hus 3.
+Ansökan till styrelsen kan lämnas via e-post eller i föreningens brevlåda i entrén i Hus 3.
 
 ## [Ansökan att skicka till styrelsen](/assets/img/2013-02-15_bygglov-brf.pdf)
 
@@ -19,8 +19,7 @@ Det är viktigt att VVS-installationer genomföres av kvalificerad personal för
 
 ## Badrumsrenovering
 
-* Checklista installationer och regelverk för badrumsrenovering
-* Särskild drift och skötselinstruktioner vid upprustning av badrum
+Vid badrumsrenovering måste man följa de branschspecifika regler som gäller för våtrum för att tillstånd ska beviljas och för att försäkringsskyddet skall gälla.
 
 ### Vattenburen golvvärme
 
