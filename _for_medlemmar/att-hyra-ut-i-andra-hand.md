@@ -4,15 +4,17 @@ title: Att hyra ut i andra hand
 teaser: /images/uploads/img_6149 (liten).jpg
 feature: ''
 ---
-För andrahandsuthyrning längre tid än en månad krävs styrelsens tillåtelse. Det är tillåten att hyra ut i max ett (1) år om godtagbara skäl kan anges. Reglerna finns samlade i ett dokument.
+För andrahandsuthyrning längre tid än en månad krävs styrelsens tillåtelse. Det är tillåten att hyra ut i max ett (1) år om godtagbara skäl kan anges.
 
-Uthyrning av bostadsrätten i andra hand utan styrelsens medgivande kan medföra att nyttjanderätten till bostadsrätten förverkas. Vid andrahandsuthyrning av bostadsrätt ska bostadsrättshavaren säga upp hyresavtal för P-plats och extra förråd, om man har något av dessa.
+Vid andrahandsuthyrning av bostadsrätt ska bostadsrättshavaren säga upp hyresavtal för P-plats och extra förråd. P-plats får inte hyras ut i andra hand.
 
-Har ni frågor om andrahandsuthyrning kontakta gärna styrelsens representanter för dessa ärenden per e-post: [Hans Ragneskog](hans.ragneskog@gmail.com).
+Har ni frågor om andrahandsuthyrning kontakta gärna styrelsens representanter för dessa ärenden per e-post: Hans Ragneskog.
 
-Styrelsen måste meddelas rörande önskemålet om andrahandsuthyrning i så god tid att ärendet hinner behandlas på ett ordinarie styrelsemöte (vanligen första helgfria torsdagen i månaden). Ansökan ska lämnas in minst en månad före den tidpunkt du önskar att andrahandsuthyrningen ska träda i kraft.
+### Ansök i god tid
 
-Andrahandsuthyrning av hyresrätter är inte tillåtet (gäller även SGS studentrum)!
+Ansökan ska lämnas in minst en månad före den tidpunkt du önskar att andrahandsuthyrningen ska träda i kraft. Styrelsen måste meddelas om önskemålet att hyra ut i andra hand i så god tid att ärendet hinner behandlas på ett ordinarie styrelsemöte (vanligen första helgfria torsdagen i månaden).
+
+Uthyrning av bostadsrätten i andra hand utan styrelsens medgivande kan medföra att nyttjanderätten till bostadsrätten förverkas. 
 
 ## Policy för andrahandsupplåtelse
 
@@ -48,3 +50,5 @@ Vi rekommenderar att du inte hyr ut till rökare eftersom röklukt kan uppleva
 Föreningen ansvarar genom fastighetsskötaren för att Din dörrskylt förses med namnuppgift på hyresgästen.
 
 [Policy för andrahandsuthyrning  i pdf-format](/images/uploads/policy.pdf)
+
+Blankett för ansökna om andrahandsuthyrning
