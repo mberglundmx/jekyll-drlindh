@@ -12,11 +12,11 @@ Föreningen har ett avtal med Bredbandbolaget som omfattar FiberTV, Bredband och
 Kundsupport:  tel. 0770-777000
 Dit ringer man vid alla typer av problem som rör Bredbandsbolaget. Man ringer dit även när man vill beställa saker, allt från prylar till tjänster och tekniker som kommer hem och gör saker. Allt utöver avtalet får man betala själv.
 
-Bredbansbolaget egen information: www.bredbandsbolaget.se
+Bredbandsbolaget egen information: www.bredbandsbolaget.se
 
 ## Avbrott i telekommunikationen
 
-Vid avbrott i bredbandsanslutningen fungerar ingenting. TV fungerar inte, där kan finnas meddelande om att nätverkskontakt saknas. IP-telefonen fungerar inte, det går inte att ringa och det går inte att ta emot samtal. Bredbandet fungerar inte, det går inte att surfa på Internet, det går inte att skicka eller ta emot e-post. Första åtgärd är att stänga av strömmen till routern, vänt 30 sek och sedan starta routern igen.
+Vid avbrott i bredbandsanslutningen fungerar ingenting. TV fungerar inte, där kan finnas meddelande om att nätverkskontakt saknas. IP-telefonen fungerar inte, det går inte att ringa och det går inte att ta emot samtal. Bredbandet fungerar inte, det går inte att surfa på Internet, det går inte att skicka eller ta emot e-post. Första åtgärd är att stänga av strömmen till routern, vänta 30 sek och sedan starta routern igen.
 Är det fortfarande problem, ring Bredbandsbolagets kundsupport, 0770-77 70 00.
 
 ## FiberTV
@@ -25,9 +25,10 @@ Föreningen har avtal med Bredbandsbolaget om FiberTV. FiberTV distribueras geno
 
 ## E-post
 
-Om Du har e-post-adress drlindh.se på Din e-post och vill läsa den från en annan dator än din egen kan du logga in via webmail på adress: http://www.webbpost.tele2.se. Inga nya e-post adresser @drlindh.se delas ut och de som finns kommer succesivt att avvecklas.
+Om Du har e-post-adress drlindh.se på Din e-post och vill läsa den från en annan dator än din egen kan du logga in via webmail på adress: http://www.webbpost.tele2.se.
+
+Inga nya e-post adresser @drlindh.se delas ut och de som finns kommer succesivt att avvecklas.
 
 ## Parabol
 
 Parabol får inte monteras på fasaden, balkongräcket eller på fönsterkarm. Parabol får ställas på balkonggolvet, men ej förankras i golvet. Hela parabolen skall rymmas innanför balkongräcket och, för att minska ev. skaderisker, placeras så lågt som möjligt.
-Styrelsens beslut i denna fråga kan komma att omprövas när ett av Hyresgästföreningen till Europadomstolen överlämnat ärende för prövning har avgjorts (Svea hovrätts dom i ”Rinkebyärendet”).
