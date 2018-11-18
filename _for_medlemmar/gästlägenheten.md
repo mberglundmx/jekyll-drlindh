@@ -13,7 +13,7 @@ Lägenheten får endast hyras av föreningens medlemmar och är tänkt som tillf
 
 ## Bokning av gästlägenheten
 
-Du bokar lägenheten / bastun genom att kontakta någon av de bokningsansvariga via e-post, Ange incheckningsdag och utcheckningsdag.
+Du bokar lägenheten / bastun genom att kontakta någon av de bokningsansvariga via e-post, ange incheckningsdag och utcheckningsdag.
 
 * Hans.Ragneskog@gmail.com 
 * patricia.adolfsson@gmail.com
