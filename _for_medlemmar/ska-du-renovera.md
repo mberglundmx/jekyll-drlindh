@@ -48,6 +48,12 @@ Då det gäller gasspis så har Räddningsverket informerat oss om att man får 
 
 Eftersom regelverket är mycket strängt så har styrelsen beslutat att införa anmälningsplikt från den boende FÖRE installationen, besiktning av färdig installation skall sedan ske av behörig besiktningsman som lägenhetsinnehavaren själv tillkallar och ersätter. Besiktningsprotokollet ska skickas till styrelsen. Först efter en godkänd besiktning får gasspisen tas i bruk. Kontakta styrelsen på drlindh@gmail.com vid frågor rörande gasspisar.
 
+## Elinstallationer
+
+Elinstallationer skall utföras av behörig elektriker.
+
+Uppgraderig från 1-fas till 3-fas i små lägenheter kan utföras efter samråd med fastighetsskötaren och sker på egen bekostnad.
+
 ## Balkonger
 
 Blomlådor på balkongräcket skall av säkerhetsskäl placeras på INSIDAN.
