@@ -3,15 +3,19 @@ layout: page
 title: Radonmätning i Brf Doktor Lindh
 teaser: /images/uploads/radondosa.png
 ---
-I några månader under eldningssäsongen, som infaller oktober-april, kommer vi att utföra en radonmätning av våra byggnader. Mätningen går till så att 2 små dosor placeras i ca 20% av lägenheterna. De ska hänga på samma plats i 2-3 månader. Därefter plockas de ner och skickas till ett laboratorium för analys.
+I några månader under eldningssäsongen, som infaller oktober-april, kommer vi att utföra radonmätning av våra byggnader. Mätningen går till så att 2 små dosor placeras i ca 20% av lägenheterna. De ska hänga på samma plats i 2-3 månader. Därefter plockas de ner och skickas till ett laboratorium för analys.
 
-Det kommer att vara 2 lägenheter/plan, samtliga lägenheter på entréplanen och källarutrymmen som ingår i mätningen. Mätningen är helt odramatisk, dosorna innehåller en filmremsa som är känslig för Radongas.
+Det kommer att vara 2 lägenheter/plan, samtliga lägenheter på entréplanen och källarutrymmen som ingår i mätningen. Mätningen är helt odramatisk, dosorna innehåller en filmremsa som är känslig för radongas.
 
 Styrelsen kommer att kontakta de lägenhetsinnehavare där dosorna ska placeras.
 
-Vi kommer att anlita ett certifierat företag som levererar dosor och utför analysen av mätningen. Resultatet kommer vi att publicera på hemsidan och anslå på anslagstavlorna i Husen. Företaget heter RADONOVA. På deras hemsida kan man läsa mer.
+## Certifierad leverantör
 
-Från Stadsbyggnadskontoret har vi fått ett utsnitt av radonkartan över Göteborg. Där framgår att våra Hus ligger på mark som är normalriskområde.
+Vi kommer att anlita ett certifierat företag som levererar dosor och utför analysen av mätningen. Resultatet kommer vi att publicera på hemsidan och anslå på anslagstavlorna i husen. Företaget heter RADONOVA. På deras hemsida kan man läsa mer. 
+
+[Radonova](https://radonova.se/)
+
+## Bakgrund
 
 Bakgrunden till mätningen är att vi måste följa det som Riksdagen har beslutat angående miljömålen enligt nedan:
 
@@ -24,7 +28,11 @@ _År 2020 ska byggnader och deras egenskaper inte påverka hälsan negativt. 
 * _radonhalten i alla skolor och förskolor år 2010 är lägre än 200 Bq/m3 luft och att _
 * _radonhalten i alla bostäder år 2020 är lägre än 200 Bq/m3 luft. _
 
-**Man kan gå in och läsa mer på Folkhälsomyndigheten och Boverkets hemsidor:**
+Från Stadsbyggnadskontoret har vi fått ett utsnitt av radonkartan över Göteborg. Där framgår att våra Hus ligger på mark som är normalriskområde.
+
+## Mer information om radon
+
+Man kan gå in och läsa mer på Folkhälsomyndigheten och Boverkets hemsidor:
 
 * [Folkhälsomyndighetens radoninformation ](https://www.folkhalsomyndigheten.se/publicerat-material/publikationsarkiv/r/radon-i-inomhusluft/)
 * [Boverkets radoninformation](https://www.boverket.se/sv/byggande/halsa-och-inomhusmiljo/radon/)
