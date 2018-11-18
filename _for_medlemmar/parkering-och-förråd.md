@@ -3,15 +3,19 @@ layout: page
 title: Parkering
 teaser: /images/uploads/img_6150 (liten).jpg
 ---
+Det finns både p-platser att hyra och gästparkringsplatser.
+
 ## Garage och P-däck
 
-Det finns P-platser på P-däcket och i garaget där man mot en liten merkostnad erhålla plats med uttag för elektrisk motorvärmare. Parkeringsplatsen hör inte till lägenheten utan plats söks i särskild ordning (kölista).  I första hand kan medlem hyra en parkeringsplats per medlem/familj. Medlem kan hyra mer än en parkeringsplats om ingen kösituation föreligger. All uthyrning och uppsägning av garage/parkeringsplatser sköts av Revisorsringen.  
+Det finns p-platser på p-däcket och i garaget. I garaget finns det möljighet att för en tilläggsavgift erhålla plats med uttag för elektrisk motorvärmare. 
 
-Andrahandsuthyrning av P-platser i garage och på P-däck är inte tillåtet! Vid andrahandsuthyrning av lägenhet förfaller omgående hyresrätten till parkeringsplats.
+Parkeringsplatsen hör inte till lägenheten utan plats söks i särskild ordning (kölista).  I första hand kan medlem hyra en parkeringsplats per medlem/familj. Medlem kan hyra mer än en parkeringsplats om ingen kösituation föreligger. All uthyrning och uppsägning av garage/parkeringsplatser sköts av Revisorsringen.  
 
-Enbart kördugligt och registrerat fordon får parkeras på förhyrd plats. Härmed menas att platsen endast är avsedd för fordon, varför uppställning av andra föremål exv. däck, takbox m.m. inte får förekomma.
+Andrahandsuthyrning av P-platser i garage och på P-däck är inte tillåtet. Vid andrahandsuthyrning av lägenhet förfaller omgående hyresrätten till parkeringsplats.
 
-Vid frågor ring eller maila Revisorsringen, Jenny Bergendahl jenny.bergendahl@revisorsringen.se , 031-7098158
+Enbart kördugligt och registrerat fordon får parkeras på förhyrd plats. Härmed menas att platsen endast är avsedd för fordon, varför uppställning av andra föremål som däck, takbox m.m. inte får förekomma.
+
+Vid frågor ring eller maila Revisorsringen, Jenny Bergendahl jenny.bergendahl@revisorsringen.se , 031-7098158.
 
 ## Besöksparkering
 
