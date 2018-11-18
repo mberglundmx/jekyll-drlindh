@@ -8,19 +8,19 @@ Föreningens styrelse har möte en gång i månaden, vanligen första helgfria t
 
 ## Styrelsen verksamhetsåret 2018-2019
 
- **Ordförande** Gunnar Jonsson, Hus 6
- **Vice ordförande** Christer Norén, Hus 3	
- **Sekreterare** Nina Romanus, Hus 1
- **Kassör** Kent Asp, Hus 4
- **Ledamot** Stig-Olof Eriksson, Hus 4	
- **Ledamot** Marie Hedberg,Hus 1
- **Ledamot** Hans Ragneskog, Hus 6
- **Suppleant** Karin Gerdin Brännström, Hus 4
- **Suppleant** Johan Bergström, Hus 3
- **Suppleant** Markus Berglund, Hus 4 
+* **Ordförande** Gunnar Jonsson, Hus 6
+* **Vice ordförande** Christer Norén, Hus 3	
+* **Sekreterare** Nina Romanus, Hus 1
+* **Kassör** Kent Asp, Hus 4
+* **Ledamot** Stig-Olof Eriksson, Hus 4
+* **Ledamot** Marie Hedberg,Hus 1
+* **Ledamot** Hans Ragneskog, Hus 6
+* **Suppleant** Karin Gerdin Brännström, Hus 4
+* **Suppleant** Johan Bergström, Hus 3
+* **Suppleant** Markus Berglund, Hus 4 
 
 Styrelsens ledamöter har olika ansvarsområden
-För vissa områden är också medlemmar utanför styrelsen ansvariga
+För vissa områden är också medlemmar utanför styrelsen ansvariga.
 
 ## SBC Boendeindikator
 
