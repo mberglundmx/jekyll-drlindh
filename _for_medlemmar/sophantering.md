@@ -21,7 +21,7 @@ Här finns möjlighet att lämna:
 * Batteri (små) lågenergilampor, glödlampor, lysrör
 * Vitvaror (inkl. kyl och frys)
 
-**Tips! **när du köper kylskåp, frys, tvättmaskin, TV m.m. så betalar du också för att leverantören skall ta hand om din gamla apparat.
+**Tips!** när du köper kylskåp, frys, tvättmaskin, TV m.m. så betalar du också för att leverantören skall ta hand om din gamla apparat.
 
 Sanitetsporslin, byggavfall, färgrester, bilbatteri och övrigt miljöfarligt avfall
 Alla medlemmar och hyresgäster ansvar själva för att byggavfall och miljöfarligt avfall lämnas på någon av Göteborgs kommuns återvinningsanläggningar t.ex. Högsbo industriområde. A. Odhners gata, Tfn: 031 – 61 85 30, http://www.renova.se 
