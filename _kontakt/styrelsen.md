@@ -15,4 +15,4 @@ Doktor Lindhs gata 3
 
 **E-postadress:** drlindh@gmail.com
 
-Önskar du kontakt med någon person i styrelsen kan du skicka ett mail till [drlindh@gmail.com](drlindh@gmail.com), mailboxen öppnas dagligen, mail vidarebefordras till den person det gäller.
+Önskar du kontakt med någon person i styrelsen kan du skicka ett mail till [drlindh@gmail.com](drlindh@gmail.com), mailboxen öppnas dagligen, e-post vidarebefordras till den person det gäller.
