@@ -5,12 +5,14 @@ teaser: /images/uploads/linblad-400x250.jpeg
 ---
 **Brf Doktor Lindhs postadress**
 
-Brf Doktor Lindh \
-Dr. Lindhs gata \
-413 25 Göteborg \
+Brf Doktor Lindh 
 
-E-postadress: drlindh@gmail.com
+Doktor Lindhs gata 3
 
-Hemsida: www.drlindh.se
+413 25 Göteborg 
+
+En brevlåda finns vid entrén i Hus 3
+
+**E-postadress:** drlindh@gmail.com
 
 Önskar du kontakt med någon person i styrelsen kan du skicka ett mail till [drlindh@gmail.com](drlindh@gmail.com), mailboxen öppnas dagligen, mail vidarebefordras till den person det gäller.
