@@ -4,6 +4,7 @@ title: Fastighetsskötare och felanmälan
 teaser: /images/uploads/svensk-markservcie-logo.png
 ---
 **Telefon dagtid:** 031-41 34 04
+
 **E-post:** fastighetsskotaren@drlindh.se
 
 **Jourtelefon:** till fastighetsskötare 0704-219 708
