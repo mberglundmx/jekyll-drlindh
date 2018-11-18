@@ -22,6 +22,10 @@ Föreningens styrelse har möte en gång i månaden, vanligen första helgfria t
 Styrelsens ledamöter har olika ansvarsområden
 För vissa områden är också medlemmar utanför styrelsen ansvariga.
 
+Revisorser
+
+Valberedning
+
 ## SBC Boendeindikator
 
 Vi i BRF Doktor Lindh har genomgått SBC Boendeindikator och lever upp till de krav SBC ställer på en välskött bostadsrättsförening och har fått stämpeln ”SBC Godkänd”. Stämpeln är en indikator på att föreningen arbetar aktivt för ett ökat värde på föreningens fastighet, en mer effektiv förvaltning och en ökad boendenytta.
