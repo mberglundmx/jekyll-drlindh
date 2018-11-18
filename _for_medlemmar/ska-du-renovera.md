@@ -3,15 +3,15 @@ layout: page
 title: Ska du renovera?
 teaser: /images/uploads/dr-lindh-testbild (liten).png
 ---
-## Tänk på det här innan du sätter i gång!
+Som bostadsrättsinnehavare har du rätt att göra ändringar i din bostad. Tänk på det här innan du sätter i gång!
 
-### Tillstånd för ombyggnad och nyinstallation på egen hand
+## Tillstånd för ombyggnad och nyinstallation på egen hand
 
 Du har rätt att efter eget val ändra, bygga om eller installera nyheter i din bostad. Men du måste först ha formellt tillstånd av bostadsrättsföreningens styrelse. Det beror på sådant som brandsäkerhet, fastighetens byggkonstruktion samt det faktum att i ägandet ingår rätten att disponera din bostad men ej ägande i egentlig mening. Det är föreningen som äger själva fastigheten.
 
 Ansökan till styrelsen kan lämnas via e-post eller i föreningens brevlåda i entrén i Hus 3.
 
-## [Ansökan att skicka till styrelsen](/assets/img/2013-02-15_bygglov-brf.pdf)
+[Ansökan att skicka till styrelsen](/assets/img/2013-02-15_bygglov-brf.pdf)
 
 ### VVS-installationer i lägenheten
 
