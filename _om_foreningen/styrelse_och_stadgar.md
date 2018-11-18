@@ -4,7 +4,7 @@ title: Styrelse
 teaser: /images/uploads/dr-lind-sidhuvud (liten).png
 feature: /images/uploads/dr-lind-sidhuvud (feature).png
 ---
-Föreningens styrelsen har möte en gång i månaden, vanligen första helgfria torsdagen i månaden. 
+Föreningens styrelse har möte en gång i månaden, vanligen första helgfria torsdagen i månaden. 
 
 ## Styrelsen verksamhetsåret 2018-2019
 
@@ -24,7 +24,7 @@ För vissa områden är också medlemmar utanför styrelsen ansvariga
 
 ## SBC Boendeindikator
 
-Vi i BRF-Dr.Lindh har genomgått SBC Boendeindikator och lever upp till de krav SBC ställer på en välskött bostadsrättsförening och har fått stämpeln ”SBC Godkänd”. Stämpeln är en indikator på att föreningen arbetar aktivt för ett ökat värde på föreningens fastighet, en mer effektiv förvaltning och en ökad boendenytta.
+Vi i BRF Doktor Lindh har genomgått SBC Boendeindikator och lever upp till de krav SBC ställer på en välskött bostadsrättsförening och har fått stämpeln ”SBC Godkänd”. Stämpeln är en indikator på att föreningen arbetar aktivt för ett ökat värde på föreningens fastighet, en mer effektiv förvaltning och en ökad boendenytta.
 
 [Information om SBC Boendeindikator](https://www.sbc.se/Bostadsrattsforvaltning/SBC-Boendeindikator/)
 

@@ -5,9 +5,9 @@ teaser: /images/uploads/linblad-400x250.jpeg
 ---
 **Brf Doktor Lindhs postadress**
 
-Brf Dr. Lindh\
+Brf Doktor Lindh \
 Dr. Lindhs gata \
-413 25 Göteborg
+413 25 Göteborg \
 
 E-postadress: drlindh@gmail.com
 

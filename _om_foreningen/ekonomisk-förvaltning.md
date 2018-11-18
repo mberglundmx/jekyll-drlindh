@@ -3,17 +3,16 @@ layout: page
 title: Ekonomisk förvaltning
 teaser: /images/uploads/img_3023 (liten).jpg
 ---
-Föreningens ekonomisk förvaltning sköts sedan 2007 av Revisorsringen.
-Revisorsringena uppdrag omfattar:
+Föreningens ekonomiska förvaltning sköts sedan 2007 av Revisorsringen.
+Revisorsringens uppdrag omfattar:
 
 * Ekonomisk förvaltning inklusive bl a hyres- och avgiftsdebitering
 * Debitering av elavgift
 * Pantförteckning
 * Lägenhetsförteckning
 * Administration av garage- och parkeringsplatser
-* Garage och parkeringsplatser
 
-All uthyrning och uppsägning av garage- och parkeringsplatser sköts av Revisorsringen, kontakta Jenny Bergendahl, jenny.bergendahl@revisorsringen.se, 031-7098158.
+All uthyrning och uppsägning av garage- och parkeringsplatser sköts av Revisorsringen, kontakta Jenny Bergendahl, [jenny.bergendahl@revisorsringen.se](mailto:jenny.bergendahl@revisorsringen.se), 031-7098158.
 
 ### Frågor om hyra och avgifter
 
