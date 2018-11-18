@@ -11,19 +11,15 @@ Fastighetsskötare Pierre Meths mfl.
 Telefon dagtid 031-41 34 04
 E-post fastighetsskotaren@drlindh.se
 
-Vid felanmälan eller önskad kontakt med fastighetsskötaren lämna namn, telefonnummer samt ärende. Telefonsvararen lyssnas av dagligen och Svensk markservice (SMS) kontaktar er. Anslag med kontaktuppgifter finns i foajéer och på varje våningsplan.
+Vid felanmälan eller önskad kontakt med fastighetsskötaren lämna namn, telefonnummer och ärende. Telefonsvararen lyssnas av dagligen och Svensk markservice (SMS) kontaktar er. Anslag med kontaktuppgifter finns i foajéer och på varje våningsplan.
 
-**OBS! **Det är viktigt att felanmälan görs till fastighetsskötarna, eller till styrelsen då fastighetsskötarna inte är tillgängliga, för att rätt leverantör ska kallas till platsen. Enskild medlem som tar direktkontakt med leverantör är ansvarig mot leverantören.
+**OBS! **Det är viktigt att felanmälan görs till fastighetsskötarna, eller till styrelsen när fastighetsskötarna inte är tillgängliga för att rätt leverantör ska kallas till platsen. Enskild medlem som tar direktkontakt med leverantör är ansvarig mot leverantören.
 
 ### Jourtelefon till fastighetsskötare 0704-219 708
 
 Vid akuta fel utanför kontorstid (vardagar efter kl 15:30).
 Observera att utryckning debiteras. Använd därför endast numret vid akuta fel! Om det är möjligt, gör din felanmälan inom ordinarie arbetstid.
 
-## Nycklar och dörr-ID-bricka
+## Nycklar och dörr-bricka
 
-Nycklar och dörrbrickor administreras av fastighetsskötarna, tel. 41 34 04.
-Vid avflyttning skall utkvitterade nycklar till husets entrédörr(porten) lämnas hos fastighetsskötarna.
-Nya bostadsrättsinnehavare kan kvittera ut nycklar och nyckelbrickor (ID-brickor) till entrédörren hos fastighetsskötarna. Nyckelbrickan används till garage, soprum, gym, tvättstuga och entrédörr.
-
-Till varje bostadsrätt hör 2 st ID-brickor. Kompletterande ID-brickor kan köpas hos fastighetsskötaren för 50 kr/st. Har brickorna tappats ska detta omedelbart anmälas hos fastighetsskötaren så att dessa kan spärras i låssystemet.
+Nycklar och dörr-brickor administreras av fastighetsskötarna.
