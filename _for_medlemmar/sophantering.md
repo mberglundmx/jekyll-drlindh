@@ -3,7 +3,7 @@ layout: page
 title: Sophantering och källsortering
 teaser: /images/uploads/img_6133 (liten).jpg
 ---
-I alla soprum är det möjligt att källsortera skräp. I soprummet kan du slänga:
+I alla våra soprum är det möjligt att källsortera skräp. I soprummet kan du slänga följande:
 
 * Hushållsavfall – brännbart
 * Kompost – bioavfall i speciella påsar
@@ -24,7 +24,7 @@ Här finns möjlighet att lämna:
 **Tips!** när du köper kylskåp, frys, tvättmaskin, TV m.m. så betalar du också för att leverantören skall ta hand om din gamla apparat.
 
 Sanitetsporslin, byggavfall, färgrester, bilbatteri och övrigt miljöfarligt avfall
-Alla medlemmar och hyresgäster ansvar själva för att byggavfall och miljöfarligt avfall lämnas på någon av Göteborgs kommuns återvinningsanläggningar t.ex. Högsbo industriområde. A. Odhners gata, Tfn: 031 – 61 85 30, http://www.renova.se 
+Alla medlemmar och hyresgäster ansvar själva för att byggavfall och miljöfarligt avfall lämnas på någon av Göteborgs kommuns återvinningsanläggningar t.ex. Högsbo industriområde. A. Odhners gata, 031 – 61 85 30, http://www.renova.se 
 Privatpersoner får vid första besöket ett kort som gäller för 6 gratis tömningar/år.
 Elektronik är alltid gratis.
 
