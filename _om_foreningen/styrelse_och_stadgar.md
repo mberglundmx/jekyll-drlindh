@@ -30,7 +30,7 @@ För vissa områden är också medlemmar utanför styrelsen ansvariga.
 ## Valberedning
 
 * Kerstin Hinnerson, Hus 6
-* Gunilla Rehn, hus 6, sammanskallande
+* Gunilla Rehn, Hus 6, sammanskallande
 * Margareta Övergaard, Hus 3
 * Staffan Björk, Hus 4
 * Lars Bengtsson, Hus 1
