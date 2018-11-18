@@ -3,7 +3,7 @@ layout: page
 title: Styrelsen
 teaser: /images/uploads/linblad-400x250.jpeg
 ---
-**Brf Doktor Lindhs postadress**
+P**ostadress, **brevlåda finns vid entrén i Hus 3
 
 Brf Doktor Lindh 
 
@@ -11,7 +11,7 @@ Doktor Lindhs gata 3
 
 413 25 Göteborg 
 
-En brevlåda finns vid entrén i Hus 3
+
 
 **E-postadress:** drlindh@gmail.com
 
