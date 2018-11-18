@@ -8,7 +8,7 @@ För andrahandsuthyrning längre tid än en månad krävs styrelsens tillåtelse
 
 Vid andrahandsuthyrning av bostadsrätt ska bostadsrättshavaren säga upp hyresavtal för P-plats och extra förråd. P-plats får inte hyras ut i andra hand.
 
-Har ni frågor om andrahandsuthyrning kontakta gärna styrelsens representanter för dessa ärenden per e-post: Hans Ragneskog.
+Har ni frågor om andrahandsuthyrning kontakta gärna styrelsens representanter för dessa ärenden per e-post: Hans Ragneskog, hans.ragneskog@gmail.com.
 
 ### Ansök i god tid
 
