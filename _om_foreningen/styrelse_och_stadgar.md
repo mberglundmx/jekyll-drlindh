@@ -13,7 +13,7 @@ Föreningens styrelse har möte en gång i månaden, vanligen första helgfria t
 * **Sekreterare** Nina Romanus, Hus 1
 * **Kassör** Kent Asp, Hus 4
 * **Ledamot** Stig-Olof Eriksson, Hus 4
-* **Ledamot** Marie Hedberg,Hus 1
+* **Ledamot** Marie Hedberg, Hus 1
 * **Ledamot** Hans Ragneskog, Hus 6
 * **Suppleant** Karin Gerdin Brännström, Hus 4
 * **Suppleant** Johan Bergström, Hus 3
