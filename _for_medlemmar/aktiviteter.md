@@ -4,6 +4,10 @@ title: Aktiviteter
 teaser: /images/uploads/Lovkorg Urban Thiria (liten).JPG
 feature: /images/uploads/Lovkorg Urban Thiria (feature).JPG
 ---
+![Violer och planteringsspade](/images/uploads/Vår plantering liten.jpg)
+
+![Lokalt band som spelar i Gemensamhetslokalen!](/images/uploads/Musiker_Dr_Lindh_dec_2017.jpg)
+
 I föreningen ordnas flera olika aktiviteter, de ordnas av husråden och av våra medlemmar. Det handlar till exempel om vår- och höststädning, vårsalong, glögg till föreningsens fördelsetdag mm.
 
 ## Vår- och höststädning
