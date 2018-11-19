@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Sophantering och källsortering
-teaser: /images/uploads/img_6133 (liten).jpg
+teaser: /images/uploads/Soptunnor liten.jpg
+feature: /images/uploads/Soptunnor feature.jpg
 ---
 I alla våra soprum är det möjligt att källsortera skräp. I soprummet kan du slänga följande:
 
