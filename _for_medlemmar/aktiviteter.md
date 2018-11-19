@@ -4,7 +4,7 @@ title: Aktiviteter
 teaser: /images/uploads/Lovkorg Urban Thiria (liten).JPG
 feature: /images/uploads/Lovkorg Urban Thiria (feature).JPG
 ---
-I föreningen ordnas flera olika aktiviteter, de ordnas av husråden och andra av våra medlemmar. Nedan är några exempel på sådana aktiviteter.
+I föreningen ordnas flera olika aktiviteter, de ordnas av husråden och av våra medlemmar. Det handlar till exempel om vår- och höststädning, vårsalong, glögg till föreningsens fördelsetdag mm.
 
 ## Vår- och höststädning
 
