@@ -2,7 +2,7 @@
 layout: page
 title: Att hyra ut i andra hand
 teaser: /images/uploads/img_6149 (liten).jpg
-feature: ''
+feature: /images/uploads/img_6149 (feature).jpg
 ---
 För andrahandsuthyrning längre tid än en månad krävs styrelsens tillåtelse. Det är tillåten att hyra ut i max ett (1) år om godtagbara skäl kan anges.
 
