@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hobbylokal
-teaser: /images/400x250.png
+teaser: /images/uploads/hobbyrum liten.jpg
 feature: /images/uploads/Hobbyrum feature.jpg
 ---
 En hobbylokal finns i 6:ans bottenvåning. Det är ett litet verkstadsrum som får användas av alla medlemmar. För att få dörr-ID brickan programmerad för entré till hobbylokalen måste en engångsavgift på 100 kr erläggas till fastighetsskötarna.
