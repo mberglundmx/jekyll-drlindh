@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Förråd
-teaser: /images/uploads/400x250.png
+teaser: /images/uploads/Cyklar liten.jpg
+feature: /images/uploads/Cyklar feature.jpg
 ---
 Lägenhetsförråd, extra förråd och cykelrum
 
