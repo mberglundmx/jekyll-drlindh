@@ -2,6 +2,7 @@
 layout: page
 title: Tvättstugor
 teaser: /images/uploads/img_6174 (liten).jpg
+feature: /images/uploads/img_6174 (feature).jpg
 ---
 I varje hus finns tvättstuga som är belägen i entréplan. I tvättstugan i hus 4 finns en s.k. grovtvättmaskin med tillhörande torkrum, för mattor och större textilier typ tunga överkast. Den är avsedd för samtliga medlemmar och bokas via en almanacka i förrummet till tvättstugan i Hus 4. Därför fungerar också allas nyckebrickor till hus 4.
 
