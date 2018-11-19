@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Vävstuga
-teaser: /images/400x250.png
+teaser: /images/uploads/Vavstuga liten.jpg
+feature: /images/uploads/Vavstuga feature.jpg
 ---
 Redan vid bostadsrättsföreningens bildande fanns det vävstolar och en vävstuga. Vävstolarna har genom åren flyttats till olika lokaler. Nu finns vävstugan i 1:ans källare (ingång norra gaveln) innanför gymmet.
 
