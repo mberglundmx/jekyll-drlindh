@@ -20,4 +20,4 @@ Du bokar lägenheten / bastun genom att kontakta någon av de bokningsansvarig
 
 Bokning kan ske tidigast tre månader i förväg och senast 2 dagar innan bokningsdag. En bokning får omfatta max 5 nätter. Det går bara att göra en bokning i taget och en ny bokning är möjlig först när föregående bokning är avverkad. Eventuella undantag kan beviljas av bokningsansvarig beroende av det aktuella bokningsläget.
 
-[Information om gästlagenheten i pdf-format](/images/uploads/Information_om-_gastlagenhet_o_bastu2017.pdf)
+[Information om gästlagenheten i pdf-format](/images/uploads/Info om Gastlagenhet 2018_2.pdf)
