@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Trivselregler
-teaser: /images/uploads/img_6149 (liten).jpg
+teaser: /images/uploads/Balkong m barn liten.jpg
+feature: /images/uploads/Balkong m barn feature.jpg
 ---
 Våra trivselregler finns för allas trevnad!
 
