@@ -4,8 +4,6 @@ title: Aktiviteter
 teaser: /images/uploads/Vår plantering liten.jpg
 feature: /images/uploads/Vår plantering feature.jpg
 ---
-![Hylla för bokbyte.](/images/uploads/bokhylla lite.jpg)
-
 I föreningen ordnas flera olika aktiviteter, de ordnas av husråden och av våra medlemmar. Det handlar till exempel om vår- och höststädning, vårsalong, glögg till föreningsens fördelsetdag mm.
 
 ## Vår- och höststädning
@@ -25,5 +23,9 @@ Varje år den 4 december firas föreningen med glöggkalas.
 I många år har aktiva medlemmar bidragit med konstverk och konsthantverk av skilda slag till en gemensam vårsalong! Detta brukar hända i mars och är ett mycket uppskattat arrangemang.
 
 ![Lokalt band som spelar i Gemensamhetslokalen!](/images/uploads/Musiker_Dr_Lindh_dec_2017.jpg)
+
+![Höststädning](/images/uploads/Hoststadning liten.jpg)
+
+![Hylla för bokbyte.](/images/uploads/bokhylla lite.jpg)
 
 ![Affisch för Vår salongen](/images/uploads/Varsalong liten.jpg)
