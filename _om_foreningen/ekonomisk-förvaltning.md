@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Ekonomisk förvaltning
-teaser: /images/uploads/img_3023 (liten).jpg
+teaser: /images/uploads/Lagenhetsnummer liten.jpg
+feature: /images/uploads/Lagenhetsnummer feature.jpg
 ---
 Föreningens ekonomiska förvaltning sköts sedan 2007 av Revisorsringen.
 Revisorsringens uppdrag omfattar:
