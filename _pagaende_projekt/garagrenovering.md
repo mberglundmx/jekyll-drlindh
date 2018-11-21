@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Garagrenovering
-teaser: /images/uploads/garagerenovering.jpeg
+teaser: /images/uploads/P-dack renovering liten.jpg
+feature: /images/uploads/P-dack renovering feataure.jpg
 ---
 Renoveringen av garaget har pågått sedan i maj år 2018. Arbetet utförs av Betong Teknik Väst AB på totalentreprenad. Före sommaren färdigställdes nytt tätskikt på övre garagedäck. Tätskiktet består av bitumenmatta med ett skyddande skikt av gjutasfalt.
 
