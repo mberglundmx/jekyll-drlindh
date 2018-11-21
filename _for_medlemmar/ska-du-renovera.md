@@ -12,7 +12,8 @@ Du har rätt att efter eget val ändra, bygga om eller installera nyheter i din 
 
 Ansökan till styrelsen kan lämnas via e-post eller i föreningens brevlåda i entrén i Hus 3.
 
-[Ansökan att skicka till styrelsen](/assets/img/2013-02-15_bygglov-brf.pdf)
+[Ansökan att skicka till styrelsen](/images/uploads/2013-02-15_bygglov-brf.pdf)
+
 
 ### VVS-installationer i lägenheten
 
