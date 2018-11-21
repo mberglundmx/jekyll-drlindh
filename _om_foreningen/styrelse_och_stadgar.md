@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Styrelse
-teaser: /images/uploads/dr-lind-sidhuvud (liten).png
-feature: /images/uploads/dr-lind-sidhuvud (feature).png
+teaser: /images/uploads/Postlada liten.jpg
+feature: /images/uploads/Postlada feature.jpg
 ---
 Föreningens styrelse har möte en gång i månaden, vanligen första helgfria torsdagen i månaden. 
 
