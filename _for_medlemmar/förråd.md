@@ -6,7 +6,7 @@ feature: /images/uploads/Cyklar feature.jpg
 ---
 Lägenhetsförråd, extra förråd och cykelrum
 
-## Vindsförråd
+## Lägenhetsförråd
 
 Till varje lägenhet hör ett vindsförråd. Vindsförråden är anpassade till lägenhetsstorleken d v s 4-6 rummare –> stort vindsförråd och 1 rummare –> litet vindsförråd.
 
@@ -18,4 +18,4 @@ För frågor eller önskan att ställa sig i kö för stora eller små förråde
 
 ## Cykelrum
 
-I varje hus finns rum på entréeplan för cyklar. Här förvarss också en del barnvagnar och andra utomhusleksaker.
+I varje hus finns rum på entréeplan för cyklar. Här förvaras också en del barnvagnar och andra utomhusleksaker.
