@@ -4,9 +4,9 @@ title: Stadgar och årsredovisning
 teaser: /images/uploads/DSCF3495 (liten).jpg
 feature: /images/uploads/DSCF3495 (feature).jpg
 ---
-## Föreningens stadgar
-
 Föreningens stadgar är reviderade för att följa de senaste lagändringarna för bostadsrättsföreningar.
+
+## Föreningens stadgar
 
 [Stadgar för Bostadsrättsföreningen Doktor Lindh](/images/uploads/Stadgar%20BRF_Dr_Lindh_Nya_2016.pdf)
 
