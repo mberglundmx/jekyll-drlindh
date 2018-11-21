@@ -6,10 +6,14 @@ feature: /images/uploads/kuvert feature.jpg
 ---
 Föreningens ekonomiske förvaltare är 
 
-Revisorsringen
+**Revisorsringen**
 
-Distansgatan 2,
+Distansgatan 2
 
 421 37 Västra Frölunda
 
-Föreningens kontaktperson på Revisorsringen är Jenny Bergendahl,  <mailto:jenny.bergendahl@revisorsringen.se>, 031-7098158.
+**Jenny Bergendahl** är föreningens kontaktperson på Revisorsringen
+
+031-7098158
+
+<mailto:jenny.bergendahl@revisorsringen.se>
