@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Gemensamhetslokal
-teaser: /images/uploads/img_6166-1- (liten).jpg
+teaser: /images/uploads/ballonger i porten liten.jpg
+feature: /images/uploads/ballonger i porten feature.jpg
 ---
 Brf Dr Lindh har en gemensamhetslokal i bottenvåningen på Doktor Lindhs gata 3 som medlemmarna kan hyra. I lokalen finns bord och stolar. Om man har konferenssittning får det plats omkring 60 personer.
 
@@ -18,7 +19,8 @@ Lokalen bokas genom att skicka mejl till
 * Kerstin Eurenius, kerstin.eurenius@gmail.com eller
 * Gunilla.Rehn, rehngunilla@gmail.com
 
-Ange Brf-nummer samt nummer enligt skatteverkets regler, e-postadress samt önskat datum och tid (dag / kväll) när du önskar hyra lokalen.
+Ange Brf-nummer samt nummer enligt skatteverkets regler, e-postadress samt önskat datum och tid (dag /kväll) när du önskar hyra lokalen.
 
-[Information om gemensamhetslokalen i pdf-format](assets/img/Info_gemensamhetslokal.pdf)
-[Blankett och reglerna för gemensamhetslokalen!](/assets/img/riktlinjer_gemlokal_ifyllbar_blankett.pdf)
+[Information om gemensamhetslokalen i pdf-format](/images/uploads/info om bokning av gemensamhetslokal_maj2018.pdf)
+
+[Blankett och reglerna för gemensamhetslokalen!](/images/uploads/riktlinjer_gemlokal_ifyllbar_blankett.pdf)
