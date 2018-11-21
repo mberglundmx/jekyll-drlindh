@@ -2,6 +2,7 @@
 layout: page
 title: SDN lokalen i hus 1 blir bostadsrätter
 teaser: /images/uploads/ritningsutsnitt.jpg
+feature: /images/uploads/Ritning nya lgh.jpg
 ---
 Föreningen har sedan lång tid tillbaka hyrt ut lokaler i bottenvåningen i hus 1 till Stadsdelsnämnden Centrum (SDN). Lokalerna har tidigare använts för vård av multihandikappade barn. De senaste åren har de fungerat som stödboende för ensamkommande ungdomar.
 
