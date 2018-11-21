@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Byte av radiatorventiler
-teaser: /images/uploads/radiatorsventil-kass-bild.png
+teaser: /images/uploads/Radiatorventil liten.jpg
+feature: /images/uploads/Radiatorventil feature.jpg
 ---
 Radiatorventilerna är nu bytta i alla hus. Under våren 2018 genomfördes byte i hus 1 och hus 4 och efter sommaren i hus 3 och hus 6. Med tanke på det stora antalet radiatorer i föreningen så har det uppstått väldigt få problem. 
 
