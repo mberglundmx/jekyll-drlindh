@@ -3,7 +3,7 @@ layout: page
 title: Styrelsen
 teaser: /images/uploads/linblad-400x250.jpeg
 ---
-P**ostadress, **brevlåda finns vid entrén i Hus 3
+**Postadress,** brevlåda finns vid entrén i Hus 3
 
 Brf Doktor Lindh 
 
