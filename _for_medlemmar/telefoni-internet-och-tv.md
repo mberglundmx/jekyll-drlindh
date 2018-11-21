@@ -1,7 +1,8 @@
 ---
 layout: page
 title: 'Telefoni, internet och TV'
-teaser: /images/uploads/DSCF3488 (liten).jpg
+teaser: /images/uploads/Sladdar liten.jpg
+feature: /images/uploads/Sladdar feature.jpg
 ---
 Föreningen har ett avtal med Bredbandbolaget som omfattar FiberTV, Bredband och IP-telefoni. Bredbandet är 250/100 Mbit/s. FiberTV innebär att TV distribueras genom bredbandet istället för som tidigare genom kabel-TV nätet. FiberTV omfattar för närvarande 18 TV kanaler varav 12 st. kan ses i HD kvalitet. I avtalet ingår en router och en digital TV-box.
 
