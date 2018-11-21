@@ -14,7 +14,7 @@ Det är viktigt att veta hur du ska agera om det börjar brinna i ett flerbostad
 Räddningstjänsten har i samband med inspektion i husen gjort påpekanden om att vindsgångar, trapphus och våningsplan skall hållas helt fria från lösa föremål. Dessa ytor är våra utrymningsvägar. Detta inkluderar även dörrmattor utanför dörren.
 Bostadsrättsföreningen är skyldig att genom regelbunden kontroll se till att dessa ytor är tomma. Föreningens ansvar grundas bl. a. på Myndigheten för samhällsskydd och beredskaps föreskrifter om brandskydd.
 
-[Läs mer: Myndigheten för samhällsskydd och beredskaps](msb.se)
+[Läs mer: Myndigheten för samhällsskydd och beredskaps](https://www.msb.se/)
 
 ## Hjärtstartare
 
