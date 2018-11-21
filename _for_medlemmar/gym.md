@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gym
-teaser: /images/uploads/2012-07-15_Spegelbild-rev.gif
+teaser: /images/uploads/2012-07-15_spegelbild-rev.gif
 feature: /images/uploads/2012-07-15_spegelbild-rev feature.gif
 ---
 I hus 1:s källare, ingång norra gaveln, har föreningen ett gym för bostadsrättsinnehavarna. Gymmet kan användas alla dagar mellan kl 8.00 och 22.00.
