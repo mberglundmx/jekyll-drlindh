@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Ska du renovera?
-teaser: /images/uploads/dr-lindh-testbild (liten).png
+teaser: /images/uploads/diskbank liten.jpg
+feature: /images/uploads/diskbank feature.jpg
 ---
 Som bostadsrättsinnehavare har du rätt att göra ändringar i din bostad. Tänk på det här innan du sätter i gång!
 
