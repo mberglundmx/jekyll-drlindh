@@ -22,8 +22,6 @@ Varje år den 4 december firas föreningen med glöggkalas.
 
 I många år har aktiva medlemmar bidragit med konstverk och konsthantverk av skilda slag till en gemensam vårsalong! Detta brukar hända i mars och är ett mycket uppskattat arrangemang.
 
-![Höstlöven samlas i korg.](/images/uploads/Lovkorg Urban Thiria (liten).JPG)
-
 ![Lokalt band som spelar i Gemensamhetslokalen!](/images/uploads/Musiker_Dr_Lindh_dec_2017.jpg)
 
-##
+![Affisch för Vår salongen](/images/uploads/Varsalong liten.jpg)
