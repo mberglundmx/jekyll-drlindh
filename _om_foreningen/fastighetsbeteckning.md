@@ -2,6 +2,7 @@
 layout: page
 title: Fastighetsbeteckning
 teaser: /images/uploads/img_6220 (liten).jpg
+feature: /images/uploads/img_6220 (feature).jpg
 ---
 I föreningen ingår fyra fastigheter, fastighetsbeteckningarna är:
 
