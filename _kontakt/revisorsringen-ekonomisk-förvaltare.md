@@ -1,7 +1,8 @@
 ---
 layout: page
 title: 'Revisorsringen, ekonomisk förvaltare'
-teaser: /images/uploads/revisorsringen_loga45-300x104.png
+teaser: /images/uploads/kuvert liten.jpg
+feature: /images/uploads/kuvert feature.jpg
 ---
 Föreningens ekonomiske förvaltare är 
 
