@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Parkering
-teaser: /images/uploads/img_6150 (liten).jpg
+teaser: /images/uploads/Parkeringsplatser 1 liten.jpg
+feature: /images/uploads/Parkeringsplatser 1 feature.jpg
 ---
 Det finns både p-platser att hyra och gästparkringsplatser.
 
