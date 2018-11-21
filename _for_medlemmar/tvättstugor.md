@@ -12,7 +12,7 @@ Man bokar tid genom att flytta sitt "tvättlås" till önska tid på tavlan. Man
 
 I flera tvättsugor finns också en minder tvättmaksin och torktumlar som inte får bokas i förväg utan bara användas genast.
 
-## Håll ordning och visa hänsyn
+**Håll ordning och visa hänsyn**
 
 Regler för användning, samt tidbokning, finns anslaget i tvättstugan.
 
