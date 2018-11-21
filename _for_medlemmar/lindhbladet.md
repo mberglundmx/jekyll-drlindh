@@ -11,18 +11,18 @@ Om du är intresserad av tidigare Lindhblad än de som ligger här nedan så hö
 
 ## Senaste numret av Lindhbladet
 
-\[Lindhbladet oktober 2018]
+[Lindhbladet oktober 2018](/images/uploads/Lindhbladet_2_2018-web.pdf)
 
 ## Tidigare nummer av Lindblandet
 
-* \[Lindhbladet 2: 2018]
-* \[Lindhbladet 1: 2018]
-* \[Lindhbladet 2: 2017]
-* \[Lindhbladet 1: 2017]
-* \[Lindhbladet 2: 2016]
-* \[Lindhbladet 1: 2016]
-* \[Lindhbladet 2: 2015]
-* \[Lindhbladet 1: 2015]
+* [Lindhbladet 2: 2018](/images/uploads/Lindhbladet_2_2018-web.pdf)
+* [Lindhbladet 1: 2018](/images/uploads/Lindhbladet_1_2018_april.pdf)
+* [Lindhbladet 2: 2017](/images/uploads/Lindhbladet_2-2017_okt.pdf)
+* [Lindhbladet 1: 2017](/images/uploads/Lindhbladet_1-2017april.pdf)
+* [Lindhbladet 2: 2016](/images/uploads/Lindhbladet_2-2016.pdf)
+* [Lindhbladet 1: 2016](/images/uploads/Lindhbladet_1-2016.pdf)
+* [Lindhbladet 2: 2015](/images/uploads/Lindhbladet_2-2015.pdf)
+* [Lindhbladet 1: 2015](/images/uploads/Lindhbladet_1-2015.pdf)
 * [Lindhbladet 2: 2014](/images/uploads/2014-10-22_Lindhbladet_2-2014.pdf)
 * [Lindhbladet 1: 2014](/images/uploads/2014-03-24_Lindhbladet.pdf)
 * [Lindhbladet 2: 2013](/images/uploads/2013-10-28_lindhbladet.pdf)
