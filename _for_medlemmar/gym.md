@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Gym
-teaser: /images/uploads/2012-07-15_spegelbild-rev.gif
-feature: /images/uploads/2012-07-15_spegelbild-rev feature.gif
+teaser: /images/uploads/Gym 1 liten.jpg
+feature: /images/uploads/Gym feature.jpg
 ---
 I hus 1:s källare, ingång norra gaveln, har föreningen ett gym för bostadsrättsinnehavarna. Gymmet kan användas alla dagar mellan kl 8.00 och 22.00.
 
@@ -17,8 +17,10 @@ Har du några frågor? Kontakta Kent Asp, Hus 4, som är kontaktperson för gymm
 * **Föreningen:** drlindh@gmail.com eller brevlådan i Hus 3:s entré.
 * **Gym-ansvarig:** kentasp37@gmail.com
 
-![null](/images/uploads/bankpress-rev-300x225.gif)
+![null](/images/uploads/Gym 2.jpg)
 
-![null](/images/uploads/benpress-rev-276x300.gif)
+![null](/images/uploads/Gym 3.jpg)
 
-![null](/images/uploads/vikter-rev-235x300.gif)
+![null](/images/uploads/Gym 4.jpg)
+
+![](/images/uploads/Gym 6.jpg)
