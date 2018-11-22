@@ -9,5 +9,4 @@ pagination:
 
 Här kan du läsa mer information om vår Bostadsrättsförening, klicka på menyerna ovan, eller läs senaste notiserna nedan.
 
-.
 
