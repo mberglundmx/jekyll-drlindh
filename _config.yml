@@ -15,7 +15,8 @@ defaults:
     permalink: "/blog/:title/"
     layout: post
     author:
-    pagination: enabled: true
+    pagination: 
+      enabled: true
 
 collections:
   for_medlemmar:
