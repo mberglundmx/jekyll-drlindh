@@ -6,14 +6,13 @@ feature: /images/uploads/Sladdar feature.jpg
 ---
 Föreningen har ett avtal med Bredbandbolaget som omfattar FiberTV, Bredband och IP-telefoni. Bredbandet är 250/100 Mbit/s. FiberTV innebär att TV distribueras genom bredbandet istället för som tidigare genom kabel-TV nätet. FiberTV omfattar för närvarande 18 TV kanaler varav 12 st. kan ses i HD kvalitet. I avtalet ingår en router och en digital TV-box.
 
-**Ny medlem, **som ny medlem skall du anmäla till Bredbandsbolaget att du övertagit lägenheten och vilka tjänster du vill ha. Du får låna router och TV-box av Bredbandsbolaget och de skall återlämnas när du flyttar.
+**Ny medlem**, som ny medlem skall du anmäla till Bredbandsbolaget att du övertagit lägenheten och vilka tjänster du vill ha. Du får låna router och TV-box av Bredbandsbolaget och de skall återlämnas när du flyttar.
 
 ### Bredbandsbolagets kundsupport
 
-Kundsupport:  tel. 0770-777000
-Dit ringer man vid alla typer av problem som rör Bredbandsbolaget. Man ringer dit även när man vill beställa saker, allt från prylar till tjänster och tekniker som kommer hem och gör saker. Allt utöver avtalet får man betala själv.
+Kundsupport:  tel. 0770-777000. Dit ringer man vid alla typer av problem som rör Bredbandsbolaget. Man ringer dit även när man vill beställa saker, allt från prylar till tjänster och tekniker som kommer hem och gör saker. Allt utöver avtalet får man betala själv.
 
-Bredbandsbolaget egen information: www.bredbandsbolaget.se
+[Bredbandsbolaget på webben ](www.bredbandsbolaget.se)
 
 ## Avbrott i telekommunikationen
 
