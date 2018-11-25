@@ -14,7 +14,6 @@ Ansökan till styrelsen kan lämnas via e-post eller i föreningens brevlåda i 
 
 [Ansökan att skicka till styrelsen](/images/uploads/2013-02-15_bygglov-brf.pdf)
 
-
 ### VVS-installationer i lägenheten
 
 Det är viktigt att VVS-installationer genomföres av kvalificerad personal för att undvika skador på byggnader och stammar.
@@ -58,7 +57,5 @@ Uppgraderig från 1-fas till 3-fas i små lägenheter kan utföras efter samråd
 
 ## Balkonger
 
-Blomlådor på balkongräcket skall av säkerhetsskäl placeras på INSIDAN.
-Håltagningar/borrning i betongelementen som omgärdar balkongerna är INTE tillåtet, risk för vatteninträngning som kan medföra vittring av betongen.
-
-Regler och rekommendationer för de nya balkongerna
+Blomlådor på balkongräcket skall av säkerhetsskäl placeras på insidan.
+Håltagningar/borrning i betongelementen som omgärdar balkongerna är inte tillåtet, risk för vatteninträngning som kan medföra vittring av betongen.
