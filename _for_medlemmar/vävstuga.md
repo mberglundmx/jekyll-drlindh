@@ -10,5 +10,5 @@ Har du några frågor? Kontakta Kerstin Eurenius, Hus 3, som är kontaktperson f
 
 ### Kontakt
 
-* Föreningen: drlindh@gmail.com
-* Vävstugeansvarig: Kerstin Eurenius
+* **Föreningen**: drlindh@gmail.com
+* **Vävstugeansvarig**: Kerstin Eurenius
