@@ -74,4 +74,4 @@ Fordon med speciellt tillstånd för rörelsehindrade får parkera i 3 timmar p�
 
 Det är tillåtet att parkera max 10 minuter i bostadsområdet i samband med av- och pålastning.
 
-P-övervakningen hanteras f o m januari 2007 av Controlla, (Tel. 23 00 00).
+P-övervakningen hanteras f o m januari 2007 av Controlla, Tel. 23 00 00.
