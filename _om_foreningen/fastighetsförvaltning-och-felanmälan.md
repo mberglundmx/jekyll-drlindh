@@ -2,6 +2,7 @@
 layout: page
 title: Fastighetsförvaltning och felanmälan
 teaser: /images/uploads/img_6138 (liten).jpg
+feature: /images/uploads/img_6138 (feature).jpg
 ---
 Teknisk fastighetsförvaltning sköts av Svensk markservice (SMS).
 Fastighetsskötare Pierre Meths mfl.
