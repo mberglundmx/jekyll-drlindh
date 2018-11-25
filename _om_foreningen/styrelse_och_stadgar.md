@@ -19,7 +19,7 @@ Föreningens styrelse har möte en gång i månaden, vanligen första helgfria t
 * **Suppleant** Johan Bergström, Hus 3
 * **Suppleant** Markus Berglund, Hus 4 
 
-Styrelsens ledamöter har olika ansvarsområden
+Styrelsens ledamöter har olika ansvarsområden.
 För vissa områden är också medlemmar utanför styrelsen ansvariga.
 
 ## Revisorer
