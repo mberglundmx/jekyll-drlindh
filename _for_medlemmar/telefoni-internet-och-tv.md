@@ -16,8 +16,7 @@ Kundsupport:  tel. 0770-777000. Dit ringer man vid alla typer av problem som rö
 
 ## Avbrott i telekommunikationen
 
-Vid avbrott i bredbandsanslutningen fungerar ingenting. TV fungerar inte, där kan finnas meddelande om att nätverkskontakt saknas. IP-telefonen fungerar inte, det går inte att ringa och det går inte att ta emot samtal. Bredbandet fungerar inte, det går inte att surfa på Internet, det går inte att skicka eller ta emot e-post. Första åtgärd är att stänga av strömmen till routern, vänta 30 sek och sedan starta routern igen.
-Är det fortfarande problem, ring Bredbandsbolagets kundsupport, 0770-77 70 00.
+Vid avbrott i bredbandsanslutningen fungerar ingenting. TV fungerar inte, där kan finnas meddelande om att nätverkskontakt saknas. IP-telefonen fungerar inte, det går inte att ringa och det går inte att ta emot samtal. När bredbandet inte fungerar det går inte att surfa på Internet, det går inte att skicka eller ta emot e-post. Första åtgärd är att stänga av strömmen till routern, vänta 30 sek och sedan starta routern igen. Om det fortfarande problem, ring Bredbandsbolagets kundsupport, 0770-77 70 00.
 
 ## FiberTV
 
