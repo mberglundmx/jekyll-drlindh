@@ -19,14 +19,14 @@ Vi kommer att anlita ett certifierat företag som levererar dosor och utför ana
 
 Bakgrunden till mätningen är att vi måste följa det som Riksdagen har beslutat angående miljömålen enligt nedan:
 
-_Riksdagen har fastställt 15 miljökvalitetsmål för att inom en generation nå en ekologisk hållbar utveckling. I detta arbete är människors hälsa ett av fem grundläggande värden. Socialstyrelsen har ett övergripande ansvar för att driva och utveckla arbetet med hälsofrågor i miljömålsarbetet nationellt, samt att stödja detta arbete regionalt och lokalt. _
+_Riksdagen har fastställt 15 miljökvalitetsmål för att inom en generation nå en ekologisk hållbar utveckling. I detta arbete är människors hälsa ett av fem grundläggande värden. Socialstyrelsen har ett övergripande ansvar för att driva och utveckla arbetet med hälsofrågor i miljömålsarbetet nationellt, samt att stödja detta arbete regionalt och lokalt._
 
-_I maj 2002 fastställde riksdagen ett åttonde delmål under miljökvalitets- målet God bebyggd miljö: _
+_I maj 2002 fastställde riksdagen ett åttonde delmål under miljökvalitets- målet God bebyggd miljö:_
 
-_År 2020 ska byggnader och deras egenskaper inte påverka hälsan negativt. Därför ska det säkerställas att samtliga byggnader där människor vistas ofta eller under längre tid senast år 2015 har en dokumenterat fungerande ventilation, _
+_År 2020 ska byggnader och deras egenskaper inte påverka hälsan negativt. Därför ska det säkerställas att samtliga byggnader där människor vistas ofta eller under längre tid senast år 2015 har en dokumenterat fungerande ventilation,_
 
-* _radonhalten i alla skolor och förskolor år 2010 är lägre än 200 Bq/m3 luft och att _
-* _radonhalten i alla bostäder år 2020 är lägre än 200 Bq/m3 luft. _
+* _radonhalten i alla skolor och förskolor år 2010 är lägre än 200 Bq/m3 luft och att_
+* _radonhalten i alla bostäder år 2020 är lägre än 200 Bq/m3 luft._
 
 Från Stadsbyggnadskontoret har vi fått ett utsnitt av radonkartan över Göteborg. Där framgår att våra Hus ligger på mark som är normalriskområde.
 
