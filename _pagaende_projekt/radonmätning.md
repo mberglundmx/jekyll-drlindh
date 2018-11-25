@@ -13,7 +13,7 @@ Styrelsen kommer att kontakta de lägenhetsinnehavare där dosorna ska placeras.
 
 Vi kommer att anlita ett certifierat företag som levererar dosor och utför analysen av mätningen. Resultatet kommer vi att publicera på hemsidan och anslå på anslagstavlorna i husen. Företaget heter RADONOVA. På deras hemsida kan man läsa mer. 
 
-[Radonova](https://radonova.se/)
+[Radonovas webbsida](https://radonova.se/)
 
 ## Bakgrund
 
