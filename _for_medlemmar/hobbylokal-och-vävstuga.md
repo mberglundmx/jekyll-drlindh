@@ -9,5 +9,5 @@ Har du några frågor? Kontakta fastighetsskötarna eller styrelsen per e-post e
 
 ### Kontakt
 
-* Föreningen: drlindh@gmail.com
-* Fastighetsskötaren: fastighetsskötar@drlindh.se
+* **Föreningen:** drlindh@gmail.com
+* **Fastighetsskötaren:** fastighetsskötar@drlindh.se
