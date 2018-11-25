@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Glögg, pepparkakor & musik - 4 december'
+title: 'Glögg, pepparkakor & musik Välkommen 4 december'
 date: '2018-11-25'
 teaser: /images/uploads/Pepparkakor Liten.jpg
 ---
