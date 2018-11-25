@@ -20,4 +20,4 @@ Föreningens årsstämma hålls i april varje år.
 * [2014 Årsredovisning](/images/uploads/Arsredovisning%202014_BRF_Lindh.pdf) 
 * [2013 Årsredovisning](/images/uploads/Arsredovisning%202013_BRF_Lindh.pdf) 
 * [2012 Årsredovisning](/images/uploads/Arsredovisning%202012_BRF_Lindh.pdf) 
-* [2011 Årsredovisning](/images/uploads/Arsredovisning%202011_BRF_Lindh.pdf)(
+* [2011 Årsredovisning](/images/uploads/Arsredovisning%202011_BRF_Lindh.pdf)
