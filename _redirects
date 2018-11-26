@@ -22,5 +22,8 @@ http://drlindh.se/* https://www.drlindh.se/:splat 301!
 https://beta.drlindh.se/* https://www.drlindh.se/:splat 301!
 http://beta.drlindh.se/* https://www.drlindh.se/:splat 301!
 
-
-
+https://www.drlindh.se/om_oss.html https://www.drlindh.se/om_foreningen/ 301!
+https://www.drlindh.se/aktuellt.html https://www.drlindh.se 301!
+https://www.drlindh.se/styrelse.html https://www.drlindh.se/om_foreningen/styrelse-och-stadgar 301!
+https://www.drlindh.se/medlemskap.html https://www.drlindh.se/om_foreningen/medlemskap 301!
+https://www.drlindh.se/lokaler.html https://www.drlindh.se/for_medlemmar/ 301!
