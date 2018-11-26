@@ -33,9 +33,9 @@ Källor: Göteborgs Kommun m.m.
 
 Här kan Du ta del av artiklar som skrevs i dagspressen under tiden som pionjärerna jobbade på att ta över husen från Bostadsbolaget:
 
-* [Beslutet (Göteborgs Posten 1991-06-18)](https://github.com/drlindh/www/blob/master/images/uploads/1991_06_18_Bostadsbolaget_beslut.pdf)
-* [Pionjärer (1991-11-11)](https://github.com/drlindh/www/blob/master/images/uploads/1991_11_11_Lundberg_Bjorck_Ridell.pdf)
-* [Utsikt från balkong (Göteborgs Posten 1992-02-18)](https://github.com/drlindh/www/blob/master/images/uploads/1992-02-18_GP_Lillemor_Bergstrom.pdf)
-* [Planering (Göteborgs Posten 1992-02-17)](https://github.com/drlindh/www/blob/master/images/uploads/1992_02_17_Ridell_Karlsson_Bjorck.pdf)
-* [Utflyttning (1992-01-18)](https://github.com/drlindh/www/blob/master/images/uploads/1992_02_18_Felaktig_utflyttning.pdf)
-* [Pionjärer 2 (SvD 1992)](https://github.com/drlindh/www/blob/master/images/uploads/1992_SvD_Johanson_Bjorck_Hellgren.pdf)
+* [Beslutet (Göteborgs Posten 1991-06-18)](/images/uploads/1991_06_18_Bostadsbolaget_beslut.pdf)
+* [Pionjärer (1991-11-11)](/images/uploads/1991_11_11_Lundberg_Bjorck_Ridell.pdf)
+* [Utsikt från balkong (Göteborgs Posten 1992-02-18)](/images/uploads/1992-02-18_GP_Lillemor_Bergstrom.pdf)
+* [Planering (Göteborgs Posten 1992-02-17)](/images/uploads/1992_02_17_Ridell_Karlsson_Bjorck.pdf)
+* [Utflyttning (1992-01-18)](/images/uploads/1992_02_18_Felaktig_utflyttning.pdf)
+* [Pionjärer 2 (SvD 1992)](/images/uploads/1992_SvD_Johanson_Bjorck_Hellgren.pdf)
