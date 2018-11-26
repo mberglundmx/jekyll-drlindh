@@ -3,7 +3,7 @@ layout: post
 title: Lindhbladet - senaste nummret finns nu digitalt.
 date: '2018-11-06'
 teaser: /images/uploads/linblad-400x250.jpeg
-feature: ''
+feature:
 ---
 Senaste numret av Lindhbaldet kom i oktober 
 
