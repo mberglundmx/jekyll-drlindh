@@ -3,6 +3,7 @@ layout: post
 title: 'Glögg, pepparkakor & musik Välkommen 4 december'
 date: '2018-11-25'
 teaser: /images/uploads/Pepparkakor Liten.jpg
+feature: /images/uploads/Pepparkakor feature.png
 ---
 Föreningen firar traditionsenligt sin födelsedag tisdag 4 december.
 
