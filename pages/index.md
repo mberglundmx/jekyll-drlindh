@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: BRF Doktor Lindh.
+title: Välkommen till BRF Doktor Lindh
 permalink: /
 feature: /images/uploads/vy från vattentornet feature.jpg
 pagination:
