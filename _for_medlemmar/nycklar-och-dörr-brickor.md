@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Nycklar och dörr-brickor
+title: Dörr-brickor och nycklar
 teaser: /images/uploads/nycklar liten.jpg
 feature: /images/uploads/nycklar feature.jpg
 ---
