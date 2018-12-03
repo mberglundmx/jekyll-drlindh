@@ -14,24 +14,24 @@ Vi som bodde i husen skulle bli tvingade att flytta vilket flertalet upplevde so
 
 Många barnfamiljer med stora lägenheter var djupt bekymrade över att deras hem hotades av stympning. Ombyggnaden skulle också innebära en dramatisk hyreshöjning vilket gjorde att även ett mycket stort antal av de som bodde i de små lägenheterna protesterade.
 
-Vi som bodde i husen önskade en uppfräschning/reparation av dem, men inte någon utflyttning och framförallt inte en ombyggnad som innebar förändrade lägenhetsstorlekar. Eftersom hyreskontrakten var av andrahandstyp hade vi till en början svårt att få gehör för vara krav. Vi kunde emellertid visa att såväl Göteborgs Bostadsbolag, sjukvårdförvaltningen, hyresgästföreningen som bostadsförmedlingen hade skött reparations/ombyggnadsärendet på ett otillfredsställande sätt.
+Vi som bodde i husen önskade en uppfräschning/reparation av dem, men inte någon utflyttning och framförallt inte en ombyggnad som innebar förändrade lägenhetsstorlekar. Eftersom hyreskontrakten var av andrahandstyp hade vi till en början svårt att få gehör för våra krav. Vi kunde emellertid visa att såväl Göteborgs Bostadsbolag, sjukvårdförvaltningen, hyresgästföreningen som bostadsförmedlingen hade skött reparations/ombyggnadsärendet på ett otillfredsställande sätt.
 
 Sommaren 1991 – innan någon reparation eller ombyggnad påbörjats – erbjöd Bostadsbolaget de boende att köpa fastigheterna. Fr.o.m. den 1 februari 1992 blev husen på Dr. Lindhs gata en bostadsrättsförening och samtidigt påbörjades reparationerna. Dessa gjordes i enlighet med de boendes önskemål och innebar en upprustning av husen med bibehållen lägenhetsstorlek. Dessutom behövde vi inte flytta under reparationsarbetet.
 
 ## Doktor Lindhs Gata
 
-Vår gata är uppkallad efter Alrik Lindh, 1844 – 98, överkirurg vid Sahlgrenska sjukhuset. Under Lindhs tid växte den moderna kirurgin fram och han införde snabbt nyheterna på sjukhuset där han var överkirurg från 1882 fram till sin död. Han var en mycket populär läkare som kunde ta folk på ett förtroendeingivande, personligt och skämtsamt sätt.Doktor Lindh var ledamot av hälsovårdsnämnden och tog del i utredningen angående det nya Sahlgrenska vid Änggården. 1891 inrättades på hans initiativ ett konvalescenthem inom landeriet Götaberg. Denne man var vidare den förste ordföranden i lokalavdelningen av Svenska Likbränningsföreningen.
+Vår gata är uppkallad efter Alrik Lindh, 1844 – 98, överkirurg vid Sahlgrenska sjukhuset. Under Lindhs tid växte den moderna kirurgin fram och han införde snabbt nyheterna på sjukhuset där han var överkirurg från 1882 fram till sin död. Han var en mycket populär läkare som kunde ta folk på ett förtroendeingivande, personligt och skämtsamt sätt. Doktor Lindh var ledamot av hälsovårdsnämnden och tog del i utredningen angående det nya Sahlgrenska vid Änggården. 1891 inrättades på hans initiativ ett konvalescenthem inom landeriet Götaberg. Denne man var vidare den förste ordföranden i lokalavdelningen av Svenska Likbränningsföreningen.
 
 Doktor Lindhs Gata fick sitt namn 1958. Till minne av Alrik Lindh finns även en pensionsfond avsedd för sjuksköterskor. Flertalet av Guldhedens ”doktorsgator” är namngivna 1949 liksom våra tre ”systergator”. I förslagsarbetet deltog professor Sven Johansson, som avled 1959.
 
 Johansson, känd för sin lårbensspik, återfinns sedan 1992 på vår närmaste granngata. Den obebodda backen upp till vattentornet passar hans långa namn – som postadress vore det opraktiskt. Av samma skäl kan vi glädja oss åt att alla professorer blivit vanliga doktorer på skyltarna.
 
 Kortaste gatunamnet tillhör den äldste av doktorerna. Doktor Bex avled 1690. De därnäst kortaste doktorsnamnen är Fries och Lindh. Dessa två namn blir ofta ännu kortare genom felstavning.
-Källor: Göteborgs Kommun m.m.
+Källor: Göteborgs kommun m.m.
 
 ## Artiklar från föreningens bildande 1991-1992
 
-Här kan Du ta del av artiklar som skrevs i dagspressen under tiden som pionjärerna jobbade på att ta över husen från Bostadsbolaget:
+Här kan du ta del av artiklar som skrevs i dagspressen under tiden som pionjärerna jobbade på att ta över husen från Bostadsbolaget:
 
 * [Beslutet (Göteborgs Posten 1991-06-18)](/images/uploads/1991_06_18_Bostadsbolaget_beslut.pdf)
 * [Pionjärer (1991-11-11)](/images/uploads/1991_11_11_Lundberg_Bjorck_Ridell.pdf)
