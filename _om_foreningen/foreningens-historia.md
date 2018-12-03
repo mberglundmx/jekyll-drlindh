@@ -31,7 +31,7 @@ Källor: Göteborgs kommun m.m.
 
 ## Artiklar från föreningens bildande 1991-1992
 
-Här kan du ta del av artiklar som skrevs i dagspressen under tiden som pionjärerna jobbade på att ta över husen från Bostadsbolaget:
+Här kan du ta del av artiklar som skrevs i dagspressen under tiden som pionjärerna jobbade på att ta över husen från Bostadsbolaget.
 
 * [Beslutet (Göteborgs Posten 1991-06-18)](/images/uploads/1991_06_18_Bostadsbolaget_beslut.pdf)
 * [Pionjärer (1991-11-11)](/images/uploads/1991_11_11_Lundberg_Bjorck_Ridell.pdf)
