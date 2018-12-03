@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: För Medlemmar
+title: För medlemmar
 subtitle: ''
 permalink: /for_medlemmar
 feature: /images/uploads/hus 4 feature.jpg
