@@ -14,7 +14,7 @@ E-post fastighetsskotaren@drlindh.se
 
 Vid felanmälan eller önskad kontakt med fastighetsskötaren lämna namn, telefonnummer och ärende. Telefonsvararen lyssnas av dagligen och Svensk markservice (SMS) kontaktar er. Anslag med kontaktuppgifter finns i foajéer och på varje våningsplan.
 
-**OBS! **Det är viktigt att felanmälan görs till fastighetsskötarna, eller till styrelsen när fastighetsskötarna inte är tillgängliga för att rätt leverantör ska kallas till platsen. Enskild medlem som tar direktkontakt med leverantör är ansvarig mot leverantören.
+**OBS!** Det är viktigt att felanmälan görs till fastighetsskötarna, eller till styrelsen när fastighetsskötarna inte är tillgängliga för att rätt leverantör ska kallas till platsen. Enskild medlem som tar direktkontakt med leverantör är ansvarig mot leverantören.
 
 ### Jourtelefon till fastighetsskötare 0704-219 708
 
