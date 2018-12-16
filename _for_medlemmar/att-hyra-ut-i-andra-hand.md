@@ -49,6 +49,6 @@ Vi rekommenderar att du inte hyr ut till rökare eftersom röklukt kan uppleva
 
 Föreningen ansvarar genom fastighetsskötaren för att din dörrskylt förses med namnuppgift på hyresgästen.
 
-\[Policy för andrahandsuthyrning i pdf-format](/images/uploads/Policy för andrahandsupplåtelse.pdf)
+[Policy för andrahandsuthyrning i pdf-format](/images/uploads/Policy_for_andrahandsupplatelse.pdf)
 
 [Blankett för ansökan om andrahandsuthyrning](/images/uploads/Ans_andrahandsuth_2019.pdf)
