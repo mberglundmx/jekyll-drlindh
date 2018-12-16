@@ -26,7 +26,7 @@ Med andrahandsuthyrning menas att en person som inte är delägare i bostadsra
 * För andrahandsuthyrning under längre tid än en månad krävs föreningens samtycke. Föreningen beviljar tillstånd för max ett år i taget.
 * Andrahandsuthyrning kan förlängas. För längre tid krävs starkare skäl.
 
-Ansökan om andrahandsuthyrning skall lämnas minst en månad i förväg. Den första ansökan skall vara skriftlig och undertecknad. Ansäkan om förlängning kan ske via e-post.
+Ansökan om andrahandsuthyrning skall lämnas minst en månad i förväg. Den första ansökan skall vara skriftlig och undertecknad. Ansökan om förlängning kan ske via e-post.
 
 För andrahandsuthyrning debiteras en årlig avgift som motsvarar 10 % av prisbasbeloppet. Denna debiteras månadsvis via avgiften.
 
@@ -43,12 +43,12 @@ Ansökan om att hyra ut sin bostadsrätt i andra hand skall innehålla uppgif
 * Militärtjänstgöring, FN-tjänstgöring eller motsvarande
 * Brf-innehavaren har köpt lägenheten och planerar att bosätta sig i lägenheten vid pensionering men har något år kvar.
 
-Byter Du hyresgäst måste du meddela styrelsen. Vid ansökan om andrahandsuthyrning skall du kunna styrka dina skäl på lämpligt sätt genom intyg från skola, arbetsgivare eller militär myndighet om föreningen begär det. Ett avslag på ansökan om tillstånd av andrahandsuthyrning kan överklagas till hyresnämnden.
+Vid ansökan om andrahandsuthyrning skall du kunna styrka dina skäl på lämpligt sätt genom intyg från skola, arbetsgivare eller militär myndighet om föreningen begär det. Byter du hyresgäst måste du meddela styrelsen. 
 
 Vi rekommenderar att du inte hyr ut till rökare eftersom röklukt kan upplevas som störande av grannarna.
 
-Föreningen ansvarar genom fastighetsskötaren för att Din dörrskylt förses med namnuppgift på hyresgästen.
+Föreningen ansvarar genom fastighetsskötaren för att din dörrskylt förses med namnuppgift på hyresgästen.
 
-[Policy för andrahandsuthyrning i pdf-format](/images/uploads/Policy för andrahandsupplåtelse.pdf)
+\[Policy för andrahandsuthyrning i pdf-format](/images/uploads/Policy för andrahandsupplåtelse.pdf)
 
-[Blankett för ansökna om andrahandsuthyrning](/images/uploads/Ans_andrahandsuth_2019.pdf)
+[Blankett för ansökan om andrahandsuthyrning](/images/uploads/Ans_andrahandsuth_2019.pdf)
