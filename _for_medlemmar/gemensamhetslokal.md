@@ -20,7 +20,3 @@ Lokalen bokas genom att skicka mejl till
 * Gunilla.Rehn, rehngunilla@gmail.com
 
 Ange Brf-nummer samt nummer enligt skatteverkets regler, e-postadress samt önskat datum och tid (dag /kväll) när du önskar hyra lokalen.
-
-[Information om gemensamhetslokalen i pdf-format](/images/uploads/info om bokning av gemensamhetslokal_maj2018.pdf)
-
-[Blankett och reglerna för gemensamhetslokalen!](/images/uploads/riktlinjer_gemlokal_ifyllbar_blankett.pdf)
