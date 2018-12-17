@@ -55,9 +55,9 @@ Avgift betalas i P-automaten på P-däck, och är mån-fre kl 8-18 3 kr/tim, öv
 <label for="antal_dygn">Antal dygn _:</label>
 <input type="text" name="antal_dygn" id="antal_dygn">
 <label for="regnr">Bilens registreringsnummer _:</label>
-<input type="text" id="regnr">
+<input type="text" name="regnr" id="regnr">
 <label for="ovrigt">Övrig info:</label>
-<textarea id="ovrigt">
+<textarea name="ovrigt" id="ovrigt">
 
 </textarea>
 <input type="submit" id="Skicka in">
