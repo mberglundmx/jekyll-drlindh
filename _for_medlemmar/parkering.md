@@ -32,28 +32,28 @@ Avgift betalas i P-automaten på P-däck, och är mån-fre kl 8-18 3 kr/tim, öv
 <input type="text" name="fornamn">
 
 <label for="efternamn">Efternamn medlem *:</label>
-<input type="text" id="efternamn">
+<input type="text" name="efternamn" id="efternamn">
 
 <label for="lagenhetsnummer">Lägenhetsnummer Gammalt _:</label>
-<input type="text" id="lagenhetsnummer">
+<input type="text" name="lagenhetsnummer" id="lagenhetsnummer">
 <label for="lagenhetsnummer_nytt">Lägenhetsnummer Nytt _:</label>
-<input type="text" id="lagenhetsnummer_nytt">
+<input type="text" name="lagenhetsnummer_nytt" id="lagenhetsnummer_nytt">
 <label for="husnr">Hus nr:</label>
-<input type="text" id="husnr">
+<input type="text" name"husnr" id="husnr">
 <label for="telefon">Telefon _:</label>
-<input type="text" id="telefon">
+<input type="text" name="telefon" id="telefon">
 <label for="epost">Email _:</label>
-<input type="text" id="epost">
+<input type="text" name="epost" id="epost">
 
 <h4>Tidsperiod för tillfällig parkering</h4>
 
 <label for="fran">Från datum _:</label>
-<input type="text" id="fran">
+<input type="text" name="fran" id="fran">
 <label for="till">Till datum _:</label>
-<input type="text" id="till">
+<input type="text" name="till" id="till">
 
 <label for="antal_dygn">Antal dygn _:</label>
-<input type="text" id="antal_dygn">
+<input type="text" name="antal_dygn" id="antal_dygn">
 <label for="regnr">Bilens registreringsnummer _:</label>
 <input type="text" id="regnr">
 <label for="ovrigt">Övrig info:</label>
