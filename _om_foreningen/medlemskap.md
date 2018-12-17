@@ -18,7 +18,7 @@ Om du har frågor om medlemskap eller överlåtelse / försäljning av lägenhet
 
 Överlåtelseavgift betalas av köpare. Handläggning av pantsättning av bostadsrätter handläggs av vår ekonomiske förvaltare Revisorsringen. All korrespondens kan ske direkt med Revisorsringen, Distansgatan 2, 421 37 Västra Frölunda.
 
-Om du har frågor, vänd dig till Jenny Bergendahl jenny.bergendahl@revisorsringen.se eller tel: 031-7098158
+Om du har frågor, vänd dig till Jenny Bergendahl, jenny.bergendahl@revisorsringen.se eller tel 031-7098158.
 
 ## Medlemmars respektive föreningens ansvar
 
