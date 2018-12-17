@@ -36,25 +36,25 @@ Avgift betalas i P-automaten på P-däck, och är mån-fre kl 8-18 3 kr/tim, öv
 
 <label for="lagenhetsnummer">Lägenhetsnummer Gammalt _:</label>
 <input type="text" name="lagenhetsnummer" id="lagenhetsnummer">
-<label for="lagenhetsnummer_nytt">Lägenhetsnummer Nytt _:</label>
+<label for="lagenhetsnummer_nytt">Lägenhetsnummer Nytt *:</label>
 <input type="text" name="lagenhetsnummer_nytt" id="lagenhetsnummer_nytt">
 <label for="husnr">Hus nr:</label>
-<input type="text" name"husnr" id="husnr">
-<label for="telefon">Telefon _:</label>
+<input type="text" name="husnr" id="husnr">
+<label for="telefon">Telefon *:</label>
 <input type="text" name="telefon" id="telefon">
-<label for="epost">Email _:</label>
+<label for="epost">Email *:</label>
 <input type="text" name="epost" id="epost">
 
 <h4>Tidsperiod för tillfällig parkering</h4>
 
-<label for="fran">Från datum _:</label>
+<label for="fran">Från datum *:</label>
 <input type="text" name="fran" id="fran">
-<label for="till">Till datum _:</label>
+<label for="till">Till datum *:</label>
 <input type="text" name="till" id="till">
 
-<label for="antal_dygn">Antal dygn _:</label>
+<label for="antal_dygn">Antal dygn *:</label>
 <input type="text" name="antal_dygn" id="antal_dygn">
-<label for="regnr">Bilens registreringsnummer _:</label>
+<label for="regnr">Bilens registreringsnummer *:</label>
 <input type="text" name="regnr" id="regnr">
 <label for="ovrigt">Övrig info:</label>
 <textarea name="ovrigt" id="ovrigt">
