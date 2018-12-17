@@ -19,3 +19,7 @@ Bostadsrättsföreningen är skyldig att genom regelbunden kontroll se till att 
 ## Hjärtstartare
 
 I entrén i Hus 4 finns en hjärtstartare. Alla medlemmar kan komma in i Hus 4 med sin nyckelbricka.
+
+## Lägenhetsdörrar
+
+Alla dörrar in till lägenheterna är säkerhetsdörrar (Daloc) och försedda med ett cylinderlås och ett sjutillhållarlås. Vi rekommenderar alla att använda båda låsen.
