@@ -13,8 +13,6 @@ I föreningen ingår fyra fastigheter, fastighetsbeteckningarna är:
 
 Föreningens organisationsnummer: 716 444 97 58
 
-
-
 ## Numrering av lägenheterna
 
 Våra lägenheter har två olika nummer, dels Brf-numret som är unikt inom föreningen för varje lägenhet. Detta nummer används vid kontakt med föreningen, för bokning av tvättstugan och numrering av vindsförråden. Det används även när man skriver lägenhetskontrakt och i samband med pantsättning av en lägenhet. Numret finns längs upp på varje dörr.
