@@ -4,7 +4,7 @@ title: 'Värme, vatten, el, belysning, balkonger mm'
 teaser: /images/uploads/stjarnor_linte.png
 feature: /images/uploads/stjarna_feature.jpg
 ---
-Om installationer och andra nyttiga information om våra hus.
+Om installationer och annan nyttig information om våra hus.
 
 ## Värme
 
