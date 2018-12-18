@@ -1,7 +1,8 @@
 ---
 layout: page
 title: 'Värme, vatten, el, belysning, balkonger mm'
-teaser: /images/400x250.png
+teaser: /images/uploads/stjarnor_linte.png
+feature: /images/uploads/stjarna_feature.jpg
 ---
 Om installationer och andra nyttiga information om våra hus.
 
