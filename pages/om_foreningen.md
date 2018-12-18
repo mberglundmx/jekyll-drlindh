@@ -7,4 +7,4 @@ collection: om_foreningen
 ---
 Bostadsrättsföreningen Doktor Lindh registrerades 24 oktober 1991. Föreningen har till ändamål att främja medlemmarnas ekonomiska intresse genom att i föreningens hus upplåta bostadslägenheter utan tidsbegränsning.
 
-Årsstämma hålles varje vår i april.
+Årsstämma hålles varje vår i april/maj.
