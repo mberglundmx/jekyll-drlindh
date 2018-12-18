@@ -20,3 +20,5 @@ Det är möjligt för medlemmar att teckna sk hängavtal med leverantören för 
 Många av balkongerna är inglasade. Inglasningen är gjord på varje enskild medlems bekostnad. Eftersom de flesta lät göra detta i samband med balkongrenoveringen 2016/17 är det samma firma som utfört arbetet och det är ett inglasningssystem som heter Alnova. 
 
 [Information om Alnova inglasning](/images/uploads/EAlnova_Info_inglasad_balkong.pdf)
+
+Blomlådor på balkongräcket skall av säkerhetsskäl placeras på insidan.
