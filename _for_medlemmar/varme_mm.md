@@ -15,8 +15,6 @@ Det är möjligt för medlemmar att teckna sk hängavtal med leverantören för 
 
 Information om Enkla elbolagets hängavtal
 
-
-
 ## Balkonger
 
 Många av balkongerna är inglasade. Inglasningen är gjord på varje enskild medlems bekostnad. Eftersom de flesta lät göra detta i samband med balkongrenoveringen 2016/17 är det samma firma som utfört arbetet och det är ett inglasningssystem som heter Alnova. 
