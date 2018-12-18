@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Personuppgifter
-teaser: /images/400x250.png
+teaser: /images/uploads/Illustration_Hanglas_mm.png
+feature: /images/uploads/Illustration_Hanglas_mm_feature.png
 ---
 Föreningen hantera personuppgifter endast för att sköta föreningens gemensamma åtaganden. Föreningen har ett medlems- och lägenhetsregister. Vad detta register får innehålla regleras av Bostadsrättslagen (9 kap) det är: namn, postadress, lägenhetsnummer och datum för tillträde.
 
