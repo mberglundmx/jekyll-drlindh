@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Värme, el, belysning och balkonger mm'
+title: 'Värme, vatten, el, belysning, balkonger mm'
 teaser: /images/400x250.png
 ---
 Om installationer och andra nyttiga information om våra hus.
