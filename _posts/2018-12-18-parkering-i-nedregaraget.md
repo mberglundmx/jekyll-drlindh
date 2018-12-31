@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Parkering i nedregaraget!
+title: Parkering i nedre garaget!
 date: '2018-12-18'
 teaser: /images/uploads/garagrenoveringnotisbild.jpg
 ---
-Parkering kan åter ske i nedre garaget  från lördagen den 22 december kl 08:00.
+Parkering kan åter ske i nedre garaget från lördagen den 22 december kl 08:00.
 
 Tillfälliga P-platser måste lämnas senast måndagen den 24 december kl 08:00.
 
