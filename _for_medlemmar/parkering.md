@@ -34,11 +34,11 @@ Avgift betalas i P-automaten på P-däck, och är mån-fre kl 8-18 3 kr/tim, öv
 <label for="efternamn">Efternamn medlem *:</label>
 <input type="text" name="efternamn" id="efternamn">
 
-<label for="lagenhetsnummer">Lägenhetsnummer Gammalt _:</label>
+<label for="lagenhetsnummer">Lägenhetsnummer Gammalt *:</label>
 <input type="text" name="lagenhetsnummer" id="lagenhetsnummer">
 <label for="lagenhetsnummer_nytt">Lägenhetsnummer Nytt *:</label>
 <input type="text" name="lagenhetsnummer_nytt" id="lagenhetsnummer_nytt">
-<label for="husnr">Hus nr:</label>
+<label for="husnr">Hus nr *:</label>
 <input type="text" name="husnr" id="husnr">
 <label for="telefon">Telefon *:</label>
 <input type="text" name="telefon" id="telefon">
