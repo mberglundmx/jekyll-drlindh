@@ -8,13 +8,15 @@ Det finns både p-platser att hyra och gästparkringsplatser.
 
 ## Garage och P-däck
 
-Det finns p-platser på p-däcket och i garaget. I garaget finns det möljighet att för en tilläggsavgift erhålla plats med uttag för elektrisk motorvärmare. 
+Det finns p-platser på p-däcket och i garaget. I garaget finns dessutom möljighet att, för en tilläggsavgift, erhålla plats med uttag för elektrisk motorvärmare. 
 
 Parkeringsplatsen hör inte till lägenheten utan plats söks i särskild ordning (kölista).  I första hand kan medlem hyra en parkeringsplats per medlem/familj. Medlem kan hyra mer än en parkeringsplats om ingen kösituation föreligger. All uthyrning och uppsägning av garage/parkeringsplatser sköts av Revisorsringen.  
 
 Andrahandsuthyrning av P-platser i garage och på P-däck är inte tillåtet. Vid andrahandsuthyrning av lägenhet förfaller omgående hyresrätten till parkeringsplats.
 
-Enbart kördugligt och registrerat fordon får parkeras på förhyrd plats. Härmed menas att platsen endast är avsedd för fordon, varför uppställning av andra föremål som däck, takbox m.m. inte får förekomma.
+På parkeringsplatsen får enbart kördugligt och registrerat fordon parkeras. Det betyder  att platsen endast är avsedd för fordon, det är inte tillått att förvara andra saker som däck, takbox m.m. på parkeringsplatsen.
+
+**Frågor om parkeringsplatser**
 
 Vid frågor ring eller maila Revisorsringen, Jenny Bergendahl jenny.bergendahl@revisorsringen.se , 031-7098158.
 
@@ -34,27 +36,27 @@ Avgift betalas i P-automaten på P-däck, och är mån-fre kl 8-18 3 kr/tim, öv
 <label for="efternamn">Efternamn medlem *:</label>
 <input type="text" name="efternamn" id="efternamn">
 
-<label for="lagenhetsnummer">Lägenhetsnummer Gammalt *:</label>
+<label for="lagenhetsnummer">Lägenhetsnummer Gammalt _:</label>
 <input type="text" name="lagenhetsnummer" id="lagenhetsnummer">
-<label for="lagenhetsnummer_nytt">Lägenhetsnummer Nytt *:</label>
+<label for="lagenhetsnummer_nytt">Lägenhetsnummer Nytt _:</label>
 <input type="text" name="lagenhetsnummer_nytt" id="lagenhetsnummer_nytt">
-<label for="husnr">Hus nr *:</label>
+<label for="husnr">Hus nr _:</label>
 <input type="text" name="husnr" id="husnr">
-<label for="telefon">Telefon *:</label>
+<label for="telefon">Telefon _:</label>
 <input type="text" name="telefon" id="telefon">
 <label for="epost">Email *:</label>
 <input type="text" name="epost" id="epost">
 
 <h4>Tidsperiod för tillfällig parkering</h4>
 
-<label for="fran">Från datum *:</label>
+<label for="fran">Från datum _:</label>
 <input type="text" name="fran" id="fran">
-<label for="till">Till datum *:</label>
+<label for="till">Till datum _:</label>
 <input type="text" name="till" id="till">
 
-<label for="antal_dygn">Antal dygn *:</label>
+<label for="antal_dygn">Antal dygn _:</label>
 <input type="text" name="antal_dygn" id="antal_dygn">
-<label for="regnr">Bilens registreringsnummer *:</label>
+<label for="regnr">Bilens registreringsnummer _:</label>
 <input type="text" name="regnr" id="regnr">
 <label for="ovrigt">Övrig info:</label>
 <textarea name="ovrigt" id="ovrigt">
