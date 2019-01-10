@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rättelse angånde nya avgifter för parkeringsplatserna
+title: Rättelse angånde nya avgifter för parkeringsplatser med motorvärmare
 date: 2019-01-02T12:26:35.648Z
 teaser: /images/uploads/rattelse.jpg
 ---
