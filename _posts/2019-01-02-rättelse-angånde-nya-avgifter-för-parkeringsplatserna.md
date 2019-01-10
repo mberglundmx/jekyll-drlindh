@@ -2,7 +2,7 @@
 layout: post
 title: Rättelse angånde nya avgifter för parkeringsplatserna
 date: 2019-01-02T12:26:35.648Z
-teaser: /images/400x250.png
+teaser: /images/uploads/rattelse.jpg
 ---
 Tillsammans med inbelningsavierna i december skickades informaionom höjning av p-avgifterna. Tyvärr blev det lite fel på ett ställe, det gäller avgiften för motorvärmare. Detta gäller:
 
