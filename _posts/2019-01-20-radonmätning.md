@@ -10,4 +10,4 @@ Mätningar kommer att genomföras i 2 lägenheter per våningsplan och i alla l�
 
 De lägenheter som är utvalda kommer att få ytterligare information från husrådet i sitt hur.
 
-[I senaste Lindhbladet fanns information om radonmätning, samma text finns bifogad här.](/pagaende_projekt/radonmatning)
+[I senaste Lindhbladet fanns information om radonmätning, samma text finns här.](/pagaende_projekt/radonmatning)
