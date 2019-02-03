@@ -24,7 +24,7 @@ Vid frågor ring eller maila Revisorsringen, Jenny Bergendahl jenny.bergendahl@r
 
 Föreningen har 19 besöksplatser i anslutning till P-däck och infart vid undre garageporten. Besöksplatserna är nr 35-41, 43-50 samt 57-60.
 
-Avgift betalas i P-automaten på P-däck, och är mån-fre kl 8-18 3 kr/tim, övrig tid 2 kr/tim. Det är möjligt att betala med SMS, avgiften är densamma som man betalar med mynt.
+Avgift betalas i P-automaten på P-däck, och är mån-fre kl 8-18 6 kr/tim, övrig tid 3 kr/tim. Det är möjligt att betala med hjälp av telefonen, avgiften är densamma som man betalar med mynt.
 
 <fieldset>
 <h3>Ansökan om tillfälligt parkeringstillstånd</h3>
