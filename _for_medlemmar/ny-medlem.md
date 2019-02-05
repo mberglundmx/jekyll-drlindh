@@ -46,6 +46,6 @@ Om du har tänker renovera din nya lägenhet rekommenderar vi att du läser här
 
 ## Information
 
-Information om förtenningen finns här på webbsidan. Anslagstavlorna i entréer och hissar används flitigt. Fråga gärna grannar, husråd och styrelsen när det är något du undrar. 
+Information om föreningen finns här på webbsidan. Anslagstavlorna i entréer och hissar används flitigt. Fråga gärna grannar, husråd och styrelsen när det är något du undrar. 
 
 ## Välkommen!
