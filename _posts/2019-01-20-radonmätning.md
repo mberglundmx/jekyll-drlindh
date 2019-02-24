@@ -8,6 +8,6 @@ Vi ska genomföra radonmätning i våra hus. Mätningarna görs för att uppfyll
 
 Mätningar kommer att genomföras i 2 lägenheter per våningsplan och i alla lägenheter på bottenvåningen. Mätningen görs genom att 2 mätdosor placeras ut i varje utvald lägenhet och dosorna ska vara på plast i 2 månader.
 
-De lägenheter som är utvalda kommer att få ytterligare information från husrådet i sitt hur.
+De lägenheter som är utvalda kommer att få ytterligare information från husrådet i sitt hus.
 
 [I senaste Lindhbladet fanns information om radonmätning, samma text finns här.](/pagaende_projekt/radonmatning)
