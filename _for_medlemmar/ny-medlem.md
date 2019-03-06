@@ -30,7 +30,7 @@ Bredbandsbolagets kundsupport: tel. 0770-777000
 
 ## El
 
-Föreningen har tecknat el-avtal som gäller alla medlemmar. Medlemmarna betalar därför el via månadsavgiften till föreningen. Avstämning gör årligen.
+Föreningen har tecknat el-avtal som gäller alla medlemmar. Medlemmarna betalar därför el via månadsavgiften till föreningen. Avstämning görs årligen.
 
 ## Hemförsäkring
 
