@@ -10,4 +10,4 @@ Då serveras kaffe med dopp à det facila priset på 40 kronor. Betala gärna me
 Det skulle underlätta vår planering om Ni har möjlighet att föranmäla Er  senast söndagen den 17 mars (Anmälann är inte bindande) till tel: 0735 12 69 33.
 
 Än en gång Välkomna!
- Husråd 3
+Husråd 3
