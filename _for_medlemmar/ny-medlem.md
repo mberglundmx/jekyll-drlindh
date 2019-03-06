@@ -10,7 +10,7 @@ Det är mycket att tänka på när man flyttar. Här är en checklista som vi ho
 
 Lägenhetsnycklarna ska du ha fått av säljaren.
 
-Portnycklar och sk aptusbricka till kvitterar du ut hos fastighetsskötaren. Om du fick portnycklar och bricka av säljaren bör du kontakta fastighetsskötaren så att dessa registreras på dig själv.
+Portnycklar och sk aptusbricka till porten kvitterar du ut hos fastighetsskötaren. Om du fick portnycklar och bricka av säljaren bör du kontakta fastighetsskötaren så att dessa registreras på dig själv.
 
 ## Namnskylt
 
