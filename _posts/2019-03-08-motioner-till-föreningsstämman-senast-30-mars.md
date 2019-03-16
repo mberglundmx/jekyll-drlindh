@@ -10,4 +10,6 @@ Maila till styrelsen: drlindh@gmail.com eller lägg i den gröna brevlådan i hu
 
 Hälsningar Styrelsen
 
-``[`PS. På webbsidan Bostadsrätterna.se kan man läsa mer om föreingsstämma och motioner`](< http://www.bostadsratterna.se/allt-om-bostadsratt/faktablad/foreningsstamma>)
+[Läs arktikel från tidningen Borätt om motioner](h/Motioner_Boratt.pdf)
+
+![]()
