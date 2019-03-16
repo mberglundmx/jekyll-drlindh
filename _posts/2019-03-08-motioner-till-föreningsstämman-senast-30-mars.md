@@ -10,4 +10,10 @@ Bostadsrättföreningen brf Doktor Lindh håller föreningsstämma den 21 maj 20
 Maila till styrelsen: drlindh@gmail.com eller lägg i den gröna brevlådan i hus 3.
 
 Hälsningar Styrelsen
-* [Läs arktikel från tidningen Borätt om motioner!](/images/uploads/Motioner_Boratt.pdf)
+
+[Läs arktikel från tidningen Borätt om motioner!](/images/uploads/Motioner_Boratt.pdf)
+
+Två webbsidor med information om bostadsrätter är:
+
+* [Borättforum](http://borattforum.se)
+* [Bostadsrätterna](http://www.bostadsratterna.se)
