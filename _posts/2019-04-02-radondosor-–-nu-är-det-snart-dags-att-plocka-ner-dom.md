@@ -25,4 +25,4 @@ Vänliga hälsningar
 
 /Styrelsen 2019-04-02
 
-[Formulär om radonmätning](< www/images/uploads/RADONMÄTNING I LÄGENHETER 2019-02-01 TILL 2019-05-01.pdf>)
+[Formulär om radonmätning](/images/uploads/RADONMÄTNING I LÄGENHETER 2019-02-01 TILL 2019-05-01.pdf)
