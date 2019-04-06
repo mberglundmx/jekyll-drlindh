@@ -14,6 +14,4 @@ Efter städningen inbjuder föreningen till samvaro och mat i gemensamhetslokale
 VÄLKOMNA!
  /Styrelsen & Husråden
 
-OBS! Inför städdagen 
-märk din cykel 
-med lägenhets­nummer och årtal.
+OBS! Inför städdagen märk din cykel med lägenhets­nummer och årtal.
