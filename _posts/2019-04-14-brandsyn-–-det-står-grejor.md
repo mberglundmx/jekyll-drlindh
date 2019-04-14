@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Brandsyn – det står grejor '
+title: Brandsyn – det står grejor lite överallt!
 date: 2019-04-14T15:22:06.639Z
 teaser: /images/uploads/stokigt_pa_vinden.jpg
 ---
