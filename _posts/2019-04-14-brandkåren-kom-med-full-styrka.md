@@ -3,7 +3,7 @@ layout: post
 title: Brandkåren kom med full styrka!
 date: 2019-04-14T15:42:00.187Z
 teaser: /images/uploads/brandbil.jpg
-feature: /images/uploads/brandbil_feature.png
+feature: ''
 ---
 Tack och lov var det falskt alarm lördagen den 13 april ca 11:00
 . I hus 3 började en brandvarnare i en lägenhet att tjuta.   Det höll på i ca 10 minuter och det luktade svagt rök varför brandkåren tillkallades.  Brandkåren kom föredömligt snabbt med full styrka men som tur var så verkade det vara falskt alarm.
