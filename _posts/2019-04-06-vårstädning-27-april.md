@@ -5,7 +5,7 @@ date: 2019-04-06T06:22:31.986Z
 teaser: /images/uploads/trad_liten.jpg
 feature: /images/uploads/tradtopp_feature.jpg
 ---
-VÅR-städning lördag den 27 april klockan 15.00-18.00 i våra
+VÅR-städning lördag den 27 april klockan 14.00-17.00 i våra
  gemensamma utrymmen och i området runt våra hus. 
 
 En container för grovsopor kommer att finnas på plats samt möjlighet att lämna vissa saker till återbruk.
