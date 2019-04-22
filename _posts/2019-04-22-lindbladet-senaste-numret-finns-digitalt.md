@@ -3,6 +3,7 @@ layout: post
 title: Lindbladet - senaste numret finns digitalt
 date: 2019-04-22T15:21:38.822Z
 teaser: /images/uploads/linblad-400x250.jpeg
+feature: /images/uploads/lindbladet.png
 ---
 Senaste numret av Lindhbaldet kom i 16 april. 
 
