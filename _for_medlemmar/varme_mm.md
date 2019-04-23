@@ -25,3 +25,5 @@ Många av balkongerna är inglasade. Inglasningen är gjord på varje enskild me
 [Information om Alnova inglasning](/images/uploads/EAlnova_Info_inglasad_balkong.pdf)
 
 Blomlådor på balkongräcket skall av säkerhetsskäl placeras på insidan.
+
+[Regler och rekommendationer om balkonger](/images/uploads/REV_REGLER_OCH_REKOMMENDATIONER.pdf)
