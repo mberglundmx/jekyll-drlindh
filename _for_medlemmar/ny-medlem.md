@@ -4,7 +4,7 @@ title: Ny medlem
 teaser: /images/uploads/gavel_liten.png
 feature: /images/uploads/gavel_feature.png
 ---
-Det är mycket att tänka på när man flyttar. Här är en checklista som vi hoppas hjälper dig som flyttar in i vår förening. 
+Det är mycket att tänka på när man flyttar. Här är en checklista som vi hoppas hjälper både nya medlemar och gamla. Bra att veta när man flyttar in, bor eller flyttar ut.
 
 ## Nycklar
 
