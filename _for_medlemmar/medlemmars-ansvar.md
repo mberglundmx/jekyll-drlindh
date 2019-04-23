@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Medlemmars ansvar
-teaser: /images/400x250.png
+title: Medlemmars respektive föreningens ansvar
+teaser: /images/uploads/vitsippa_liten.jpg
+feature: /images/uploads/vitsippafeature.jpg
 ---
-## Medlemmars respektive föreningens ansvar
-
 För att på ett tydligt sätt klargöra vad som är föreningens och de boendes respektive ansvar då det gäller underhållet i lägenheterna har en ansvarslista upprättats.
 
 Av ansvarslistan framgår vem som svarar för vilken del av lägenheten och fastigheten, bostadsrättsinnehavaren (BRH) eller bostadsrättsföreningen (BRF).
