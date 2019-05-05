@@ -27,7 +27,7 @@ Flera frågor och idéer handla om utemiljön. Till exempel mer belysning och ma
 
 ## Skyltning
 
-Skyltning på flera ställen saknades och detta kommer att ses över. En del som rör utrymninig i samband med den planerade ombyggnaden av "SDN-lokalen" till lägenheter, hus 1.
+Skyltning på flera ställen saknades och detta kommer att ses över. En del som rör utrymninig ses över i samband med den planerade ombyggnaden av "SDN-lokalen" till lägenheter, hus 1.
 
 ## Belysning och trasiga lamopr i entréer och svalar
 
