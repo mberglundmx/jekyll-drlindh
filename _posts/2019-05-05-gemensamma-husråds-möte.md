@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gemensamma husråds möte
+title: Gemensamt husrådsmöte
 date: 2019-05-05T21:25:06.105Z
 teaser: /images/uploads/img_6143 (liten).jpg
 feature: /images/uploads/Entrefonster feature.jpg
