@@ -5,7 +5,7 @@ date: 2019-05-05T21:25:06.105Z
 teaser: /images/uploads/img_6143 (liten).jpg
 feature: /images/uploads/Entrefonster feature.jpg
 ---
-Den 21 mars genomfördes ett gemensamt husrådsmöte med representatner från alla husråd och styrelsen. Alla husråd rapporterade saker från sina hus och det var många ämnen som togs upp. Några saker var desamma hos flera andra inte. Här är en sammanfattning. En del av det som kom upp på mötet känner ni också igen i Lindhbladet. 
+Den 21 mars genomfördes ett gemensamt husrådsmöte med representanter från alla husråd och styrelsen. Alla husråd rapporterade saker från sina hus och det var många ämnen som togs upp. Några saker var desamma hos flera, andra inte. Här är en sammanfattning. En del av det som kom upp på mötet känner ni också igen i Lindhbladet. 
 
 Några saker har återförts till fastighetsskötaren för åtgärd, tex torkskåp som öppnar sid när man startar det. Nycklar till entréer som inte funkar och några belysningsfrågor om tajmer med för kort tid så att ljuset slocknar för fort. Återkommande är också önskemålet att byta den svart-gula varningstejpen i hissarna eftersom den slits fort!
 
