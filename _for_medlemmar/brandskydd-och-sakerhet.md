@@ -26,6 +26,6 @@ Alla dörrar in till lägenheterna är säkerhetsdörrar (Daloc) och försedda m
 
 ## Brandvaranre och brandsläckare
 
-Alla lägenheter ska ha brandvarnare i lägenheten. Att också ha en brandsläckare i lägenheten är en mycket enkle brandsäkerhetsåtgård.
+Alla lägenhetsinnehavare ska ha brandvarnare i lägenheten. Att också ha en brandsläckare i lägenheten är en mycket enkel brandsäkerhetsåtgård.
 
-Hur kollar du din brandsläckare
+[Tips hur du kollar din brandsläckare](/images/uploads/Hur_kontrollerar_man_sin_brandstackare.pdf)
