@@ -23,3 +23,9 @@ I entrén i Hus 4 finns en hjärtstartare. Alla medlemmar kan komma in i Hus 4 m
 ## Lägenhetsdörrar
 
 Alla dörrar in till lägenheterna är säkerhetsdörrar (Daloc) och försedda med ett cylinderlås och ett sjutillhållarlås. Vi rekommenderar alla att använda båda låsen.
+
+## Brandvaranre och brandsläckare
+
+Alla lägenheter ska ha brandvarnare i lägenheten. Att också ha en brandsläckare i lägenheten är en mycket enkle brandsäkerhetsåtgård.
+
+Hur kollar du din brandsläckare
