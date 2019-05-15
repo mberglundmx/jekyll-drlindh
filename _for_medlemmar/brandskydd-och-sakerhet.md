@@ -9,6 +9,14 @@ Det är viktigt att veta hur du ska agera om det börjar brinna i ett flerbostad
 * [Mer om brandskydd](https://www.msb.se/sv/Forebyggande/Brandskydd/)
 * [Brandsäkerhet i flerbostadshus](https://www.msb.se/sv/Forebyggande/Brandskydd/Brandskydd-byggnader-och-anlaggningar/Flerbostadshus/)
 
+## Brandvaranre och brandsläckare
+
+Alla lägenhetsinnehavare ska ha brandvarnare i lägenheten. Det är enkelt att kontrollera sin brandvarnare, gör det med jämna mellanrum genom att trycka på knappen som aktiverar larmet och se till att det ljuder. Annars byt batteri.
+
+Att också ha en brandsläckare i lägenheten är en mycket enkel brandsäkerhetsåtgård. 
+
+[Tips hur du kollar din brandsläckare](/images/uploads/Hur_kontrollerar_man_sin_brandstackare.pdf)
+
 ## Utrymningsvägar
 
 Räddningstjänsten har i samband med inspektion i husen gjort påpekanden om att vindsgångar, trapphus och våningsplan skall hållas helt fria från lösa föremål. Dessa ytor är våra utrymningsvägar. Detta inkluderar även dörrmattor utanför dörren.
@@ -23,11 +31,3 @@ I entrén i Hus 4 finns en hjärtstartare. Alla medlemmar kan komma in i Hus 4 m
 ## Lägenhetsdörrar
 
 Alla dörrar in till lägenheterna är säkerhetsdörrar (Daloc) och försedda med ett cylinderlås och ett sjutillhållarlås. Vi rekommenderar alla att använda båda låsen.
-
-## Brandvaranre och brandsläckare
-
-Alla lägenhetsinnehavare ska ha brandvarnare i lägenheten. Det är enkelt att kontrollera sin brandvarnare, gör det med jämna mellanrum genom att trycka på knappen som aktiverar larmet och se till att det ljuder. Annars byt batteri.
-
-Att också ha en brandsläckare i lägenheten är en mycket enkel brandsäkerhetsåtgård. 
-
-[Tips hur du kollar din brandsläckare](/images/uploads/Hur_kontrollerar_man_sin_brandstackare.pdf)
