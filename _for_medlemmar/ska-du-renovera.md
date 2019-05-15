@@ -22,6 +22,10 @@ Det är viktigt att VVS-installationer genomföres av kvalificerad personal för
 
 Vid badrumsrenovering måste man alltid ansöka om tillstånd från styrelsen samt följa de branschspecifika regler som gäller  för våtrum för att tillstånd ska beviljas och för att försäkringsskyddet skall gälla.
 
+[Checklista vid badrumsrenovering](/images/uploads/REV_BADRUMSRENOVERING.pdf)
+
+[Drift- och skötselinstruktion från Proline ska följas](/images/uploads/Drift_skotselinstruktioner_prolinerev_20120201.pdf)
+
 ### Vattenburen golvvärme
 
 På grund av risken för läckage tillåter föreningen inte att de boende installerar vattenburen golvvärme.
@@ -58,4 +62,7 @@ Uppgraderig från 1-fas till 3-fas i små lägenheter kan utföras efter samråd
 ## Balkonger
 
 Blomlådor på balkongräcket skall av säkerhetsskäl placeras på insidan.
-Håltagningar/borrning i betongelementen som omgärdar balkongerna är inte tillåtet, risk för vatteninträngning som kan medföra vittring av betongen.
+
+Borrning i balkongtak får inte göras närmare ytterkant än  20 cm, maximalt djup är 4 cm.  Att måla betonggolv är bostadsrättsinnehavarens ansvar.  Vattenbaserd färg rekommenderas. Underhåll av väggpanelen är föreningens ansvar. Undersida balkongplatta frå inte målas. Mer detaljer finns i regler och rekommendationer nedan.
+
+[Regler och rekommendationer om balkonger](/images/uploads/REV_REGLER_OCH_REKOMMENDATIONER.pdf)
