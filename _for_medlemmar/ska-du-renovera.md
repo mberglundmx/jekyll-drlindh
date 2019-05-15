@@ -20,7 +20,7 @@ Det är viktigt att VVS-installationer genomföres av kvalificerad personal för
 
 ## Badrumsrenovering
 
-Vid badrumsrenovering måste man följa de branschspecifika regler som gäller för våtrum för att tillstånd ska beviljas och för att försäkringsskyddet skall gälla.
+Vid badrumsrenovering måste man alltid ansöka om tillstånd från styrelsen samt följa de branschspecifika regler som gäller  för våtrum för att tillstånd ska beviljas och för att försäkringsskyddet skall gälla.
 
 ### Vattenburen golvvärme
 
