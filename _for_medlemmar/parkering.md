@@ -26,45 +26,7 @@ Föreningen har 19 besöksplatser i anslutning till P-däck och infart vid undre
 
 Avgift betalas i P-automaten på P-däck, och är mån-fre kl 8-18 6 kr/tim, övrig tid 3 kr/tim. Det är möjligt att betala med hjälp av telefonen, avgiften är densamma som man betalar med mynt.
 
-<fieldset>
-<h3>Ansökan om tillfälligt parkeringstillstånd</h3>
-
-<form data-netlify="true" data-netlify-honeypot="bot-field" id="parkeringstillstånd">
-<label>Förnamn medlem *:</label>
-<input type="text" name="fornamn">
-
-<label for="efternamn">Efternamn medlem *:</label>
-<input type="text" name="efternamn" id="efternamn">
-
-<label for="lagenhetsnummer">Lägenhetsnummer Gammalt _:</label>
-<input type="text" name="lagenhetsnummer" id="lagenhetsnummer">
-<label for="lagenhetsnummer_nytt">Lägenhetsnummer Nytt _:</label>
-<input type="text" name="lagenhetsnummer_nytt" id="lagenhetsnummer_nytt">
-<label for="husnr">Hus nr _:</label>
-<input type="text" name="husnr" id="husnr">
-<label for="telefon">Telefon _:</label>
-<input type="text" name="telefon" id="telefon">
-<label for="epost">Email *:</label>
-<input type="text" name="epost" id="epost">
-
-<h4>Tidsperiod för tillfällig parkering</h4>
-
-<label for="fran">Från datum _:</label>
-<input type="text" name="fran" id="fran">
-<label for="till">Till datum _:</label>
-<input type="text" name="till" id="till">
-
-<label for="antal_dygn">Antal dygn _:</label>
-<input type="text" name="antal_dygn" id="antal_dygn">
-<label for="regnr">Bilens registreringsnummer _:</label>
-<input type="text" name="regnr" id="regnr">
-<label for="ovrigt">Övrig info:</label>
-<textarea name="ovrigt" id="ovrigt">
-
-</textarea>
-<input type="submit" id="Skicka in">
-</form>
-</fieldset>
+För gäster till medlemmar finns möjlighet till reducerad taxa (för tillfället 30 kr/dygn) om man använder parkeringstillståndet som sitter längst bak i Lindhbladet. Notera att den reducerade taxan betalas med appen Easy Park, den speciella koden som ska användas finns angiven på parkeringstillståndet. Notera att tillståndet endast är giltig tillsammans med erlagd avgift via appen.
 
 ## Parkering för rörelsehindrade
 
@@ -74,6 +36,6 @@ Fordon med speciellt tillstånd för rörelsehindrade får parkera i 3 timmar p�
 
 ## Parkering inom bostadsområdet
 
-Det är tillåtet att parkera max 10 minuter i bostadsområdet i samband med av- och pålastning.
+Det är tillåtet att parkera max 15 minuter i bostadsområdet i samband med av- och pålastning.
 
 P-övervakningen hanteras f o m januari 2007 av Controlla, Tel. 23 00 00.
