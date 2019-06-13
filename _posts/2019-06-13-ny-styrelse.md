@@ -2,9 +2,11 @@
 layout: post
 title: Ny styrelse
 date: 2019-06-13T20:38:46.474Z
-teaser: /images/400x250.png
+teaser: /images/uploads/Postlada liten.jpg
 ---
 Nya styrelsen har just haft sitt första ordinarie styrelsemöte sedan föreningsstämman. 
+
+Protokoll från föreningsstämman finns anslaget i alla entrér. 
 
 Ny ledamöter är:
 
@@ -12,7 +14,7 @@ Ny ledamöter är:
 * Per-Åka Jansson, ny suppleant
 * Krishan Kent, ny suppleant
 
-[Hela styrelsen](https://www.drlindh.se/om_foreningen/styrelse)
+[Hela styrelsen](/om_foreningen/styrelse)
 
 ## Styrelemötetn
 
