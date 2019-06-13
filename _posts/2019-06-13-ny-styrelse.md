@@ -18,7 +18,7 @@ Protokoll från föreningsstämman finns anslaget i alla entrér.
 
 [Hela styrelsen](/om_foreningen/styrelse)
 
-## Styrelemötetn
+## Styrelsemöten
 
 Ordinarie strelsemöten hålls första torsdageni varje månad., dock är mötet i juli inställt och augusimötet hålls den andra torsdagen i måndaden, dvs den 8e augsti.
 
