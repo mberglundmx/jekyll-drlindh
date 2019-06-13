@@ -63,6 +63,6 @@ Uppgraderig från 1-fas till 3-fas i små lägenheter kan utföras efter samråd
 
 Blomlådor på balkongräcket skall av säkerhetsskäl placeras på insidan.
 
-Borrning i balkongtak får inte göras närmare ytterkant än  20 cm, maximalt djup är 4 cm.  Att måla betonggolv är bostadsrättsinnehavarens ansvar.  Vattenbaserd färg rekommenderas. Underhåll av väggpanelen är föreningens ansvar. Undersida balkongplatta frå inte målas. Mer detaljer finns i regler och rekommendationer nedan.
+Borrning i balkongtak får inte göras närmare ytterkant än  20 cm, maximalt djup är 4 cm. Att måla betonggolv är bostadsrättsinnehavarens ansvar. Vattenbaserd färg rekommenderas. Underhåll av väggpanelen är föreningens ansvar. Undersida balkongplatta får inte målas. Mer detaljer finns i regler och rekommendationer nedan.
 
 [Regler och rekommendationer om balkonger](/images/uploads/REV_REGLER_OCH_REKOMMENDATIONER.pdf)
