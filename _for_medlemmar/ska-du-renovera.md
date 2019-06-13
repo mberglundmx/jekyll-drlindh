@@ -43,25 +43,23 @@ Om man däremot upptäcker att ett vattenrör läcker hos sig själv eller hos n
 
 ## Köksfläkt
 
-Dr. Lindhs bostadsrättsförening accepterar följande alternativ för installation av köksfläkt. Vid anslutning av fläkt till ventilationskanal skall en stryplåda (typ Electrolux EFRW125, alt EFRA125) monteras efter fläkten. Fläkten kan vara av valfritt fabrikat. Använd en kolfilterfläkt
-
-Kontakta gärna Stefan Dävermo på Torfors AB för vidare information, tel 031-82 25 00, www.torfors.se
+Dr. Lindhs bostadsrättsförening accepterar följande alternativ för installation av köksfläkt. Vid anslutning av fläkt till ventilationskanal ska en stryplåda (typ Electrolux EFRW125, alt EFRA125) monteras efter fläkten. Fläkten kan vara av valfritt fabrikat. Använd en kolfilterfläkt
 
 ## Gasspis
 
 Då det gäller gasspis så har Räddningsverket informerat oss om att man får förvara upp till 5 liter gas (ca 2 kg) i en behållare i lägenheten samt upp till 26 liter (motsvarar en P11:a) på balkongen i ett flerbostadshus. OBS! Om man har en inglasad balkong får gasolhållare som förvaras på balkongen ha maximal volym 5 liter. Vid en installation ska den inkopplade flaskan förvaras i ett ”tätt men ventilerat” utrymme. Den ska ventileras ut ur huskroppen enligt Sprängämnesinspektionen.
 
-Eftersom regelverket är mycket strängt så har styrelsen beslutat att införa anmälningsplikt från den boende FÖRE installationen, besiktning av färdig installation skall sedan ske av behörig besiktningsman som lägenhetsinnehavaren själv tillkallar och ersätter. Besiktningsprotokollet ska skickas till styrelsen. Först efter en godkänd besiktning får gasspisen tas i bruk. Kontakta styrelsen på drlindh@gmail.com vid frågor rörande gasspisar.
+Eftersom regelverket är mycket strängt så har styrelsen beslutat att införa anmälningsplikt från den boende FÖRE installationen, besiktning av färdig installation ska sedan ske av behörig besiktningsman som lägenhetsinnehavaren själv tillkallar och ersätter. Besiktningsprotokollet ska skickas till styrelsen. Först efter en godkänd besiktning får gasspisen tas i bruk. Kontakta styrelsen på drlindh@gmail.com vid frågor rörande gasspisar.
 
 ## Elinstallationer
 
-Elinstallationer skall utföras av behörig elektriker.
+Elinstallationer ska utföras av behörig elektriker.
 
 Uppgraderig från 1-fas till 3-fas i små lägenheter kan utföras efter samråd med fastighetsskötaren och sker på egen bekostnad.
 
 ## Balkonger
 
-Blomlådor på balkongräcket skall av säkerhetsskäl placeras på insidan.
+Blomlådor på balkongräcket ska av säkerhetsskäl placeras på insidan.
 
 Borrning i balkongtak får inte göras närmare ytterkant än  20 cm, maximalt djup är 4 cm. Att måla betonggolv är bostadsrättsinnehavarens ansvar. Vattenbaserd färg rekommenderas. Underhåll av väggpanelen är föreningens ansvar. Undersida balkongplatta får inte målas. Mer detaljer finns i regler och rekommendationer nedan.
 
