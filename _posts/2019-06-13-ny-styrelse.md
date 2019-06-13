@@ -6,9 +6,11 @@ teaser: /images/uploads/Postlada liten.jpg
 ---
 Nya styrelsen har just haft sitt första ordinarie styrelsemöte sedan föreningsstämman. 
 
+## Protokoll
+
 Protokoll från föreningsstämman finns anslaget i alla entrér. 
 
-Ny ledamöter är:
+## Nya i styrelsen
 
 * Markus Berglund som går från suppleant till ordinarie ledamot
 * Per-Åka Jansson, ny suppleant
