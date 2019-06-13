@@ -16,7 +16,7 @@ Protokoll från föreningsstämman finns anslaget i alla entrér.
 * Per-Åka Jansson, ny suppleant
 * Krishan Kent, ny suppleant
 
-[Hela styrelsen](/om_foreningen/styrelse)
+[Hela styrelsen hittar du här](/om_foreningen/styrelse)
 
 ## Styrelsemöten
 
