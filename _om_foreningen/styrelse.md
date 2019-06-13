@@ -13,11 +13,13 @@ Föreningens styrelse har möte en gång i månaden, vanligen första helgfria t
 * **Sekreterare** Nina Romanus, Hus 1
 * **Kassör** Kent Asp, Hus 4
 * **Ledamot** Stig-Olof Eriksson, Hus 4
-* **Ledamot** Marie Hedberg, Hus 1
+* **Ledamot** Markus Berglund, Hus 4 
 * **Ledamot** Hans Ragneskog, Hus 6
-* **Suppleant** Karin Gerdin Brännström, Hus 4
 * **Suppleant** Johan Bergström, Hus 3
-* **Suppleant** Markus Berglund, Hus 4 
+* **Suppleant** Per-Åke Jansson, Hus 1
+* **Suppleant** Krishan Kent , Hus 4
+
+
 
 Styrelsens ledamöter har olika ansvarsområden.
 För vissa områden är också medlemmar utanför styrelsen ansvariga.
@@ -29,8 +31,8 @@ För vissa områden är också medlemmar utanför styrelsen ansvariga.
 
 ## Valberedning
 
+* Lars Bengtsson, Hus 1
+* Staffan Björk, Hus 4
 * Kerstin Hinnerson, Hus 6
 * Gunilla Rehn, Hus 6, sammanskallande
 * Margareta Övergaard, Hus 3
-* Staffan Björk, Hus 4
-* Lars Bengtsson, Hus 1
