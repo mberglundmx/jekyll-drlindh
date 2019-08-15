@@ -34,7 +34,9 @@ Föreningen har tecknat el-avtal som gäller alla medlemmar. Medlemmarna betalar
 
 ## Hemförsäkring
 
-Föreningen har tecknat en extra tilläggsförsäkring som innebär att bostadsrättsinnehavaren inte behöver komplettera sin egen hemförsäkring med något extra skydd för att bostaden är en bostadsrätt. Hos en del försäkringsbolag ingår Bostadsrättstillägg som en del i ett paket och det finns risk att t ex reseskydd kan falla bort, om man väljer att avstå från Bostadsrättstillägg. 
+Föreningen har tecknat en extra tilläggsförsäkring som innebär att bostadsrättsinnehavaren inte behöver komplettera sin egen hemförsäkring med något extra skydd för att bostaden är en bostadsrätt. Hos en del försäkringsbolag ingår Bostadsrättstillägg som en del i ett paket och det finns risk att t ex reseskydd kan falla bort, om man väljer att avstå från Bostadsrättstillägg. Föreningens försäkring är tecknad hos Länsförsäkringar. Följ länken nedan för information från Länsförsäkringar.
+
+[Länsförsäkringars information om Bostadsrättsförsäkring - Kollektiv (pdf-dokument)](https://www.drlindh.se/image/uploads/Info_Lansforsakringar.pdf)
 
 ## Lägenhetsrenovering
 
