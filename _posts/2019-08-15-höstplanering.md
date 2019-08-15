@@ -12,6 +12,6 @@ Några viktiga datum i föreningen hösten 2019
 
 **Container** för grovsopor kommer att finnas på plats i samband med höstens städdag, v 42.
 
-**Lindhbladet**, välkomna med bidrag till kommande nummer av Lindhblandet. Mausstopp är 6/10.
+**Lindhbladet**, välkomna med bidrag till kommande nummer av Lindhblandet. Manusstopp är 6/10.
 
 **Styrelsen** har möte första torsdagen varje månad, 5/9, 3/10, 7/11, 5/12 första mötet efter nyår är 9/1 2020.
