@@ -15,8 +15,7 @@ Lägenheten får endast hyras av föreningens medlemmar och är tänkt som tillf
 
 Du bokar lägenheten / bastun genom att kontakta någon av de bokningsansvariga via e-post, ange incheckningsdag och utcheckningsdag.
 
-* Hans.Ragneskog@gmail.com 
-* Patricia.Adolfsson@gmail.com
+* Hans.Ragneskog@gmail.com
 
 Bokning kan ske tidigast tre månader i förväg och senast 2 dagar innan bokningsdag. En bokning får omfatta max 5 nätter. Det går bara att göra en bokning i taget och en ny bokning är möjlig först när föregående bokning är avverkad. Eventuella undantag kan beviljas av bokningsansvarig beroende av det aktuella bokningsläget.
 
