@@ -10,7 +10,7 @@ Föreningens ekonomiske förvaltare är
 
 Distansgatan 2
 
-421 37 Västra Frölunda
+421 74 Västra Frölunda
 
 **Jenny Bergendahl** är föreningens kontaktperson på Revisorsringen
 
