@@ -12,8 +12,9 @@ Föreningens stadgar är reviderade för att följa de senaste lagändringarna f
 
 ## Årsredovisning
 
-Föreningens årsstämma hålls i april varje år.  
+Föreningens årsstämma hålls i måndasskiftet april/maj varje år. 
 
+* [2018 Årsredovisning](/images/uploads/Arsredovisning_2018_Brf_Dr_Lindh.pdf)
 * [2017 Årsredovisning](/images/uploads/Arsredovisning%202017_BRF_Lindh.pdf)
 * [2016 Årsredovisning](/images/uploads/Arsredovisning%202016_BRF_Lindh.pdf)
 * [2015 Årsredovisning](/images/uploads/Arsredovisning%202015_BRF_Lindh.pdf)
