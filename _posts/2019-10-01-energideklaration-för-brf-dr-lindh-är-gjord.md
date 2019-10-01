@@ -10,4 +10,5 @@ Energideklaration ska göras för de flesta byggnader. Avsikten är att redovisa
 
 För våra hus är energiförbrukningen cirka 105 kWh/m2 och år. För liknande byggnader är referensvärdet 160 kWh/m2 och år och för nybyggnader är kravet 85 kWh/ m2 och år. I deklarationen ges också tips på åtgärder för att minska energiförbrukningen. I vårt fall bör vi arbeta med att justera in värmesystemet efter de åtgärder vi genomfört, t.ex byte av radiatorventiler och installationen av den nya fjärrvärmekulverten.
 
-Deklarationen ska göras vart 10 år och skickas till Boverket.  Är du mer intresserad av energideklarationer kan du läsa mer på Boverkets hemsida: https://www.boverket.se/sv/energideklaration/energideklaration/
+Deklarationen ska göras vart 10 år och skickas till Boverket.  Är du mer intresserad av energideklarationer kan du läsa mer på Boverkets hemsida: 
+* [Boverkets information om energidelkaration](https://www.boverket.se/sv/energideklaration/energideklaration/)
