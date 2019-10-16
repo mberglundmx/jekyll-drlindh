@@ -8,7 +8,7 @@ Det kommer att finnas en container för grovsopor på plats i samband med städh
 
 Containern är inte avsedd för elektronikavfall. Det finns ett särskilt soprum för elektronikavfall. Det hittar du på gaveln av Hus 1. Där finns också särskilda behållare för glödlampor och lysrör. Här ska man inte lämna grovsopor.
 
-Container för grovsopar beställs till föreningen flera gånger om året. Dessemellan måste man själv lämna sin grovsopar på en återvinningscentral. Vår närmaste återvinningscentral är i Högsbo industriområde.
+Container för grovsopor beställs till föreningen flera gånger om året. Dessemellan måste man själv lämna sin grovsopor på en återvinningscentral. Vår närmaste återvinningscentral är i Högsbo industriområde.
 
 Här kan du läsa mer om att lämna grovsopor i Göteborg: [Om återvinningscentraler](https://goteborg.se/wps/portal/start/avfall-och-atervinning/har-lamnar-hushall-avfall/atervinningscentraler/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziTYzcDQy9TAy9LSwczQwcLb3dDE1NnQz9A0z1wwkpiAJKG-AAjgb6BbmhigCHN9bf/dz/d5/L2dBISEvZ0FBIS9nQSEh/)
 
