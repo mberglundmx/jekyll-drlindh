@@ -12,7 +12,7 @@ Bygglov beviljades av Stadsbyggnadskontoret under våren efter en del diskussio
 
 Rivningsarbetena startade den 1 oktober. Byggarbete beräkas pågå i cirka 5 månader. I samband med ombyggnaden kommer ett fönster anordnas i vävstugan , som ligger intill gymmet. 
 
-[Ritningen som visar planlösningar för de nya lägenheterna](/imagets/uploads/Ritning.pdf)
+[Ritningen som visar planlösningar för de nya lägenheterna](/images/uploads/Ritning.pdf)
 
 \---
 
