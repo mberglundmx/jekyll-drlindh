@@ -12,10 +12,10 @@ Om du är intresserad av tidigare Lindhblad än de som ligger här nedan så hö
 
 ## Senaste numret av Lindhbladet
 
-[Lindhbladet april 2019](/images/uploads/2019_Lindhbladet_1-web.pdf)
+[Lindhbladet oktober 2019](/images/uploads/Lindhbladet_2_2019-web.pdf)
 
 ## Tidigare nummer av Lindblandet
-
+* [Lindbadet okober 2019](/images/uploads/Lindhbladet_2_2019-web.pdf)
 * [Lindhbladet 1: 2019](/images/uploads/2019_Lindhbladet_1-web.pdf)
 * [Lindhbladet 2: 2018](/images/uploads/Lindhbladet_2_2018-web.pdf)
 * [Lindhbladet 1: 2018](/images/uploads/Lindhbladet_1_2018_april.pdf)
