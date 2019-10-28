@@ -3,6 +3,16 @@ layout: page
 title: Radonmätning i Brf Doktor Lindh
 teaser: /images/uploads/radondosa.png
 ---
+Tack till alla som bidrog till mätningarna genom att ha dosor i sina lägenheter och komma ihåg att lämna in dem i tid!
+
+## Mätningar genomförda
+
+Under våren 2019 placerades mätdosor ut. Radonmätningsdosorna skickades för analys och vi har fått svar. Redovisningen från Radonova är en rapport per lägenhet där mätningar gjorts. Sammantaget visar dessa mätningar att alla våra lägenheter har bra värden, det ligger på 10% – 20% av gränsvärdet som gäller.
+
+Kompletterande mätningar har gjorts i i källarvåningar och entréplan, här väntar vi på svar. Ytterligare kompletteringar gör i studentrummen som SGS hyr under hösten 2019. Detta har varti nödvändigt eftersom otillräckligt med dosor placerats i dessa områden. 
+
+## Om radonmätnignarna - januari 2019
+
 I några månader under eldningssäsongen, som infaller oktober-april, kommer vi att utföra radonmätning av våra byggnader. Mätningen går till så att 2 små dosor placeras i ca 20% av lägenheterna. De ska hänga på samma plats i 2-3 månader. Därefter plockas de ner och skickas till ett laboratorium för analys.
 
 Det kommer att vara 2 lägenheter/plan, samtliga lägenheter på entréplanen och källarutrymmen som ingår i mätningen. Mätningen är helt odramatisk, dosorna innehåller en filmremsa som är känslig för radongas.
