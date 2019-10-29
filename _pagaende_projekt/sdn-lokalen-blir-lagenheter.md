@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SDN lokalen i hus 1 blir bostadsrätter
+title: 2. SDN lokalen i hus 1 blir bostadsrätter
 teaser: /images/uploads/ritningsutsnitt.jpg
 feature: /images/uploads/Ritning nya lgh.jpg
 ---
