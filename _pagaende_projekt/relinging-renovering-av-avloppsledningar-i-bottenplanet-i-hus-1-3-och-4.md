@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Relinging - renovering av avloppsledningar i bottenplanet i hus 1, 3 och 4 '
-teaser: /images/400x250.png
+teaser: /images/uploads/ror.jpg
 ---
 Renovering av avloppsledningar i bottenplanet i hus 1, 3 och 4 . Under hösten 2018 genomfördes  renovering av avloppsledningar i bottenplanet till hus 6. Att arbetet utfördes i just hus 6 berodde på att man där påträffat skadade ledningar. 
 
