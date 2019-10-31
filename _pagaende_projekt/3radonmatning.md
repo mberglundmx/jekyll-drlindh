@@ -9,8 +9,7 @@ Tack till alla som bidrog till mätningarna genom att ha dosor i sina lägenhete
 
 Under våren 2019 placerades mätdosor ut. Radonmätningsdosorna skickades för analys och vi har fått svar. Redovisningen från Radonova är en rapport per lägenhet där mätningar gjorts. Sammantaget visar dessa mätningar att alla våra lägenheter har bra värden, det ligger på 10% – 20% av gränsvärdet som gäller.
 
-Kompletterande mätningar har gjorts i i källarvåningar och entréplan, här väntar vi på svar. Ytterligare kompletteringar gör i studentrummen som SGS hyr under hösten 2019. Detta har varti nödvändigt eftersom otillräckligt med dosor placerats i dessa områden.
- 
+Kompletterande mätningar har gjorts i källarvåningar och entréplan, här väntar vi på svar. Ytterligare kompletteringar görs under hösten 2019 i studentrummen som SGS hyr. Detta har varit nödvändigt eftersom otillräckligt med dosor placerats i dessa områden.
 
 ## Om radonmätnignarna - januari 2019
 
