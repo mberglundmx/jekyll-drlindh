@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Relining av avloppsrör i bottenplattan.
+title: Relining av avloppsrör i bottenplattan
 date: 2019-11-12T21:20:11.808Z
 teaser: /images/uploads/ror.jpg
 ---
