@@ -33,11 +33,10 @@ Elektronik är alltid gratis.
 
 Container beställs till föreningen regelbundet, torsdag till söndag, följande veckor är en preliminära planeringen:
 
-* Vecka 1, efter jul
-* Vecka 16, eller i samband med föreningens vårstädning
-* Vecka 21
-* Vecka 35
-* Vecka 43, elleri samband med föreningens höststädning
+* Vecka 2, för julgranar mm efter jul
+* Vecka 17, eller i samband med föreningens vårstädning
+* Vecka 33
+* Vecka 42, elleri samband med föreningens höststädning
 
 ## Återvinningsstation
 
