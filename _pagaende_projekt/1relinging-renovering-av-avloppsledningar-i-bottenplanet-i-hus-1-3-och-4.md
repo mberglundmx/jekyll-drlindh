@@ -9,9 +9,9 @@ Renovering sker genom att avloppsrören relinas, dvs. flera lager  polyesterplas
 
 Arbetet har upphandlats av Tubus System AB och entreprenadsumman är cirka 1,2 Mkr inklusive moms. 
 
-I hus 6 gjordes motsvaradne arbete redan hösten 2018. Att renovering av avloppsledningar i bottenplanet genomfördes först i hus 6 berodde på att man där påträffat skadade ledningar. 
+I hus 6 gjordes motsvaradne arbete redan hösten 2018. Att renovering av avloppsledningar i bottenplanet genomfördes först i hus 6 berodde på att man där upptäckt skadade ledningar. 
 
-Den arbetsmetod som användes i hus 6 medförde en del olägenheter för de boende på grund av att avstängning av vatten och avlopp måste ske under vissa perioder.
+Den arbetsmetod för renoveringen som användes i hus 6 medförde en del olägenheter för de boende på grund av att vatten och avlopp var avstängt under vissa perioder.
 
 Styrelsen har därför valt att upphandla en metod som innebär att omkoppling av avloppet  i bottenplanet i möjligaste mån kommer att ske.  Detta innebär att vatten och avlopp kommer att kunna användas som normalt i de allra flesta lägenheter. 
 
@@ -27,11 +27,11 @@ För vissa stora lägenheter kan det bli aktuellt att köksavloppet måste stän
 
 ### Begränsad tillgång till gymet
 
-Tillgänglighet till gym och vävstuga kommer att vara begränsad underV3-6.Gymmet kommer då att var avstängt under arbetstid kl 07:00-16:00
+Tillgänglighet till gym och vävstuga kommer att vara begränsad under vecka 3-6. Gymmet kommer då att var avstängt under arbetstid kl 07:00-16:00.
 
 ## Detaljerad informatino när det närmar sig!
 
-Mer detaljerad information om tider och andra nödvändigaåtgärder kommer att lämnas efter hand från Tubus System AB.
+Mer detaljerad information om tider och andra nödvändiga åtgärder kommer att lämnas efter hand från Tubus System AB.
 
 Frågor angående arbetena besvaras i första hand av:
 
