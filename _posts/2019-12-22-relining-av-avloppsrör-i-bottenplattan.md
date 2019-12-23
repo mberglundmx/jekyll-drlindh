@@ -27,6 +27,10 @@ För vissa stora lägenheter kan det bli aktuellt att köksavloppet måste stän
 * Daniel Fihn, Platschef Tubus System AB031-887743
 * Mikael Zachrisson, föreningens projektledare070-8756667
 
+### OBS! Gymmet påverksa 
+
+Arbetna medför också att gymet kommer att vara stängt kl kl 7-16, vecka 3-6.
+
 #### Vi ber om överseende med de olägenheter arbetena kan medföra
 
 Göteborg 2019-12-20/ Styrelsen
