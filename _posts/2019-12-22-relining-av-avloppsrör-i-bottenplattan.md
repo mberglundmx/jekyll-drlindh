@@ -10,9 +10,17 @@ Tubus AB genomför arbetet. För att relinig ska kunna genomföras framgångsrik
 
 Arbetet beräkans pågå i cirka 2 måndare varav effektiv tid för respektive hus beräkans vara 2 veckor.
 
+### Hur påverkas vi som bor?
+
+I de flesta lägenheter kommer vatten och avlopp fungera som vanligt. Men det gäller tyvärr inte alla.
+
+För lägenheter i entréplanet, som ej kan använda sitt avlopp ( SGS i hus 3 och 4) kommer en enhet för toalett och dusch att placeras utanför hus 4.
+
+För vissa stora lägenheter kan det bli aktuellt att köksavloppet måste stängas av.
+
 [Tidsplan i detalj](/images/uploads/Tidplan_RorArbete_DrLindh2020.pdf)
 
-[Läs mer om projekt](/pagaende_projekt/1relinging-renovering-av-avloppsledningar-i-bottenplanet-i-hus-1-3-och-4)
+[Läs mer om projektet](/pagaende_projekt/1relinging-renovering-av-avloppsledningar-i-bottenplanet-i-hus-1-3-och-4)
 
 #### Frågor angående arbetena besvaras i första hand av
 
