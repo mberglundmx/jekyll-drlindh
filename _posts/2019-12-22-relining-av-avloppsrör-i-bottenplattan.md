@@ -14,7 +14,7 @@ Arbetet beräkans pågå i cirka 2 måndare varav effektiv tid för respektive h
 
 I de flesta lägenheter kommer vatten och avlopp fungera som vanligt. Men det gäller tyvärr inte alla.
 
-För lägenheter i entréplanet, som ej kan använda sitt avlopp ( SGS i hus 3 och 4) kommer en enhet för toalett och dusch att placeras utanför hus 4.
+För lägenheter i entréplanet, som ej kan använda sitt avlopp (SGS i hus 3 och 4) kommer en enhet för toalett och dusch att placeras utanför hus 4.
 
 För vissa stora lägenheter kan det bli aktuellt att köksavloppet måste stängas av.
 
@@ -27,9 +27,9 @@ För vissa stora lägenheter kan det bli aktuellt att köksavloppet måste stän
 * Daniel Fihn, Platschef Tubus System AB031-887743
 * Mikael Zachrisson, föreningens projektledare070-8756667
 
-### OBS! Gymmet påverksa 
+### OBS! Gymmet påverksa
 
-Arbetna medför också att gymet kommer att vara stängt kl kl 7-16, vecka 3-6.
+Arbetena medför också att gymet kommer att vara stängt kl 7-16, vecka 3-6.
 
 #### Vi ber om överseende med de olägenheter arbetena kan medföra
 
