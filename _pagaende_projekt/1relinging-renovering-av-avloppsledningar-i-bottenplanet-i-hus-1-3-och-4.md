@@ -3,8 +3,7 @@ layout: page
 title: 'Relinging - renovering av avloppsledningar i bottenplanet i hus 1, 3 och 4'
 teaser: /images/uploads/ror.jpg
 ---
-Renovering av avloppsledningar i bottenplanet i hus 1, 3 och 4  kommer att påbörjas i mitten januari 2020. Arbetet beräknas pågå i totalt i cirka 3 månader. Enligt tidplanen pågår arbeten i varje hus i fyra veckor, inklusive omkoppling av avloppsrör. Själva arbetet med relining av\
-rören tar 2 veckor.
+Renovering av avloppsledningar i bottenplanet i hus 1, 3 och 4  kommer att påbörjas i mitten januari 2020. Arbetet beräknas pågå i totalt i cirka 3 månader. Enligt tidplanen pågår arbeten i varje hus i fyra veckor, inklusive omkoppling av avloppsrör. Själva arbetet med relining av rören tar 2 veckor.
 
 Vi startar med start i hus 1, därefter hus 3 och avslutning i hus 4.
 
