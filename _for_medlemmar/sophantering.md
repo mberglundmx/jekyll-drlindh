@@ -24,12 +24,9 @@ Här finns möjlighet att lämna:
 
 **Tips!** när du köper kylskåp, frys, tvättmaskin, TV m.m. så betalar du också för att leverantören skall ta hand om din gamla apparat.
 
-Sanitetsporslin, byggavfall, färgrester, bilbatteri och övrigt miljöfarligt avfall
-Alla medlemmar och hyresgäster ansvar själva för att byggavfall och miljöfarligt avfall lämnas på någon av Göteborgs kommuns återvinningsanläggningar t.ex. Högsbo industriområde. A. Odhners gata, 031 – 61 85 30, http://www.renova.se 
-Privatpersoner får vid första besöket ett kort som gäller för 6 gratis tömningar/år.
-Elektronik är alltid gratis.
-
 ## Grovsopor
+
+Alla medlemmar och hyresgäster ansvar själva för att byggavfall och miljöfarligt avfall lämnas på någon av Göteborgs kommuns återvinningsanläggningar t.ex. Högsbo industriområde. A. Odhners gata, 031 – 61 85 30, http://www.renova.se . Privatpersoner får vid första besöket ett kort som gäller för 6 gratis tömningar per år. Elektronik är alltid gratis.
 
 Container beställs till föreningen regelbundet, torsdag till söndag, följande veckor är en preliminära planeringen:
 
