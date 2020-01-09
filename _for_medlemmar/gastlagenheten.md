@@ -4,7 +4,7 @@ title: Gästlägenheten
 teaser: /images/uploads/gastlgh (liten).jpg
 feature: /images/uploads/gastlgh (feature).jpg
 ---
-Vår gästlägenhet är enkelt inredd, det finns två sängar, toa, dusch och bastu. Det finns inga möjligheter att laga mat eller att brygga kaffe.
+Vår gästlägenhet är enkelt inredd, det finns två sängar, toa, dusch och bastu. Däremot saknas möjligheter att laga mat eller att brygga kaffe.
 
 Gästlägenheten är belägen på i bottenvåningen på Doktor Lindhs gata 3. Avgiften för gästlägenheten är 200 kr per dygn.
 
