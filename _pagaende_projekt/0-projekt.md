@@ -4,7 +4,11 @@ title: Mindre projekt
 teaser: /images/uploads/utemobel_renovering.jpeg
 feature: /images/uploads/utemobel_renovering_feature.jpeg
 ---
-Det pågår nästa alltid något projet i och runt våra hus. Här finns kort information om både sådant som är gjort och sådant som planeras. 
+Det pågår nästa alltid något projekt i och runt våra hus. Här finns kort information om både sådant som är gjort och sådant som planeras. 
+
+## Mer plats i gymet
+
+I samband med ombyggnaden av SDN-lokalen till lägenheter sker också en viss omdisponering i källarplanet under. Gamla ventilationsutrymmen kan bli förråd och nuvarande förrådsyta kan bli expantions yta för gymet. 
 
 ## Dörrbyte
 
