@@ -23,4 +23,4 @@ Det kan förekomma lukt under entreprenadstiden från vår plast. Det kan även 
 * Daniel Fihn, Platschef Tubus System AB, 031-887743
 * Mikael Zachrisson, föreningens projektledare, 070-8756667
 
-  Läs mer om projektet
+[Läs mer om projektet](/pagaende_projekt/1relinging-renovering-av-avloppsledningar-i-bottenplanet-i-hus-1-3-och-4)
