@@ -31,13 +31,13 @@ För vissa stora lägenheter kan det bli aktuellt att köksavloppet måste stän
 
 Tillgänglighet till gym och vävstuga kommer att vara begränsad under vecka 3-6. Gymmet kommer då att var avstängt under arbetstid kl 07:00-16:00.
 
-## Detaljerad informatino när det närmar sig!
+## Detaljerad information när det närmar sig!
 
 Mer detaljerad information om tider och andra nödvändiga åtgärder kommer att lämnas efter hand från Tubus System AB.
 
 Frågor angående arbetena besvaras i första hand av:
 
-* Daniel Fihn, Platschef Tubus System AB031-887743
-* Mikael Zachrisson, föreningens projektledare070-8756667
+* Daniel Fihn, Platschef Tubus System AB, 031-887743
+* Mikael Zachrisson, föreningens projektledare, 070-8756667
 
   [Tidsplan kan läsas här](/images/uploads/Tidplan_RorArbete_DrLindh2020.pdf)
