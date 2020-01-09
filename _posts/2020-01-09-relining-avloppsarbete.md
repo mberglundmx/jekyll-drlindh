@@ -15,3 +15,12 @@ Framkomlighet kommer att vara begränsad i källaren, vi ber er därför att vis
 Det kan förekomma lukt under entreprenadstiden från vår plast. Det kan även lukta lite avlopp från våra omkopplingstunnor."
 
 /Tubus ystem
+
+\---
+
+**Frågor angående arbetena besvaras i första hand av:**
+
+* Daniel Fihn, Platschef Tubus System AB, 031-887743
+* Mikael Zachrisson, föreningens projektledare, 070-8756667
+
+  Läs mer om projektet
