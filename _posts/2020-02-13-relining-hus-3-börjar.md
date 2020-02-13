@@ -6,7 +6,7 @@ teaser: /images/uploads/ror.jpg
 ---
 Gymmet är åter tillgängligt på vanligt sätt eftersom arbetet i hus 1 är färdigt.
 
-I vecka 8, från och med 17 februari, är arbetet med relinging i hus 3 i husets bottenplatta, i full gång. Det börjar med omkoppling av avloppsrör till temporära rör och pumpar. Detta är för att vi som bor ska kunna fortsätta vår vardag så normalt som möjligt. Några lägenheter kommer trots det att drabbas av avstända köksavlopp vissa perioder. De får särskild information.
+I vecka 8, från och med 17 februari, är arbetet med relinging i hus 3 i full gång. Det börjar med omkoppling av avloppsrör till temporära rör och pumpar. Detta är för att vi som bor ska kunna fortsätta vår vardag så normalt som möjligt. Några lägenheter kommer trots det att drabbas av avstända köksavlopp vissa perioder. De får särskild information.
 
 Tubus system som genomför relinigsarbetet informera mera. Det är viktigt att vi alla följer instruktionerna för att de temporära avloppen ska fungera!
 
