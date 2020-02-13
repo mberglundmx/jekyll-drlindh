@@ -9,7 +9,7 @@ Några viktiga datum i föreningen våren 2020
 * 25/4 Vårens städdag
 * 18/5 Årsstämma 2019
 
-**Container**för grovsopor kommer att finnas på plats i samband med våren städdag, v 17.
+**Container** för grovsopor kommer att finnas på plats i samband med våren städdag, v 17.
 
 **Lindhbladet**, välkomna med bidrag till kommande nummer av Lindhblandet. Manusstopp är 5/4.
 
