@@ -14,8 +14,6 @@ Tubus system som genomför relinigsarbetet informera mera. Det är viktigt att v
 
 Relining innebär att de gamla rören beläggs med plast på insida. Detta luktar plast just när arbetet pågår. Vädra i din egen lägenhet.
 
-Hus 1 är klart och arbetet har gått mycket bra. Gymmet är åter tillgängligt på vanligt sätt!
-
 ### **Frågor**
 
 Om du har frågor angående arbetena besvaras i första hand av:
