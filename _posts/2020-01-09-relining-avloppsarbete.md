@@ -14,9 +14,9 @@ Framkomlighet kommer att vara begränsad i källaren, vi ber er därför att vis
 
 Det kan förekomma lukt under entreprenadstiden från vår plast. Det kan även lukta lite avlopp från våra omkopplingstunnor."
 
-/Tubus ystem
+/Tubus system
 
----
+- - -
 
 **Frågor angående arbetena besvaras i första hand av:**
 
