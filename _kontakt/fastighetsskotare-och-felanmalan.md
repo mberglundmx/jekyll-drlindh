@@ -3,7 +3,7 @@ layout: page
 title: Fastighetsskötare och felanmälan
 teaser: /images/uploads/svensk-markservcie-logo.png
 ---
-**Använd i första hand e-post för att kontakta fastighetssötaren**
+**Använd i första hand e-post för att kontakta fastighetsskötaren**
 
 **E-post:** fastighetsskotaren@drlindh.se
 
