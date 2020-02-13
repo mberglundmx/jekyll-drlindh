@@ -13,4 +13,4 @@ Några viktiga datum i föreningen våren 2020
 
 **Lindhbladet**, välkomna med bidrag till kommande nummer av Lindhblandet. Manusstopp är 5/4.
 
-**Styrelsen** har normalt möte första torsdagen varje månad, närmaste möte är den 6 februari därefter 5/3, 2/4, 7/5, 4/6.
+**Styrelsen** har normalt möte första torsdagen varje månad, närmaste möte är den 6 februari därefter 5/3, 2/4, 7/5 och 4/6.
