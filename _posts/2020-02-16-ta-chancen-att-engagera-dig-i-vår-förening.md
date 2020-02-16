@@ -6,7 +6,7 @@ teaser: /images/uploads/img_6220 (liten).jpg
 ---
 Grannar! Ta chancen att engagera dig i vår bostadsrättsförening Dr Lindh! Har du någon speciell kunskap eller erfarenhet eller bara skulle vilja delta i arbetet med vår fina bostadsrättsföreningen…
 
-Ta kontakt ed oss i valberedning så kan vi berätta mer:
+Ta kontakt med oss i valberedning så kan vi berätta mer:
 
 * Gunilla Rehn, Hus 6, sammankallande, rehngunilla@gmail.com
 * Kerstin Hinnerson, Hus 6
