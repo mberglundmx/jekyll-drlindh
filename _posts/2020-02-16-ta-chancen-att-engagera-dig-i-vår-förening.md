@@ -11,6 +11,7 @@ Ta kontakt med oss i valberedning så kan vi berätta mer:
 * Gunilla Rehn, Hus 6, sammankallande, rehngunilla@gmail.com
 * Kerstin Hinnerson, Hus 6
 * Margareta Övergaard, Hus 3
+* Staffan Björck, Hus 4
 * Lars Bengtsson, Hus 1
 
   / hälsningar Valberedningen
