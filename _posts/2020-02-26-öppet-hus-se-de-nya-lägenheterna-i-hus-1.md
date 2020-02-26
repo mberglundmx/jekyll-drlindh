@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Öppet hus - se de nya lägenheterna i hus 1
+title: Nyfiken på de nya lägenheterna i hus 1?
 date: 2020-02-26T06:33:37.754Z
 teaser: /images/uploads/ritningsutsnitt.jpg
 ---
