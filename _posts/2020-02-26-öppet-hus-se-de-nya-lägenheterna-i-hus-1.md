@@ -4,7 +4,7 @@ title: Nyfiken på de nya lägenheterna i hus 1?
 date: 2020-02-26T06:33:37.754Z
 teaser: /images/uploads/ritningsutsnitt.jpg
 ---
-Lördag den 29 februari kl 10-12 kan du stilla din nyfikenhet! Det är öppet för alla medlemmar att få en förhandstitt på de nya lägenheterna.
+Öppet hus! Lördag den 29 februari kl 10-12 kan du stilla din nyfikenhet! Det är öppet för alla medlemmar att få en förhandstitt på de nya lägenheterna.
 
 Alla lägenhetern är i det närmaste färdiga. Endast några gaderober med skjudörrar är försendade. Slutbesiktningen återstår också.
 
