@@ -12,11 +12,11 @@ Man blir medlem i samband med en överlåtelse. Då ansöker alla blivande delä
 
 En medlem kan överlåta eller sälja delar av sin andel av bostadsrätten. Man kan också ärva en bostadsrätt. Eller genom upplåtelse, då föreningen säljer en lägenhet.
 
-Om du har frågor om medlemskap eller överlåtelse / försäljning av lägenheten kontakta gärna styrelsens representant för dessa ärenden, Hans Ragneskog, hans.ragneskog@gmail.com, 072 706 3456. Om du genomfört en överlåtelse skicka handlingarna, inkl ansökan om medlemskap, till föreningens ekonomiske förvaltare, Revisorsringen, Distansgatan 2, 421 37 Västra Frölunda.
+Om du har frågor om medlemskap eller överlåtelse / försäljning av lägenheten kontakta gärna styrelsens representant för dessa ärenden, Hans Ragneskog, hans.ragneskog@gmail.com, 072 706 3456. Om du genomfört en överlåtelse skicka handlingarna, inkl ansökan om medlemskap, till föreningens ekonomiske förvaltare, Revisorsringen, Distansgatan 2, 421 74 Västra Frölunda.
 
 ## Överlåtelse- och pantsättningsavgift tas ut enligt stadgar
 
-Överlåtelseavgift betalas av köpare. Handläggning av pantsättning av bostadsrätter handläggs av vår ekonomiske förvaltare Revisorsringen. All korrespondens kan ske direkt med Revisorsringen, Distansgatan 2, 421 37 Västra Frölunda.
+Överlåtelseavgift betalas av köpare. Handläggning av pantsättning av bostadsrätter handläggs av vår ekonomiske förvaltare Revisorsringen. All korrespondens kan ske direkt med Revisorsringen, Distansgatan 2, 421 74 Västra Frölunda.
 
 Om du har frågor, vänd dig till Jenny Bergendahl, jenny.bergendahl@revisorsringen.se eller tel 031-7098158.
 
