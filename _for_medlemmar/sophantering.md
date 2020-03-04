@@ -33,7 +33,7 @@ Container beställs till föreningen regelbundet, torsdag till söndag, följand
 * Vecka 2, för julgranar mm efter jul
 * Vecka 17, eller i samband med föreningens vårstädning
 * Vecka 33
-* Vecka 42, elleri samband med föreningens höststädning
+* Vecka 42, eller i samband med föreningens höststädning
 
 ## Återvinningsstation
 
