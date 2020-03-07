@@ -10,4 +10,6 @@ Skicka din motion till [drlindh@gmail.com](<mailto: drlindh@gmail.com>) eller l�
 
 Glöm inte heller att kontakta valberedningen om du eller någon du känner är intresseda av att engagerar er mer i vår förening.
 
-Föreningsstämman är den 18 maj. [Läs arktikel från tidningen Borätt om motioner!](/images/uploads/Motioner_Boratt.pdf)
+Föreningsstämman är den 18 maj.
+
+[Läs arktikel från tidningen Borätt om motioner!](/images/uploads/Motioner_Boratt.pdf)
