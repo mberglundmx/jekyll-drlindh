@@ -4,7 +4,7 @@ title: Motioner till  föreningsstämman
 date: 2020-03-07T13:46:29.755Z
 teaser: /images/uploads/lampskarm.jpeg
 ---
-Det är dags att lämna in motioner till föreningsstämman. Senast den mars ska de vara styrelsen till handa.
+Det är dags att lämna in motioner till föreningsstämman. Senast den 30 mars ska de vara styrelsen till handa.
 
 Skicka din motion till [drlindh@gmail.com](<mailto: drlindh@gmail.com>) eller lägga den kan lämna din motion i styrelsen brevlåda i hus 3.
 
