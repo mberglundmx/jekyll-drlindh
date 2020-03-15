@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tack för maten!
+title: 'Tack för maten! En hälsning från Göteborgs stad, Kretslopp och vatten '
 date: 2020-03-14T18:40:25.205Z
 teaser: /images/uploads/tack_for_maten_liten.jpeg
 feature: /images/uploads/tack_for_maten.jpg
