@@ -7,6 +7,6 @@ feature: /images/uploads/tack_for_maten.jpg
 ---
 Kretslopp och vatten hämtar kompost på Doktor Lindh. Förra året sorterade vi ut 11,7 ton matavfall. Det räcker för att köra en gasdriven bil 2 223 mil!
 
-Det är något mer än förra året då vi sorterad ut 11,6 ton matavfall.
+Det är något mer än föregående år då vi sorterad ut 11,6 ton matavfall.
 
 Forstätt sortera!
