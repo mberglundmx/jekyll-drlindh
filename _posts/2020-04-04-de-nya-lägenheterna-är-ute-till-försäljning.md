@@ -2,8 +2,8 @@
 layout: post
 title: De nya lägenheterna är ute till försäljning!
 date: 2020-04-04T17:33:28.650Z
-teaser: /images/uploads/säljbild.jpg
-feature: /images/uploads/säljbild-2.png
+teaser: /images/uploads/saljbild.jpg
+feature: /images/uploads/saljbild_2.png
 ---
 Nu är de nya lägenheterna i hus 1 färdiga. Och ute till försäljning genom mäklaren Bjurfors. 
 
