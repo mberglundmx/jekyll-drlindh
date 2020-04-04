@@ -9,7 +9,7 @@ Nu är de nya lägenheterna i hus 1 färdiga. Och ute till försäljning genom m
 
 Tipsa gärna nära, kära, vänner och bekanta som kan vara intressrade.
 
-**Följ länkarna för mer informaion på hemnet**
+**Följ länkarna för mer informaion på Hemnet**
 
 [2-rums lägenhet, 56 m2 med uteplats ](https://www.hemnet.se/bostad/lagenhet-2rum-sodra-guldheden-goteborgs-kommun-doktor-lindhs-gata-1-16734476)
 
