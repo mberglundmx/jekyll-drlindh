@@ -13,6 +13,15 @@ I alla våra soprum är det möjligt att källsortera skräp. I soprummet kan du
 * Metall
 * Glas – ofärgat och färgat
 * Plast
+### Hämtningsschema av sopor (vår 2020)
+  **Veolia recycling**
+* Tisdag - plast och metall
+* Onsdag - kartong och tidningspapper
+* Torsdag - glas
+
+**Kretslopp och vatten**
+* Onsdag - restavfall
+* Fredag - kompost
 
 ## Rum för elektronikavfall, södra gaveln på hus 1
 
