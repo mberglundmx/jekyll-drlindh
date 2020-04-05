@@ -21,4 +21,4 @@ Själva städ-delen av dagen genomförs inte heller på vanligt sätt. När styr
 
 ## Container
 
-Container kommer att betställas och finnas på plats på vanligt sätt.
+Container kommer att beställas och finnas på plats på vanligt sätt.
