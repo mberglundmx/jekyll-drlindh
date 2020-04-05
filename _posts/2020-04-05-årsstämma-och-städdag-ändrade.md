@@ -7,7 +7,7 @@ feature: /images/uploads/skilla_feature.jpeg
 ---
 Nytt datum för årstämman är tisdag den 23 juni. Och vårens städag genomförs på annat sätt än vanligt.
 
-De rådandan omständigheterna med pandemi gör att vi måste förändra föreningens aktivteter.
+De rådande omständigheterna med pandemi gör att vi måste förändra föreningens aktivteter.
 
 ## Årsstämma den 23 juni
 
