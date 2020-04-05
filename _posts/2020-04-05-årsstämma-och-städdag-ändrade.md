@@ -17,7 +17,7 @@ Föreningens årsstämma kommer inte hållas den 18 maj som planerat. Nytt, plan
 
 Tyvärr kan vi ju inte ha någon fest. Det skulle bli för många personer, var av många dessutom i riskgrupper, på för lite yta. 
 
-Själva städ-delen av dagen genomförs inte heller på vanligt sätt. När styrelsen beslutade detta var vår önskan att medlemmarna ändå skulle kunna genomföra olika trädgårds- och städuppgifter vid tillfällen som de själva väljer. Enskilt eller i små grupper. Städdagen är ett tillfälle att göra saker tillsammans men tillsammans måste nu vara på annat sätt än vanligt. Ta vara på möjligheten att göra saker det ute, där är det fortfarande möjligt att just göra saker tillsammans, på lagom avstånd från varandra. Och fortsätt prata med varandra! 
+Själva städ-delen av dagen genomförs inte heller på vanligt sätt. När styrelsen beslutade detta var vår önskan att medlemmarna ändå skulle kunna genomföra olika trädgårds- och städuppgifter vid tillfällen som de själva väljer. Enskilt eller i små grupper. Städdagen är ett tillfälle att göra saker tillsammans men tillsammans måste nu vara på annat sätt än vanligt. Ta vara på möjligheten att göra saker ute, där är det fortfarande möjligt att just göra saker tillsammans, på lagom avstånd från varandra. Och fortsätt prata med varandra! 
 
 ## Container
 
