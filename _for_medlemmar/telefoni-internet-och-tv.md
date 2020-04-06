@@ -4,23 +4,31 @@ title: 'Telefoni, internet och TV'
 teaser: /images/uploads/Sladdar liten.jpg
 feature: /images/uploads/Sladdar feature.jpg
 ---
-Föreningen har ett avtal med Bredbandbolaget som omfattar FiberTV, bredband och IP-telefoni. Bredbandet är 250/100 Mbit/s. FiberTV innebär att TV distribueras genom bredbandet istället för som tidigare genom kabel-TV nätet. FiberTV omfattar för närvarande 18 TV kanaler varav 12 st. kan ses i HD kvalitet. I avtalet ingår en router och en digital TV-box.
+Föreningen har ett avtal med Telenor som omfattar FiberTV, bredband och IP-telefoni. Bredbandet är 250/250 Mbit/s. FiberTV innebär att TV distribueras genom bredbandet. FiberTV omfattar för närvarande 16 TV kanaler. Samtliga kan ses i HD kvalitet. I avtalet ingår en router och en digital TV-box.
 
-**Ny medlem**, som ny medlem ska du anmäla till Bredbandsbolaget att du övertagit lägenheten och vilka tjänster du vill ha. Du får låna router och TV-box av Bredbandsbolaget och de ska återlämnas när du flyttar.
+**Ny medlem**, som ny medlem ska du anmäla till Telenor att du övertagit lägenheten och vilka tjänster du vill ha. Du får låna router och TV-box av Telenor och de ska återlämnas när du flyttar.
 
-### Bredbandsbolagets kundsupport
+### **Telenors** kundsupport
 
-Kundsupport: tel. 0770-777000. Dit ringer man vid alla typer av problem som rör Bredbandsbolaget. Man ringer dit även när man vill beställa saker, allt från prylar till tjänster och tekniker som kommer hem och gör saker. Allt utöver avtalet får man betala själv.
+Kundsupport: tel. 020-222 222. Dit ringer man vid alla typer av problem som rör Telenor. Man ringer dit även när man vill beställa saker, allt från prylar till tjänster och tekniker som kommer hem och gör saker. Allt utöver avtalet får man betala själv.
 
-[Bredbandsbolaget på webben ](www.bredbandsbolaget.se)
+[Telenor kundservice](https://www.telenor.se/kundservice/)
 
 ## Avbrott i telekommunikationen
 
-Vid avbrott i bredbandsanslutningen fungerar ingenting. TV fungerar inte, där kan finnas meddelande om att nätverkskontakt saknas. IP-telefonen fungerar inte, det går inte att ringa och det går inte att ta emot samtal. När bredbandet inte fungerar det går inte att surfa på Internet, det går inte att skicka eller ta emot e-post. Första åtgärd är att stänga av strömmen till routern, vänta 30 sek och sedan starta routern igen. Om det fortfarande problem, ring Bredbandsbolagets kundsupport, 0770-77 70 00.
+Vid avbrott i bredbandsanslutningen fungerar ingenting. TV fungerar inte, där kan finnas meddelande om att nätverkskontakt saknas. IP-telefonen fungerar inte, det går inte att ringa och det går inte att ta emot samtal. När bredbandet inte fungerar det går inte att surfa på Internet, det går inte att skicka eller ta emot e-post. Första åtgärd är att stänga av strömmen till routern, vänta 30 sek och sedan starta routern igen. Om det fortfarande problem, ring Telenors kundsupport, 020-222 222.
 
-## FiberTV
+## **FiberTV**
 
-Föreningen har avtal med Bredbandsbolaget om FiberTV. FiberTV distribueras genom bredbandet. I avtalet ingår en digital TV-box och tjänsten T1 Bas. Vill man ha fler kanaler kan man köpa större kanalpaket, T2 Flex eller T3 Stor. Merkostnaden får medlemmen själv betala.
+Föreningen har avtal med Telenor om FiberTV. FiberTV distribueras genom bredbandet. I avtalet ingår en digital TV-box och tjänsten T1 Bas. I T1 Bas ingår tjänsten Telenor Stream. Vill man ha fler kanaler kan man köpa större kanalpaket, T2 Flex eller T3 Stor. Merkostnaden får medlemmen själv betala.
+
+**Telenor Stream**
+
+Telenor Stream gör att man kan se på Telenors TV utbud på vilken apparat som helst som har en skärm. Man kan t.ex. se på 2 TV-apparater i lägenheten, eller så kan man se på TV i sommarstugan, bara man har tillgång till Internet. Det som krävs är att man registrerar ett konto hos Telenor. Man behöver ha sitt kundnummer hos Telenor. Gå in på <https://www.telenor.se/stream>. Välj Logga in. Välj sedan att du redan är Telenorkund. Svara sen på frågorna. Du väljer själv lösenord, kom ihåg det sen.
+
+Får du problem, kan du ringa Kundtjänst  020-222 222, så får du hjälp. Tänk på att alltid ha ditt kundnummer framme.
+
+Telenor Stream är en app som man laddar ner och installerar på en enhet med skärm, t.ex. dator, smartphone, IPAD AppleTV, Cromecast.
 
 ## E-post
 
