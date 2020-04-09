@@ -11,7 +11,10 @@ De rådande omständigheterna med pandemi gör att vi måste förändra förenin
 
 ## Årsstämma den 23 juni
 
-Föreningens årsstämma kommer inte hållas den 18 maj som planerat. Nytt, planerat, datum är tisdag den 23 juni. För att följa våra stadgar måste vi hålla årsstämma senast 30 juni.
+Föreningens årsstämma kommer inte hållas den 18 maj som planerat. Nytt, planerat, datum är tisdag den 23 juni. För att följa våra stadgar måste vi hålla årsstämma senast 30 juni. 
+
+Vi följer också information som kommer om alternativa sätt att genomföra årsstämma. \
+[Läs mer vad som skrivs tex här på branschorganisationen "Bostadsrätterna"](https://www.bostadsratterna.se/allt-om-bostadsratt/artiklar/fyra-satt-att-halla-foreningsstamman)
 
 ## Vårens städdag
 
