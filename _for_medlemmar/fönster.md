@@ -29,6 +29,6 @@ För att fönstren skall gå lätt att öppna och lätt att svänga runt. behöv
 
 **Information hämtad ur förnsterlevernatörens katalog**
 
-[Wescoast_Windows_Handbok_sid_10-12](/images/uploads/Wescoast_Windows_Handbok_sid_10-12.pdf)
+[Wescoast Windows Handbok sid 10-12](/images/uploads/Wescoast_Windows_Handbok_sid_10-12.pdf)
 
-[Westcoast_Windows_Handbok_sid_8-10](images/uploads/Westcoast_Windows_Handbok_sid_8-10.pdf)
+[Westcoast Windows Handbok sid 8-10](/images/uploads/Westcoast_Windows_Handbok_sid_8-10.pdf)
