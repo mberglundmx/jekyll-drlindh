@@ -10,7 +10,7 @@ Föreningen har ett avtal med Telenor som omfattar FiberTV, bredband och IP-tele
 
 ### **Telenors** kundsupport
 
-Kundsupport: tel. 020-222 222. Dit ringer man vid alla typer av problem som rör Telenor. Man ringer dit även när man vill beställa saker, allt från prylar till tjänster och tekniker som kommer hem och gör saker. Allt utöver avtalet får man betala själv.
+Kundsupport, tel. 020-222 222, dit ringer man vid alla typer av problem som rör Telenor. Man ringer dit också när man vill beställa saker, allt från prylar till tjänster och tekniker som kommer hem och gör saker. Allt som är utöver avtalet måste man betala själv.
 
 [Telenor kundservice](https://www.telenor.se/kundservice/)
 
