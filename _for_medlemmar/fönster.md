@@ -1,13 +1,14 @@
 ---
 layout: page
 title: Fönster
-teaser: /images/400x250.png
+teaser: /images/uploads/fonster_liten.png
+feature: /images/uploads/fonster_feature.png
 ---
-Fönster är huset ögon heter det i bland. Och när man är inomhus är fönstren avgörnde för rummet dagljus flöde och tivselkänsla.
+Fönster är husets ögon heter det i bland. Och när man är inomhus är fönstren avgörande för rummets dagljusflöde och tivselkänsla.
 
 Ansvar för fönster är delat mellan föreningen och lägenhetsinnhavaren. Detta finns specificerat i en lista över ansvarfördelingen. Där står det så här om fönster:
 
-**Föreningens asvar**
+**Föreningens ansvar**
 
 * Fönsterglas
 * Yttre målning
@@ -23,7 +24,7 @@ Ansvar för fönster är delat mellan föreningen och lägenhetsinnhavaren. Dett
 
 [](images/uploads/Ansvarsfordelning_rev_Brf_bilaga_2014-12-06.pdf)[Ansvarslista (rev 2014-12-06)](/images/uploads/Ansvarsfordelning_rev_Brf_bilaga_2014-12-06.pdf)
 
-För att fönstren skall gå lätt att öppna och lätt att svänga runt. behöver de underhållas och smörjas. Tar det på minsta sätt emot när du ska öppna, avbrytT Använd aldrig mer kraf! Den vanligaste orsaken till att det går trögt, är att man inte har smort fönstren, spanjolett och beslag.
+För att fönstren skall gå lätt att öppna och lätt att svänga runt. behöver de underhållas och smörjas. Tar det på minsta sätt emot när du ska öppna, avbryt. Använd aldrig mer kraf! Den vanligaste orsaken till att det går trögt, är att man inte har smort fönstren, spanjolett och beslag.
 
 ### Hur gör man när man smörjer handtag och beslag?
 
