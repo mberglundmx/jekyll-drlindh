@@ -6,6 +6,14 @@ feature: /images/uploads/utemobel_renovering_feature.jpeg
 ---
 Det pågår nästa alltid något projekt i och runt våra hus. Här finns kort information om både sådant som är gjort och sådant som planeras. 
 
+## OVK - obligatorisk ventilationskontroll
+
+Enligt plan- och bygglagen skall obligatorisk ventilationskontroll, OVK, utföras regelbundet i alla bostadshus. Det ska ske vart sjätte år för hus med den typ av ventilationssystem vi har, ventilation därfrånluftsflödena är fläktstyrda.
+
+I år, 2020, är det dags igen, till hösten kommer detta att ske. 
+
+Det var också länge sedan rensning av ventila- tionskanaler utfördes. Styrelsen planerar därför att genomföra detta i samband med kontrollen.
+
 ## Mer plats i gymet
 
 I samband med ombyggnaden av SDN-lokalen till lägenheter sker också en viss omdisponering i källarplanet under. Gamla ventilationsutrymmen kan bli förråd och nuvarande förrådsyta kan bli expantions yta för gymet. 
