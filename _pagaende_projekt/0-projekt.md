@@ -8,11 +8,11 @@ Det pågår nästa alltid något projekt i och runt våra hus. Här finns kort i
 
 ## OVK - obligatorisk ventilationskontroll
 
-Enligt plan- och bygglagen skall obligatorisk ventilationskontroll, OVK, utföras regelbundet i alla bostadshus. Det ska ske vart sjätte år för hus med den typ av ventilationssystem vi har, ventilation därfrånluftsflödena är fläktstyrda.
+Enligt plan- och bygglagen skall obligatorisk ventilationskontroll, OVK, utföras regelbundet i alla bostadshus. Det ska ske vart sjätte år för hus med den typ av ventilationssystem vi har, ventilation där frånluftsflödena är fläktstyrda.
 
 I år, 2020, är det dags igen, till hösten kommer detta att ske. 
 
-Det var också länge sedan rensning av ventila- tionskanaler utfördes. Styrelsen planerar därför att genomföra detta i samband med kontrollen.
+Det var också länge sedan rensning av ventilationskanaler utfördes. Styrelsen planerar därför att genomföra detta i samband med kontrollen.
 
 ## Mer plats i gymet
 
