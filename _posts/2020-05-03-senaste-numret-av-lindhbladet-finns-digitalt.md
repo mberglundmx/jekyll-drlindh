@@ -12,3 +12,7 @@ Senaste numret av Lindhbaldet kom i april
 Välkommen att lämna bidrag till kommande nummer av Lindbladet. Redaktionen beslutar vad som publiceras. Nästa nummer kommer i höst.
 
 Maila ditt förslag/bidrag till drlindh@gmail.com
+
+Om nu är nyfiken på tidigare nummer av Lindhbladet finns då under rubriken För medlemmar. 
+
+[Tidigare nummer av Lindbladet](/for_medlemmar/lindhbladet)
