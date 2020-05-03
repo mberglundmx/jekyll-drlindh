@@ -7,7 +7,7 @@ feature: /images/uploads/lindbladet.png
 ---
 Senaste numret av Lindhbaldet kom i april
 
-[Läs Lindhbladhet](/images/uploads/Lindhbladet_1_2020-web.pdf)
+[Läs Lindhbladet nr 1 2020](/images/uploads/Lindhbladet_1_2020-web.pdf)
 
 Välkommen att lämna bidrag till kommande nummer av Lindbladet. Redaktionen beslutar vad som publiceras. Nästa nummer kommer i höst.
 
