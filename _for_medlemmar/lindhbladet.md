@@ -11,10 +11,10 @@ Ansvarig utgivare för Lindhbladet är föreningens ordföranden, och tidningens
 Om du är intresserad av tidigare Lindhblad än de som ligger här nedan så hör av dig till drlindh@gmail.com, det finns Lindhblad sen föreningen bildades.
 
 ## Senaste numret av Lindhbladet
-
-[Lindhbladet oktober 2019](/images/uploads/Lindhbladet_2_2019-web.pdf)
+[Lindhbladet nr 1 2020](/images/uploads/Lindhbladet_1_2020-web.pdf)
 
 ## Tidigare nummer av Lindblandet
+* [Lindhbladet 1: 2020](/images/uploads/Lindhbladet_1_2020-web.pdf)
 * [Lindhbladet 2: 2019](/images/uploads/Lindhbladet_2_2019-web.pdf)
 * [Lindhbladet 1: 2019](/images/uploads/2019_Lindhbladet_1-web.pdf)
 * [Lindhbladet 2: 2018](/images/uploads/Lindhbladet_2_2018-web.pdf)
