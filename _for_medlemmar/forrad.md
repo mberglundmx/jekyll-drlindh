@@ -14,7 +14,7 @@ Till varje lägenhet hör ett vindsförråd. Vindsförråden är anpassade till 
 
 I hus 1:s källare finns 5 stora förråd 8-13 kvm och ett 30 tal mindre nätförråd på 2-6 kvm som är möjliga att hyra för föreningens medlemmar. Hyran ligger mellan ca 400- 6500kr /år.
 
-För frågor eller önskan att ställa sig i kö för stora eller små förråden maila namn, BRF-nummer, lgh-nummer till drlindh@gmail.com.
+För frågor eller önskan att ställa sig i kö för stora eller små förråden maila namn, BRF-nummer, lgh-nummer till kontakt@drlindh.se.
 
 ## Cykelrum
 
