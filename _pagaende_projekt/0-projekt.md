@@ -4,7 +4,7 @@ title: Mindre projekt
 teaser: /images/uploads/utemobel_renovering.jpeg
 feature: /images/uploads/utemobel_renovering_feature.jpeg
 ---
-Det pågår nästa alltid något projekt i och runt våra hus. Här finns kort information om både sådant som är gjort och sådant som planeras. 
+Det pågår nästa alltid något projekt i och runt våra hus. Här finns kort information om både sådant som planeras och sådant som är gjort. 
 
 ## Gymmet utvidgas
 
