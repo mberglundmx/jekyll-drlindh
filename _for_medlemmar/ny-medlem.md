@@ -24,9 +24,9 @@ Varje lägenhet har även ett nummer fastställt av lantmäteriverket. Numret st
 
 ## Telefoni, internet och TV
 
-Föreningen har avtal med Bredbandsbolaget om internet, telefoni och TV.  Det gäller internetuppkoppling, telefoni och basutbud för TV. Detta betalas genom föreningens månadsavgift. Tilläggstjänster som inte ingår i avtalet betalar var och en själv. När du är ny medlem ska du anmäla till Bredbandsbolaget att du övertagit lägenheten och vilka tjänster du vill ha. Du får låna router och TV-box av Bredbandsbolaget och dessa ska lämnas tillbaka när du flyttar.
+Föreningen har avtal med Telenor om internet, telefoni och TV.  Det gäller internetuppkoppling, telefoni och basutbud för TV. Detta betalas genom föreningens månadsavgift. Tilläggstjänster som inte ingår i avtalet betalar var och en själv. När du är ny medlem ska du anmäla till Telenor att du övertagit lägenheten och vilka tjänster du vill ha. Du får låna router och TV-box av Telenor och dessa ska lämnas tillbaka när du flyttar.
 
-Bredbandsbolagets kundsupport: tel. 0770-777000
+[Telenor kundservice](https://www.telenor.se/kundservice/)
 
 ## El
 
