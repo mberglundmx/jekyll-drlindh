@@ -11,9 +11,9 @@ Doktor Lindhs gata 3
 
 413 25 Göteborg 
 
-**E-postadress:** drlindh@gmail.com
+**E-postadress:** [kontakt@drlindh.se](kontakt@drlindh.se)
 
-Önskar du kontakt med någon person i styrelsen kan du skicka ett mail till [drlindh@gmail.com](drlindh@gmail.com), mailboxen öppnas dagligen, e-post vidarebefordras till den person det gäller.
+Önskar du kontakt med någon person i styrelsen kan du skicka ett mail till kontakt@drlindh.se, mailboxen öppnas dagligen, e-post vidarebefordras till den person det gäller.
 
 \----
 
