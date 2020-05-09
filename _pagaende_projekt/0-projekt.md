@@ -6,6 +6,14 @@ feature: /images/uploads/utemobel_renovering_feature.jpeg
 ---
 Det pågår nästa alltid något projekt i och runt våra hus. Här finns kort information om både sådant som är gjort och sådant som planeras. 
 
+## Gymmet utvidgas
+
+Gymmet kommer att få större yta att tillgå tack vare omflyttnar av förråden som finns i anslutning till gymmet. Arbetet med att ta ner innerväggar kommer igång i mitten av maj. Därefter vidtar både målningsarbete och ommöblering. Det planers bättre också för ljuddämpning under vissa maskiner. Arbetet kan medföra viss begränsing i anvädnignen av gymmet.
+
+## Hobbyrummet
+
+Nytt golv ska läggas i maj 2020. Alla som har saker i hobbyrummet måste flytta bort dessa före den 15 maj.
+
 ## OVK - obligatorisk ventilationskontroll
 
 Enligt plan- och bygglagen skall obligatorisk ventilationskontroll, OVK, utföras regelbundet i alla bostadshus. Det ska ske vart sjätte år för hus med den typ av ventilationssystem vi har, ventilation där frånluftsflödena är fläktstyrda.
@@ -14,9 +22,9 @@ I år, 2020, är det dags igen, till hösten kommer detta att ske.
 
 Det var också länge sedan rensning av ventilationskanaler utfördes. Styrelsen planerar därför att genomföra detta i samband med kontrollen.
 
-## Mer plats i gymet
+## Mer plats i gymmet
 
-I samband med ombyggnaden av SDN-lokalen till lägenheter sker också en viss omdisponering i källarplanet under. Gamla ventilationsutrymmen kan bli förråd och nuvarande förrådsyta kan bli expantions yta för gymet. 
+I samband med ombyggnaden av SDN-lokalen till lägenheter sker också en viss omdisponering i källarplanet under. Gamla ventilationsutrymmen kan bli förråd och nuvarande förrådsyta kan bli expantions yta för gymmet. 
 
 ## Dörrbyte
 
