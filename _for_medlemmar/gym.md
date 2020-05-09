@@ -14,7 +14,7 @@ Har du några frågor? Kontakta Kent Asp, Hus 4, som är kontaktperson för gymm
 
 ## Kontakta
 
-* **Föreningen:** drlindh@gmail.com eller brevlådan i Hus 3:s entré.
+* **Föreningen:** kontakt@drlindh.se eller brevlådan i Hus 3:s entré.
 * **Gym-ansvarig:** kentasp37@gmail.com
 
 ![null](/images/uploads/Gym 2.jpg)
