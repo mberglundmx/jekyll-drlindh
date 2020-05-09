@@ -8,7 +8,7 @@ I varje hus finns tvättstuga som är belägen i entréplan. I tvättstugan i hu
 
 ## Bokningsregeler
 
-Man bokar tid genom att flytta sitt "tvättlås" till önska tid på tavlan. Man disponerar tvättmaskinerna i 2 timmar och torktummlaren ytterligare 1 timme därefter.
+Man bokar tid genom att flytta sitt "tvättlås" till önska tid på tavlan. Man disponerar tvättmaskinerna i 2 timmar och torktummlaren ytterligare 1 timme därefter. Tänk på att "parkera" dit lås i den neutrala raden när du inte har en aktuell bokning.
 
 I flera tvättsugor finns också en minder tvättmaksin och torktumlar som inte får bokas i förväg utan bara användas genast i mån av tillgänglighet.
 
