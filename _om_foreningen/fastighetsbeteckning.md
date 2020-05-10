@@ -18,3 +18,7 @@ Föreningens organisationsnummer: 716 444 97 58
 Våra lägenheter har två olika nummer, dels Brf-numret som är unikt inom föreningen för varje lägenhet. Detta nummer används vid kontakt med föreningen, för bokning av tvättstugan och numrering av vindsförråden. Det används även när man skriver lägenhetskontrakt och i samband med pantsättning av en lägenhet. Numret finns längs upp på varje dörr.
 
 Varje lägenhet har även ett nummer fastställt av lantmäteriverket. Numret står intill brevinkastet. Numret är beroende på var i huset lägenheten är belägen. Detta nummer används (tillsammans med husnumret) av skattemyndigheten för folkbokföring och av posten. Samma nummer finns i alla våra fyra hus.
+
+## **Pantsättning och utdrag ur lägenhetsregistret**
+
+Alla frågor om pantsättning eller utdrag ur lägenhetsförteckningen handlägges av föreningens ekonomiska förvaltare Revisorsringen. Vänd er direkt till Revisorsringen via e-post; [brf@revisorsringen.se](mailto:brf@revisorsringen.se) eller via vanlig post; Revisorsringen BRF, Distansgatan 2, 421 74 Västra Frölunda.
