@@ -4,8 +4,7 @@ title: Ekonomisk förvaltning
 teaser: /images/uploads/Lagenhetsnummer liten.jpg
 feature: /images/uploads/Lagenhetsnummer feature.jpg
 ---
-Föreningens ekonomiska förvaltning sköts sedan 2007 av Revisorsringen.
-Revisorsringens uppdrag omfattar:
+Föreningens ekonomiska förvaltning sköts sedan 2007 av Revisorsringen. Revisorsringens uppdrag omfattar:
 
 * Ekonomisk förvaltning inklusive bl a hyres- och avgiftsdebitering
 * Debitering av elavgift
@@ -13,14 +12,19 @@ Revisorsringens uppdrag omfattar:
 * Lägenhetsförteckning
 * Administration av garage- och parkeringsplatser
 
-All uthyrning och uppsägning av garage- och parkeringsplatser sköts av Revisorsringen, kontakta Jenny Bergendahl, [jenny.bergendahl@revisorsringen.se](mailto:jenny.bergendahl@revisorsringen.se), 031-7098158.
+### Garage- och parkeringsplatser
 
-### Frågor om hyra och avgifter
+Uthyrning och uppsägning av garage- och parkeringsplatser sköts av Revisorsringen, kontakta Jenny Bergendahl, [jenny.bergendahl@revisorsringen.se](mailto:jenny.bergendahl@revisorsringen.se), 031-7098158.
+
+### **Frågor om pantsättning och utdrag ur lägenhetsregistret**
+
+Alla frågor om pantsättning eller utdrag ur lägenhetsförteckningen handlägges av Revisorsringen. Vänd er direkt till Revisorsringen via e-post; [brf@revisorsringen.se](mailto:brf@revisorsringen.se) eller via vanlig post; Revisorsringen BRF, Distansgatan 2, 421 74 Västra Frölunda.
+
+## Frågor om hyra och avgifter
 
 Alla medlemmar har tillgång till information om den egna bostadsrätten i "Realportalen" som är Revisorsringens digitala tjänst. Användarnamn och lösenord finns på "hyresavin".
 
-När det gäller hyres- och avgiftsdebitering kontakta Revisorsringens
-Jenny Bergendahl, jenny.bergendahl@revisorsringen.se, 031-7098158.
+När det gäller hyres- och avgiftsdebitering kontakta Revisorsringens Jenny Bergendahl, jenny.bergendahl@revisorsringen.se, 031-7098158.
 
 * [Realportalen](https://revisorsringen.realportal.nu/) 
 * [Revisorsringens webbsida](http://www.revisorsringen.se/)
