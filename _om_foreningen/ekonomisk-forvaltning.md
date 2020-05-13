@@ -14,17 +14,23 @@ Föreningens ekonomiska förvaltning sköts sedan 2007 av Revisorsringen. Reviso
 
 ### Garage- och parkeringsplatser
 
-Uthyrning och uppsägning av garage- och parkeringsplatser sköts av Revisorsringen, kontakta Jenny Bergendahl, [jenny.bergendahl@revisorsringen.se](mailto:jenny.bergendahl@revisorsringen.se), 031-7098158.
+Uthyrning och uppsägning av garage- och parkeringsplatser sköts av Revisorsringen.
 
 ### **Frågor om pantsättning och utdrag ur lägenhetsregistret**
 
-Alla frågor om pantsättning eller utdrag ur lägenhetsförteckningen handlägges av Revisorsringen. Vänd er direkt till Revisorsringen via e-post; [brf@revisorsringen.se](mailto:brf@revisorsringen.se) eller via vanlig post; Revisorsringen BRF, Distansgatan 2, 421 74 Västra Frölunda.
+Alla frågor om pantsättning eller utdrag ur lägenhetsförteckningen handlägges av Revisorsringen. 
 
 ## Frågor om hyra och avgifter
 
 Alla medlemmar har tillgång till information om den egna bostadsrätten i "Realportalen" som är Revisorsringens digitala tjänst. Användarnamn och lösenord finns på "hyresavin".
 
-När det gäller hyres- och avgiftsdebitering kontakta Revisorsringens Jenny Bergendahl, jenny.bergendahl@revisorsringen.se, 031-7098158.
+När det gäller hyres- och avgiftsdebitering eller andra liknande frågor kontakta Revisorsringen.
 
 * [Realportalen](https://revisorsringen.realportal.nu/) 
-* [Revisorsringens webbsida](http://www.revisorsringen.se/)
+
+## Kontaktuppgifter
+
+* **E-post** [brf@revisorsringen.se](mailto:brf@revisorsringen.se)
+* **Vanlig post** Revisorsringen BRF, Distansgatan 2, 421 74 Västra Frölunda.
+
+* **Webb** [Revisorsringens webbsida](http://www.revisorsringen.se/)
