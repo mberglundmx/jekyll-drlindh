@@ -8,8 +8,8 @@ teaser: /images/uploads/gavel_liten.png
 
 [Anmäl dig till årsstämman digitalt ](https://forms.gle/xQv9Tt7Ro4g7YCcY6)
 
-[Hämta papper att att fylla i med penna (pdf)](/images/uploads/AnamalanStamma.pdf)
+[Anmälan att fylla i med penna (pdf)](/images/uploads/AnamalanStamma.pdf)
 
 [Kallelse till årsstämma (pdf)](/images/uploads/Kallelse_Foreningsstamma_juni2020.pdf)
 
-[Fullmakt för ombud (pdf)](/images/uploads/Fullmakt.pdf)
+[Fullmakt för ombud (pdf)](/images/uploads/Fullmakt2020.pdf)
