@@ -2,7 +2,7 @@
 layout: post
 title: Anmäl dig till årsstämman!
 date: 2020-05-19T17:32:06.118Z
-teaser: /images/400x250.png
+teaser: /images/uploads/gavel_liten.png
 ---
 Årsstämma i BRF Dr Lindh hålls den 23 junil. I år behöver du anmäla ditt deltagande så att vi vet hur många pesoner som kommer vara på plats och hur många som väljer att delta med hjälp av ombud. Anmäld dig senast den 2 juni. Du kan anmäla dig här, digitlat eller genom att fylla i ett papper och lämna det i styrelsen brevlåda.
 
