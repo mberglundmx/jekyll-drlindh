@@ -36,7 +36,7 @@ Fordon med speciellt tillstånd för rörelsehindrade får parkera i 3 timmar p�
 
 ## Parkering för hantverkare
 
-När du som medlem anlitar hantverkar för renoveringsarbete måste hantverkarna följa samma parkeringsregelr som alla andra.
+När du som medlem anlitar hantverkar för renoveringsarbete måste hantverkarna följa samma parkeringsregelr som alla andra. Det är viktigt att inte blockera vändplats eller entrer under lång tid.
 
 ## Parkering inom bostadsområdet
 
