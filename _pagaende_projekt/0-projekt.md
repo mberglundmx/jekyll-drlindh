@@ -6,6 +6,10 @@ feature: /images/uploads/utemobel_renovering_feature.jpeg
 ---
 Det pågår nästa alltid något projekt i och runt våra hus. Här finns kort information om både sådant som planeras och sådant som är gjort. 
 
+## Tvättstugor 
+
+Det kommer under sommar/höst 2020 att ske en översyn och byte av hoar i alla tvättstugor. Där det finns behov och möjlighet kommer vanlig tvättho ersättas eller kompletteras med utslagho för skurvatten. 
+
 ## Gymmet utvidgas
 
 Gymmet kommer att få större yta att tillgå tack vare omflyttnar av förråden som finns i anslutning till gymmet. Arbetet med att ta ner innerväggar kommer igång i mitten av maj. Därefter vidtar både målningsarbete och ommöblering. Det planers bättre också för ljuddämpning under vissa maskiner. Arbetet kan medföra viss begränsing i anvädnignen av gymmet.
