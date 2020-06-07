@@ -42,4 +42,6 @@ När du som medlem anlitar hantverkar för renoveringsarbete måste hantverkarna
 
 Det är tillåtet att parkera max 15 minuter i bostadsområdet i samband med av- och pålastning.
 
+### Controlla
+
 P-övervakningen hanteras f o m januari 2007 av Controlla, Tel. 23 00 00.
