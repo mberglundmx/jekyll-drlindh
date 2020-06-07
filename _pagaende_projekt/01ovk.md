@@ -15,4 +15,4 @@ Det var också länge sedan rensning av ventilationskanaler utfördes. Styrelsen
 
 Vi planerar också att byta själva frånluftsfläketarna i hus 3 och 4. Enligt underhålsplanen ska det göras i hus 3 och 4 under 2021. Men det finns skäl att ta i tu med detta redan nu i år. Det kommer troligen att genomföras i juni 2020 vilket är en fördel om sommaren blir varm. 
 
-I hus 1 och 6 är frånluftsfläktara redan bytta.
+I hus 1 och 6 byttes frånluftsfläktarna 2017.
