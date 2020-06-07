@@ -36,8 +36,7 @@ Föreningen tillåter montering i badrum av handdukstork med vattenburen värme.
 
 ## Vattenavstängning
 
-Om ni i lägenheten behöver stänga av varm- och kallvatten så finns det avstängningar i wc/bad på vattenledningarna på vägg och i kök på vattenledningarna i diskbänkskåpet.
-Dessa används när man vill göra ett servicearbete på blandare, wc-stol m.m. Då kan man stänga vattnet i exempelvis köket utan att man behöver stänga vattnet i badrummet.
+Om ni i lägenheten behöver stänga av varm- och kallvatten så finns det avstängningar i wc/bad på vattenledningarna på vägg och i kök på vattenledningarna i diskbänkskåpet. Dessa används när man vill göra ett servicearbete på blandare, wc-stol m.m. Då kan man stänga vattnet i exempelvis köket utan att man behöver stänga vattnet i badrummet.
 
 Om man däremot upptäcker att ett vattenrör läcker hos sig själv eller hos någon granne så gör man bäst i att använda de avstängningsventiler som sitter i den gemensamma entréhallen på respektive våningsplan. Om man lyfter på en undertaksplatta utanför entrédörren så finner man avstängningar där. Dessa är märkta med respektive lägenhetsnummer. Då stänger man av hela den berörda lägenheten inklusive alla vattenledningar där.
 
@@ -64,3 +63,7 @@ Blomlådor på balkongräcket ska av säkerhetsskäl placeras på insidan.
 Borrning i balkongtak får inte göras närmare ytterkant än  20 cm, maximalt djup är 4 cm. Att måla betonggolv är bostadsrättsinnehavarens ansvar. Vattenbaserd färg rekommenderas. Underhåll av väggpanelen är föreningens ansvar. Undersida balkongplatta får inte målas. Mer detaljer finns i regler och rekommendationer nedan.
 
 [Regler och rekommendationer om balkonger](/images/uploads/REV_REGLER_OCH_REKOMMENDATIONER.pdf)
+
+### Parkering för hantverkare
+
+När du som medlem anlitar hantverkar måste dessa följa samma parkeringsrelger som alla andra.
