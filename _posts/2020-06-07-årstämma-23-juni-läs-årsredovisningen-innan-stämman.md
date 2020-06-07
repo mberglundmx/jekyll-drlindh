@@ -6,4 +6,4 @@ teaser: /images/uploads/arsredovisning.png
 ---
 Årsredovisningen finns tillgänglig att läsa. Dokumentet som ni hittar här är dock inte undersktivet ännu.
 
-[BRF Doktor Lindh - Årsredovisnign 2019](/images/uploads/Aresredovisning_2019_ej_undertecknad_BRF_DrLindh.pdf)
+[BRF Doktor Lindh - Årsredovisning 2019](/images/uploads/Aresredovisning_2019_ej_undertecknad_BRF_DrLindh.pdf)
