@@ -14,6 +14,8 @@ Du får tillgång till hobbyrumet genom anmäla intress till fastighetsskötaren
 
 När du bokar lokalen i förväg kan du boka upp till tre dagar i rad. När lokalen är o-bokad går det bra att använda den genast, tänk i då på att du inte får lämna några saker i lokalen, inte ens till nästa dag.
 
+Man bokar genom att skriva upp sig en kalender som finns i hobbyrumme.
+
 [Användingsregeler för hobbyrummet](/images/uploads/Regler_for__Hobbyrummet.pdf)
 
 ### Frågor
