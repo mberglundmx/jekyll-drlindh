@@ -6,7 +6,13 @@ feature: /images/uploads/utemobel_renovering_feature.jpeg
 ---
 Det pågår nästa alltid något projekt i och runt våra hus. Här finns kort information om både sådant som planeras och sådant som är gjort. 
 
-## Tvättstugor 
+## Byte av frånluftsfläkt i hus 3 och 4
+
+Nya frånluftsfläkt kommer att installeras under v 25 (15-18 juni). Detta gäller hus 3 och 4. I hus 1 och 6 byttes frånluftsfläktarna 2017.
+
+Enligt underhålsplanen ska frånluftsfläktarna i hus 3 och 4 under 2021. Men det finns skäl att ta i tu med detta redan nu i år. Det är också en fördel om sommaren blir varm.
+
+## Tvättstugor
 
 Det kommer under sommar/höst 2020 att ske en översyn och byte av hoar i alla tvättstugor. Där det finns behov och möjlighet kommer vanlig tvättho ersättas eller kompletteras med utslagho för skurvatten. 
 
@@ -16,7 +22,9 @@ Gymmet kommer att få större yta att tillgå tack vare omflyttnar av förråden
 
 ## Hobbyrummet
 
-Nytt golv ska läggas i maj 2020. Alla som har saker i hobbyrummet måste flytta bort dessa före den 15 maj.
+Nytt golv ska läggas i maj 2020. Alla som har saker i hobbyrummet måste flytta bort dessa före den 15 maj. 
+
+Det kommer också att skaffas några verktyg. En slipmanskin och en liten pelarborr som kan moteras fast ingår i planen.
 
 ## OVK - obligatorisk ventilationskontroll
 
