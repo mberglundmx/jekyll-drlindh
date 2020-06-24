@@ -40,7 +40,7 @@ Föreningen har tecknat en extra tilläggsförsäkring som innebär att bostadsr
 
 ## Lägenhetsrenovering
 
-Om du har tänker renovera din nya lägenhet rekommenderar vi att du läser här om vad du bör tänka på:
+Om du har tänkt renovera din nya lägenhet rekommenderar vi att du läser här om vad du bör tänka på:
 
 [Tänk på detta innan du renoverar](https://www.drlindh.se/for_medlemmar/ska-du-renovera)
 
