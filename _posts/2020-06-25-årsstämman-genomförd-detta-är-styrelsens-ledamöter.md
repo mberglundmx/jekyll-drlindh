@@ -4,7 +4,7 @@ title: Årsstämman genomförd - Detta är styrelsens ledamöter
 date: 2020-06-25T13:52:24.701Z
 teaser: /images/uploads/trad_liten.jpg
 ---
-Årets stämma genomfördesmed är genomförd som planerat. 
+Årets stämma är genomförd som planerat. 
 
 Vi välkommnar Christina Axelsson, hus 1, som ny suppleant i styrselen och tackar Nina Romanus som avgår. Ny på posten som sekreterar är Per-Åke Janson, hus 1. 
 
