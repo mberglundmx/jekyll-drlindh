@@ -19,6 +19,6 @@ Vi välkommnar Christina Axelsson, hus 1, som ny suppleant i styrelsen och tacka
 * **Ledamot** Hans Ragneskog, Hus 6
 * **Suppleant** Johan Bergström, Hus 3
 * **Suppleant** Christina Axelsson, Hus 1
-* **Suppleant** Krishan Kent , Hus 4
+* **Suppleant** Krishan Kent, Hus 4
 
 ### Vi önska alla en riktigt skön sommar!
