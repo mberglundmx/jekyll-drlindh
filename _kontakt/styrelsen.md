@@ -17,4 +17,4 @@ Doktor Lindhs gata 3
 
 \----
 
-**Webbredaktör:** Nina Romanus, använd styrelsens e-postadress för kontakt: [kontakt@drlindh.se](kontakt@drlindh.se)
+**Webbredaktör:** Per-Åke Jansson, använd styrelsens e-postadress för kontakt: [kontakt@drlindh.se](kontakt@drlindh.se)
