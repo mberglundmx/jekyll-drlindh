@@ -4,7 +4,7 @@ title: Årsstämman genomförd - Detta är styrelsens ledamöter
 date: 2020-06-25T13:52:24.701Z
 teaser: /images/uploads/trad_liten.jpg
 ---
-Årets stämma är genomförd som planerat. Det var 18 medlemmar på plats och ytterligare 8 medlemmar var representerade med fullmakt. 
+Årets stämma är genomförd som planerat. Det var 18 medlemmar på plats och ytterligare 8 medlemmar var representerade med fullmakt. Protokollet från stämman finns anslaget i entréerna i samtliga hus.
 
 Vi välkommnar Christina Axelsson, hus 1, som ny suppleant i styrelsen och tackar Nina Romanus som avgår. Ny på posten som sekreterare är Per-Åke Jansson, hus 1. 
 
