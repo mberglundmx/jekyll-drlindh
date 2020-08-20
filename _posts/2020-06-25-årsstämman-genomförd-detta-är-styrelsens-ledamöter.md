@@ -6,7 +6,7 @@ teaser: /images/uploads/trad_liten.jpg
 ---
 Årets stämma är genomförd som planerat. Det var 18 medlemmar på plats och ytterligare 8 medlemmar var representerade med fullmakt. 
 
-Vi välkommnar Christina Axelsson, hus 1, som ny suppleant i styrelsen och tackar Nina Romanus som avgår. Ny på posten som sekreterar är Per-Åke Jansson, hus 1. 
+Vi välkommnar Christina Axelsson, hus 1, som ny suppleant i styrelsen och tackar Nina Romanus som avgår. Ny på posten som sekreterare är Per-Åke Jansson, hus 1. 
 
 ### Detta är hela styrelsen för verksamhetsåret 2020-2021
 
