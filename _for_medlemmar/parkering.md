@@ -4,7 +4,7 @@ title: Parkering
 teaser: /images/uploads/Parkeringsplatser 1 liten.jpg
 feature: /images/uploads/Parkeringsplatser 1 feature.jpg
 ---
-Det finns både p-platser att hyra och gästparkringsplatser.
+Det finns både p-platser att hyra och gästparkeringsplatser.
 
 ## Garage och P-däck
 
@@ -18,7 +18,7 @@ På parkeringsplatsen får enbart kördugligt och registrerat fordon parkeras. 
 
 **Frågor om parkeringsplatser**
 
-Vid frågor ring eller maila Revisorsringen, Jenny Bergendahl jenny.bergendahl@revisorsringen.se , 031-7098158.
+Vid frågor ring eller maila Revisorsringen, Jenny Bergendahl, jenny.bergendahl@revisorsringen.se, 031-7098158.
 
 ## Besöksparkering
 
@@ -36,7 +36,7 @@ Fordon med speciellt tillstånd för rörelsehindrade får parkera i 3 timmar p�
 
 ## Parkering för hantverkare
 
-När du som medlem anlitar hantverkar för renoveringsarbete måste hantverkarna följa samma parkeringsregelr som alla andra. Det är viktigt att inte blockera vändplats eller entrer under lång tid.
+När du som medlem anlitar hantverkare för renoveringsarbete måste hantverkarna följa samma parkeringsregler som alla andra. Det är viktigt att inte blockera vändplats eller entréer under lång tid.
 
 ## Parkering inom bostadsområdet
 
