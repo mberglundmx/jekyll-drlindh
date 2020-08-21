@@ -6,15 +6,15 @@ feature: /images/uploads/hobbyrum liten.jpg
 ---
 Hobbyrummet är till för att medlemmarna ska kunna genomföra enklare arbeten t.ex. slipa knivar, renovera en stol, måla en pall eller serva cykel.
 
-Lokal finns i 6:ans bottenvåning. Det är ett litet verkstadsrum som får användas av alla medlemmar. Här finns en hyvlebänk och en del enklar verktyg. 
+Lokalen finns i 6:ans bottenvåning. Det är ett litet verkstadsrum som får användas av alla medlemmar. Här finns en hyvelbänk och en del enklare verktyg. 
 
 ## Tillgång till lokalen
 
-Du får tillgång till hobbyrumet genom anmäla intress till fastighetsskötaren och betala en engångsavgift på 100 kr. Då programeras din dörr-ID brickan (aptusbrickan) för dörren till hobbylokalen.
+Du får tillgång till hobbyrumet genom anmäla intresse till fastighetsskötaren och betala en engångsavgift på 100 kr. Då programmeras din dörr-ID-bricka (aptusbrickan) för dörren till hobbylokalen.
 
-När du bokar lokalen i förväg kan du boka upp till tre dagar i rad. När lokalen är o-bokad går det bra att använda den genast, tänk i då på att du inte får lämna några saker i lokalen, inte ens till nästa dag.
+När du bokar lokalen i förväg kan du boka upp till tre dagar i rad. När lokalen är obokad går det bra att använda den genast, tänk då på att du inte får lämna några saker i lokalen, inte ens till nästa dag.
 
-Man bokar genom att skriva upp sig en kalender som finns i hobbyrumme.
+Man bokar genom att skriva upp sig i en kalender som finns i hobbyrummet.
 
 [Användingsregeler för hobbyrummet](/images/uploads/Regler_for__Hobbyrummet.pdf)
 
