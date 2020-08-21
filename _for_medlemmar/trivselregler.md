@@ -28,7 +28,7 @@ Om du någon gång till exempel arrangerar en större fest eller utför något b
 
 ## Gemensamma utrymmen
 
-Entré- och våningsplan är inga lekplatser eller förvaringsutrymmen för cyklar, barnvagnar etc. Att förvara saker här utgör en säkehetsriks vid tex brand eller annan akut situation.
+Entré- och våningsplan är inga lekplatser eller förvaringsutrymmen för cyklar, barnvagnar etc. Att förvara saker här utgör en säkehetsrisk vid tex brand eller annan akut situation.
 
 ## Husdjur
 
@@ -45,4 +45,4 @@ Detta innebär t ex att s k kamphundar är förbjudna. Den boende ansvarar ocks�
 
 ## Rökning
 
-Tobaksrökning skall undvikas på balkonger och i anslutning till bostadshusens entrér, lekplatser och likande.
+Tobaksrökning skall undvikas på balkonger och i anslutning till bostadshusens entréer, lekplatser och liknande.
