@@ -4,15 +4,15 @@ title: Att hyra ut i andra hand
 teaser: /images/uploads/img_6149 (liten).jpg
 feature: /images/uploads/img_6149 (feature).jpg
 ---
-För andrahandsuthyrning längre tid än en månad krävs styrelsens tillåtelse. Det är tillåten att hyra ut i max ett (1) år om godtagbara skäl kan anges.
+För andrahandsuthyrning längre tid än en månad krävs styrelsens tillåtelse. Det är tillåtet att hyra ut i max ett (1) år om godtagbara skäl kan anges.
 
 Vid andrahandsuthyrning av bostadsrätt ska bostadsrättshavaren säga upp hyresavtal för P-plats och extra förråd. P-plats får inte hyras ut i andra hand.
 
-Har ni frågor om andrahandsuthyrning kontakta gärna styrelsens representanter för dessa ärenden per e-post: Hans Ragneskog, hans.ragneskog@gmail.com. Blankett för ansökan finns längst ner på denna sida.
+Har ni frågor om andrahandsuthyrning kontakta gärna styrelsens representant för dessa ärenden per e-post: Hans Ragneskog, hans.ragneskog@gmail.com. Blankett för ansökan finns längst ner på denna sida.
 
 ### Ansök i god tid
 
-Ansökan ska lämnas in minst en månad före den tidpunkt du önskar att andrahandsuthyrningen ska träda i kraft. Styrelsen måste meddelas om önskemålet att hyra ut i andra hand i så god tid att ärendet hinner behandlas på ett ordinarie styrelsemöte (vanligen första helgfria torsdagen i månaden).
+Ansökan ska lämnas in minst en månad före den tidpunkt du önskar att andrahandsuthyrningen ska träda i kraft. Styrelsen måste meddelas om önskemålet att hyra ut i andra hand i så god tid att ärendet hinner behandlas på ett ordinarie styrelsemöte (vanligen första helgfria onsdagen i månaden).
 
 Uthyrning av bostadsrätten i andra hand utan styrelsens medgivande kan medföra att nyttjanderätten till bostadsrätten förverkas. 
 
