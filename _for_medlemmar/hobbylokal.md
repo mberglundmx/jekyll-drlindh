@@ -21,4 +21,4 @@ Man bokar genom att skriva upp sig i en kalender som finns i hobbyrummet.
 ### Frågor
 
 * **Föreningen:** kontakt@drlindh.se
-* **Fastighetsskötaren:** fastighetsskötar@drlindh.se
+* **Fastighetsskötaren:** fastighetsskotaren@drlindh.se
