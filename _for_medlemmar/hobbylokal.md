@@ -16,7 +16,7 @@ När du bokar lokalen i förväg kan du boka upp till tre dagar i rad. När loka
 
 Man bokar genom att skriva upp sig i en kalender som finns i hobbyrummet.
 
-[Användingsregeler för hobbyrummet](/images/uploads/Regler_for__Hobbyrummet.pdf)
+[Användningsregler för hobbyrummet](/images/uploads/Regler_for__Hobbyrummet.pdf)
 
 ### Frågor
 
