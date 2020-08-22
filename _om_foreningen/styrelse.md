@@ -16,8 +16,8 @@ Föreningens styrelse har möte en gång i månaden, vanligen första helgfria o
 * **Ledamot** Markus Berglund, Hus 4 
 * **Ledamot** Hans Ragneskog, Hus 6
 * **Suppleant** Johan Bergström, Hus 3
-* **Suppleant** Christina Axelsson Hus 1
-* **Suppleant** Krishan Kent , Hus 4
+* **Suppleant** Christina Axelsson, Hus 1
+* **Suppleant** Krishan Kent, Hus 4
 
 Styrelsens ledamöter har olika ansvarsområden.
 För vissa områden är också medlemmar utanför styrelsen ansvariga.
