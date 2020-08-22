@@ -4,7 +4,7 @@ title: Styrelse
 teaser: /images/uploads/Postlada liten.jpg
 feature: /images/uploads/Postlada feature.jpg
 ---
-Föreningens styrelse har möte en gång i månaden, vanligen första helgfria torsdagen i månaden. 
+Föreningens styrelse har möte en gång i månaden, vanligen första helgfria onsdagen i månaden. 
 
 ## Styrelsen verksamhetsåret 2020-2021
 
@@ -16,7 +16,7 @@ Föreningens styrelse har möte en gång i månaden, vanligen första helgfria t
 * **Ledamot** Markus Berglund, Hus 4 
 * **Ledamot** Hans Ragneskog, Hus 6
 * **Suppleant** Johan Bergström, Hus 3
-* **Suppleant** , Christina Axelsson Hus 1
+* **Suppleant** Christina Axelsson Hus 1
 * **Suppleant** Krishan Kent , Hus 4
 
 Styrelsens ledamöter har olika ansvarsområden.
@@ -24,7 +24,7 @@ För vissa områden är också medlemmar utanför styrelsen ansvariga.
 
 ## Revisorer
 
-* Erik Olsson, ordinarie
+* Marianne Stakeberg, ordinarie
 * Lars Bengtsson, suppleant
 
 ## Valberedning
@@ -32,5 +32,4 @@ För vissa områden är också medlemmar utanför styrelsen ansvariga.
 * Lars Bengtsson, Hus 1
 * Staffan Björk, Hus 4
 * Kerstin Hinnerson, Hus 6
-* Gunilla Rehn, Hus 6, sammanskallande
-* Margareta Övergaard, Hus 3
+* Gunilla Rehn, Hus 6, sammankallande
