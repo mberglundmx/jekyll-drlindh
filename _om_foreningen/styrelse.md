@@ -24,7 +24,7 @@ För vissa områden är också medlemmar utanför styrelsen ansvariga.
 
 ## Revisorer
 
-* Marianne Stakeberg, ordinarie
+* Mari-Ann Stakeberg, ordinarie
 * Lars Bengtsson, suppleant
 
 ## Valberedning
