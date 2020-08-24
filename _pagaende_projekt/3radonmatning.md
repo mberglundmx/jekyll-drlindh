@@ -11,7 +11,7 @@ Under våren 2019 placerades mätdosor ut. Radonmätningsdosorna skickades för 
 
 Kompletterande mätningar har gjorts i källarvåningar och entréplan, här väntar vi på svar. Ytterligare kompletteringar görs under hösten 2019 i studentrummen som SGS hyr. Detta har varit nödvändigt eftersom otillräckligt med dosor placerats i dessa områden.
 
-## Om radonmätnignarna - januari 2019
+## Om radonmätningarna - januari 2019
 
 I några månader under eldningssäsongen, som infaller oktober-april, kommer vi att utföra radonmätning av våra byggnader. Mätningen går till så att 2 små dosor placeras i ca 20% av lägenheterna. De ska hänga på samma plats i 2-3 månader. Därefter plockas de ner och skickas till ett laboratorium för analys.
 
@@ -31,7 +31,7 @@ Bakgrunden till mätningen är att vi måste följa det som Riksdagen har beslut
 
 _Riksdagen har fastställt 15 miljökvalitetsmål för att inom en generation nå en ekologisk hållbar utveckling. I detta arbete är människors hälsa ett av fem grundläggande värden. Socialstyrelsen har ett övergripande ansvar för att driva och utveckla arbetet med hälsofrågor i miljömålsarbetet nationellt, samt att stödja detta arbete regionalt och lokalt._
 
-_I maj 2002 fastställde riksdagen ett åttonde delmål under miljökvalitets- målet God bebyggd miljö:_
+_I maj 2002 fastställde riksdagen ett åttonde delmål under miljökvalitetsmålet God bebyggd miljö:_
 
 _År 2020 ska byggnader och deras egenskaper inte påverka hälsan negativt. Därför ska det säkerställas att samtliga byggnader där människor vistas ofta eller under längre tid senast år 2015 har en dokumenterat fungerande ventilation,_
 
