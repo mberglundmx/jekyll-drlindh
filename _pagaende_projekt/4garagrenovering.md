@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Garagrenoveringen är avslutad
+title: Garagerenoveringen är avslutad
 teaser: /images/uploads/P-dack renovering liten.jpg
 feature: /images/uploads/P-dack renovering feataure.jpg
 ---
-Renoveringen av garaget sratade i maj år 2018. Arbetet utförs av Betong Teknik Väst AB på totalentreprenad. Före sommaren färdigställdes nytt tätskikt på övre garagedäck. Tätskiktet består av bitumenmatta med ett skyddande skikt av gjutasfalt.
+Renoveringen av garaget startade i maj år 2018. Arbetet utförs av Betong Teknik Väst AB på totalentreprenad. Före sommaren färdigställdes nytt tätskikt på övre garagedäck. Tätskiktet består av bitumenmatta med ett skyddande skikt av gjutasfalt.
 
 Lagom till sommaren flyttades aktiviteterna till mellandäcket. Tack vare hjälp från många boende blev det möjligt att tömma hela mellandäcket på bilar under juli och augusti. De tillfälliga platserna som vi etablerade räckte inte helt till för allas bilar, men då flera boende var borta under sommaren eller kunde parkera på annat håll, så gick ekvationen ändå ihop. Att tömma mellandäcket under den aktuella perioden var nödvändigt med hänsyn till de aktiviteter som då utfördes. Under resten av tiden har ett antal bilar beretts plats men fått anpassa sig till pågående aktiviteter.
 
@@ -24,4 +24,4 @@ Renovering av nedre garaget påbörjades i oktober. Här kommer arbetet inte var
 
 Inom den del av garagebyggnaden som ligger närmast hus 1 utfördes nytt tätskikt på övre däcket så sent som år 2005. Denna yta ligger utanför området med P-platser. Det är troligt att vi inom några år kommer att behöva lägga nytt tätskikt även här.
 
-I skrivande stund ser det ut som att entreprenören kommer att blir ca 2 veckor försenade. Arbetena beräknas vara färdiga i december. Totala kostnaden för garagerenoveringen bedöms till cirka 7 Mkr. Detta finansieras med ett nytt lån samt likvida medel. Styrelsen avser också att höja avgiften för P-platserna.
+I skrivande stund ser det ut som att entreprenören kommer att bli ca 2 veckor försenade. Arbetena beräknas vara färdiga i december. Totala kostnaden för garagerenoveringen bedöms till cirka 7 Mkr. Detta finansieras med ett nytt lån samt likvida medel. Styrelsen avser också att höja avgiften för P-platserna.
