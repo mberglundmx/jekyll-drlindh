@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Telefoni, internet och TV'
+title: Telefoni, internet och TV
 teaser: /images/uploads/Sladdar liten.jpg
 feature: /images/uploads/Sladdar feature.jpg
 ---
@@ -16,7 +16,7 @@ Kundsupport, tel. 020-222 222, dit ringer man vid alla typer av problem som rör
 
 ## Avbrott i telekommunikationen
 
-Vid avbrott i bredbandsanslutningen fungerar ingenting. TV fungerar inte, där kan finnas meddelande om att nätverkskontakt saknas. IP-telefonen fungerar inte, det går inte att ringa och det går inte att ta emot samtal. När bredbandet inte fungerar det går inte att surfa på Internet, det går inte att skicka eller ta emot e-post. Första åtgärd är att stänga av strömmen till routern, vänta 30 sek och sedan starta routern igen. Om det fortfarande problem, ring Telenors kundsupport, 020-222 222.
+Vid avbrott i bredbandsanslutningen fungerar ingenting. TV fungerar inte, där kan finnas meddelande om att nätverkskontakt saknas. IP-telefonen fungerar inte, det går inte att ringa och det går inte att ta emot samtal. När bredbandet inte fungerar går det inte att surfa på Internet, det går inte att skicka eller ta emot e-post. Första åtgärd är att stänga av strömmen till routern, vänta 30 sek och sedan starta routern igen. Om det fortfarande är problem, ring Telenors kundsupport, 020-222 222.
 
 ## **FiberTV**
 
@@ -28,13 +28,13 @@ Telenor Stream gör att man kan se på Telenors TV utbud på vilken apparat som 
 
 Får du problem, kan du ringa Kundtjänst  020-222 222, så får du hjälp. Tänk på att alltid ha ditt kundnummer framme.
 
-Telenor Stream är en app som man laddar ner och installerar på en enhet med skärm, t.ex. dator, smartphone, IPAD AppleTV, Cromecast.
+Telenor Stream är en app som man laddar ner och installerar på en enhet med skärm, t.ex. dator, smartphone, iPad, AppleTV, Chromecast.
 
 ## E-post
 
-Om Du har e-post-adress drlindh.se på Din e-post och vill läsa den från en annan dator än din egen kan du logga in via webmail på adress: http://www.webbpost.tele2.se.
+Om Du har e-post-adress @drlindh.se och vill läsa den från en annan dator än din egen kan du logga in via webmail på adress: http://www.webbpost.tele2.se.
 
-Inga nya e-post adresser @drlindh.se delas ut och de som finns kommer succesivt att avvecklas.
+Inga nya e-postadresser @drlindh.se delas ut, och de som finns kommer successivt att avvecklas.
 
 ## Parabol
 
