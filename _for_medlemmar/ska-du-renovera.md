@@ -43,7 +43,9 @@ Om man däremot upptäcker att ett vattenrör läcker hos sig själv eller hos n
 ## Köksfläkt
 
 Föreningen accepterar följande alternativ:
+
 -Kolfiberfläkt, ej ansluten till fastighetens ventilationssystem
+
 -Fläkt ansluten till fastighetens ventilationssystem. I detta fall krävs att stryplåda (typ Sirrus KFS 125) monteras efter fläkten.  Kontakta gärna företaget Torfors AB 031-822500 beträffande detta.
 
 ## Gasspis
