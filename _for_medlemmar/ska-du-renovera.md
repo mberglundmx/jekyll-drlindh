@@ -42,7 +42,7 @@ Om man däremot upptäcker att ett vattenrör läcker hos sig själv eller hos n
 
 ## Köksfläkt
 
-Dr. Lindhs bostadsrättsförening accepterar följande alternativ för installation av köksfläkt. Vid anslutning av fläkt till ventilationskanal ska en stryplåda (typ Electrolux EFRW125, alt EFRA125) monteras efter fläkten. Fläkten kan vara av valfritt fabrikat. Använd en kolfilterfläkt
+Dr. Lindhs bostadsrättsförening accepterar följande alternativ för installation av köksfläkt. Vid anslutning av fläkt till ventilationskanal ska en stryplåda (typ Sirrus KFS 125) monteras efter fläkten. Fläkten kan vara av valfritt fabrikat. Kontakta gärna Torfors AB 031-822500 om detta. Använd annars en kolfilterfläkt.
 
 ## Gasspis
 
