@@ -42,7 +42,9 @@ Om man däremot upptäcker att ett vattenrör läcker hos sig själv eller hos n
 
 ## Köksfläkt
 
-Dr. Lindhs bostadsrättsförening accepterar följande alternativ för installation av köksfläkt. Vid anslutning av fläkt till ventilationskanal ska en stryplåda (typ Sirrus KFS 125) monteras efter fläkten. Fläkten kan vara av valfritt fabrikat. Kontakta gärna Torfors AB 031-822500 om detta. Använd annars en kolfilterfläkt.
+Föreningen accepterar följande alternativ:
+-Kolfiberfläkt, ej ansluten till fastighetens ventilationssystem
+-Fläkt ansluten till fastighetens ventilationssystem. I detta fall krävs att stryplåda (typ Sirrus KFS 125) monteras efter fläkten.  Kontakta gärna företaget Torfors AB 031-822500 beträffande detta.
 
 ## Gasspis
 
