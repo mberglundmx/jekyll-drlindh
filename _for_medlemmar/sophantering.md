@@ -13,13 +13,17 @@ I alla våra soprum är det möjligt att källsortera skräp. I soprummet kan du
 * Metall
 * Glas – ofärgat och färgat
 * Plast
+
 ### Hämtningsschema av sopor (vår 2020)
+
   **Veolia recycling**
+
 * Tisdag - plast och metall
 * Onsdag - kartong och tidningspapper
 * Torsdag - glas
 
 **Kretslopp och vatten**
+
 * Onsdag - restavfall
 * Fredag - kompost
 
@@ -27,8 +31,8 @@ I alla våra soprum är det möjligt att källsortera skräp. I soprummet kan du
 
 Här finns möjlighet att lämna:
 
-* Elektronik (TV-apparater, datorer, skrivare brödrost m.m.)
-* Batteri (små) lågenergilampor, glödlampor, lysrör
+* Elektronik (TV-apparater, datorer, skrivare, brödrost m.m.)
+* Batterier (små), lågenergilampor, glödlampor, lysrör
 * Vitvaror (inkl. kyl och frys)
 
 **Tips!** när du köper kylskåp, frys, tvättmaskin, TV m.m. så betalar du också för att leverantören skall ta hand om din gamla apparat.
@@ -37,7 +41,7 @@ Här finns möjlighet att lämna:
 
 Alla medlemmar och hyresgäster ansvar själva för att byggavfall och miljöfarligt avfall lämnas på någon av Göteborgs kommuns återvinningsanläggningar t.ex. Högsbo industriområde. A. Odhners gata, 031 – 61 85 30, http://www.renova.se . Privatpersoner får vid första besöket ett kort som gäller för 6 gratis tömningar per år. Elektronik är alltid gratis.
 
-Container beställs till föreningen regelbundet, torsdag till söndag, följande veckor är en preliminära planeringen:
+Container beställs till föreningen regelbundet, torsdag till söndag, följande veckor (preliminära planering):
 
 * Vecka 2, för julgranar mm efter jul
 * Vecka 17, eller i samband med föreningens vårstädning
@@ -46,7 +50,7 @@ Container beställs till föreningen regelbundet, torsdag till söndag, följand
 
 ## Återvinningsstation
 
-Det finns också möjlighet att lämna att själv åka till en återvinningsstation och lämna. Man har som lägenhetsinnehavare rätt till ett återviningskort med 5 gratis besök. Man kan välja att lämna i Göteborg eller Mölndal (nära är Kikås i Mölndal och Sisjön Göteborg).
+Det finns också möjlighet att själv åka till en återvinningsstation och lämna. Man har som lägenhetsinnehavare rätt till ett återviningskort med 5 gratis besök. Man kan välja att lämna i Göteborg eller Mölndal (nära är Kikås i Mölndal och Sisjön Göteborg).
 
 [Återvinningsstationener i Göteborg](https://goteborg.se/wps/portal/start/avfall-och-atervinning/har-lamnar-hushall-avfall/atervinningscentraler/hitta-atervinningscentraler/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziAwy9Ai2cDB0N_N0t3Qw8Q7wD3Py8ffxDgw30wwkpiAJKG-AAjjD96MJOQUZOxgYG7v5GYP14jI8E6jePNzFyNzD0MjH0tjBzMjdw9PF2NjbzNnf1dTPWD9aP0o8qTi0qy0xODS3K0Y-0MDPTL8gNjagKcVQEAOOiYtI!/dz/d5/L2dBISEvZ0FBIS9nQSEh/p0/IZ7_42G01J41K86B70ALKC36K7EMF3=CZ6_P1JQ8B1A0OG9F0ITKPFNKLOUS0=MEdisplayType!lista==/#Z7_42G01J41K86B70ALKC36K7EMF3)
 
