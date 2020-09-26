@@ -52,7 +52,7 @@ Container beställs till föreningen regelbundet, torsdag till söndag, följand
 
 Det finns också möjlighet att själv åka till en återvinningsstation och lämna. Man har som lägenhetsinnehavare rätt till ett återviningskort med 5 gratis besök. Man kan välja att lämna i Göteborg eller Mölndal (nära är Kikås i Mölndal och Sisjön Göteborg).
 
-[Återvinningsstationener i Göteborg](https://goteborg.se/wps/portal/start/avfall-och-atervinning/har-lamnar-hushall-avfall/atervinningscentraler/hitta-atervinningscentraler/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziAwy9Ai2cDB0N_N0t3Qw8Q7wD3Py8ffxDgw30wwkpiAJKG-AAjjD96MJOQUZOxgYG7v5GYP14jI8E6jePNzFyNzD0MjH0tjBzMjdw9PF2NjbzNnf1dTPWD9aP0o8qTi0qy0xODS3K0Y-0MDPTL8gNjagKcVQEAOOiYtI!/dz/d5/L2dBISEvZ0FBIS9nQSEh/p0/IZ7_42G01J41K86B70ALKC36K7EMF3=CZ6_P1JQ8B1A0OG9F0ITKPFNKLOUS0=MEdisplayType!lista==/#Z7_42G01J41K86B70ALKC36K7EMF3)
+[Återvinningsstationer i Göteborg](https://goteborg.se/wps/portal/start/avfall-och-atervinning/har-lamnar-hushall-avfall/atervinningscentraler/hitta-atervinningscentraler/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziAwy9Ai2cDB0N_N0t3Qw8Q7wD3Py8ffxDgw30wwkpiAJKG-AAjjD96MJOQUZOxgYG7v5GYP14jI8E6jePNzFyNzD0MjH0tjBzMjdw9PF2NjbzNnf1dTPWD9aP0o8qTi0qy0xODS3K0Y-0MDPTL8gNjagKcVQEAOOiYtI!/dz/d5/L2dBISEvZ0FBIS9nQSEh/p0/IZ7_42G01J41K86B70ALKC36K7EMF3=CZ6_P1JQ8B1A0OG9F0ITKPFNKLOUS0=MEdisplayType!lista==/#Z7_42G01J41K86B70ALKC36K7EMF3)
 
 ## Farligt avfall-bilen
 
