@@ -56,6 +56,6 @@ Det finns också möjlighet att själv åka till en återvinningsstation och lä
 
 ## Farligt avfall-bilen
 
-Starka rengöringsmedel, frätande ämnen, fotokemikalier, lösningsmedel, färg, lack, lim, bekämpningsmedel, gifter, batterier, brandvarnare, lysrör, lågenergilampor, kvicksilvertermometrar, oljeprodukter och bränslen är exempel på saker du kan lämna till farligt avall-bilen.
+Starka rengöringsmedel, frätande ämnen, fotokemikalier, lösningsmedel, färg, lack, lim, bekämpningsmedel, gifter, batterier, brandvarnare, lysrör, lågenergilampor, kvicksilvertermometrar, oljeprodukter och bränslen är exempel på saker du kan lämna till farligt avfall-bilen.
 
 [Information om farligt avfallbilen och turlista finns på Göteborgs kommuns webbsida](https://goteborg.se/wps/portal/start/avfall-och-atervinning/har-lamnar-hushall-avfall/farligt-avfall-bilen/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziTYzcDQy9TAy9_f1MnAwcvXxd_JwM3Y3cPcz0wwkpiAJKG-AAjgb6kUD95jj1BxjpB-tH6UcVpxaVZSanllQWpOpHaukX5EZUhTgqKgIAsWiiNw!!/dz/d5/L2dBISEvZ0FBIS9nQSEh/)
