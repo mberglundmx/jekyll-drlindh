@@ -41,7 +41,7 @@ Här finns möjlighet att lämna:
 
 Alla medlemmar och hyresgäster ansvar själva för att byggavfall och miljöfarligt avfall lämnas på någon av Göteborgs kommuns återvinningsanläggningar t.ex. Högsbo industriområde. A. Odhners gata, 031 – 61 85 30, http://www.renova.se . Privatpersoner får vid första besöket ett kort som gäller för 6 gratis tömningar per år. Elektronik är alltid gratis.
 
-Container beställs till föreningen regelbundet, torsdag till söndag, följande veckor (preliminära planering):
+Container beställs till föreningen regelbundet, torsdag till söndag, följande veckor (preliminär planering):
 
 * Vecka 2, för julgranar mm efter jul
 * Vecka 17, eller i samband med föreningens vårstädning
