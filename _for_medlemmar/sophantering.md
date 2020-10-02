@@ -9,7 +9,7 @@ I alla våra soprum är det möjligt att källsortera skräp. I soprummet kan du
 * Hushållsavfall – brännbart
 * Kompost – bioavfall i speciella påsar
 * Tidningar
-* Kartong – ihopvikta/i särskurna
+* Kartong – ihopvikta/isärskurna
 * Metall
 * Glas – ofärgat och färgat
 * Plast
@@ -37,25 +37,30 @@ Här finns möjlighet att lämna:
 
 **Tips!** när du köper kylskåp, frys, tvättmaskin, TV m.m. så betalar du också för att leverantören skall ta hand om din gamla apparat.
 
-## Grovsopor
+## Återvinningscentraler
 
-Alla medlemmar och hyresgäster ansvar själva för att byggavfall och miljöfarligt avfall lämnas på någon av Göteborgs kommuns återvinningsanläggningar t.ex. Högsbo industriområde. A. Odhners gata, 031 – 61 85 30, http://www.renova.se . Privatpersoner får vid första besöket ett kort som gäller för 6 gratis tömningar per år. Elektronik är alltid gratis.
+Alla medlemmar och hyresgäster ansvar själva för att byggavfall och miljöfarligt avfall lämnas på någon av Göteborgs kommuns återvinningsanläggningar t.ex. Högsbo industriområde. A. Odhners gata, 031 – 61 85 30, http://www.renova.se . För att komma in på anläggningen behöver du ett ÅVC-kort, som berättigar till tolv fria besök per kalenderår. Kortet kan du hämta på någon av återvinningscentralerna eller beställa här:
+
+[Beställ ditt ÅVC-kort](https://goteborg.se/wps/portal/start/avfall-och-atervinning/har-lamnar-hushall-avfall/atervinningscentraler/avc-kort/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziAwy9Ai2cDB0N_N0t3Qw8Q7wD3Py8ffxDPU30wwkpiAJKG-AAjgb6BbmhigD7q5WG/dz/d5/L2dBISEvZ0FBIS9nQSEh/)
+
+Visst avfall, t.ex. elektronik, är alltid gratis. Här kan du läsa mer om återvinningscentralerna:
+
+[Återvinningscentraler](https://goteborg.se/wps/portal/start/avfall-och-atervinning/har-lamnar-hushall-avfall/atervinningscentraler/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziTYzcDQy9TAy9LSwczQwcLb3dDE1NnQz9A0z1wwkpiAJKG-AAjgb6BbmhigCHN9bf/dz/d5/L2dBISEvZ0FBIS9nQSEh/)
+
+Privatpersoner får vid första besöket ett kort som gäller för 6 gratis tömningar per år. Elektronik är alltid gratis.
+
+## Container
 
 Container beställs till föreningen regelbundet, torsdag till söndag, följande veckor (preliminär planering):
 
-* Vecka 2, för julgranar mm efter jul
-* Vecka 17, eller i samband med föreningens vårstädning
-* Vecka 33
+* Vecka 1, för julgranar mm
+* Vecka 16, eller i samband med föreningens vårstädning
+* Vecka 21
+* Vecka 35
 * Vecka 42, eller i samband med föreningens höststädning
-
-## Återvinningsstation
-
-Det finns också möjlighet att själv åka till en återvinningsstation och lämna. Man har som lägenhetsinnehavare rätt till ett återviningskort med 5 gratis besök. Man kan välja att lämna i Göteborg eller Mölndal (nära är Kikås i Mölndal och Sisjön Göteborg).
-
-[Återvinningsstationer i Göteborg](https://goteborg.se/wps/portal/start/avfall-och-atervinning/har-lamnar-hushall-avfall/atervinningscentraler/hitta-atervinningscentraler/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziAwy9Ai2cDB0N_N0t3Qw8Q7wD3Py8ffxDgw30wwkpiAJKG-AAjjD96MJOQUZOxgYG7v5GYP14jI8E6jePNzFyNzD0MjH0tjBzMjdw9PF2NjbzNnf1dTPWD9aP0o8qTi0qy0xODS3K0Y-0MDPTL8gNjagKcVQEAOOiYtI!/dz/d5/L2dBISEvZ0FBIS9nQSEh/p0/IZ7_42G01J41K86B70ALKC36K7EMF3=CZ6_P1JQ8B1A0OG9F0ITKPFNKLOUS0=MEdisplayType!lista==/#Z7_42G01J41K86B70ALKC36K7EMF3)
 
 ## Farligt avfall-bilen
 
 Starka rengöringsmedel, frätande ämnen, fotokemikalier, lösningsmedel, färg, lack, lim, bekämpningsmedel, gifter, batterier, brandvarnare, lysrör, lågenergilampor, kvicksilvertermometrar, oljeprodukter och bränslen är exempel på saker du kan lämna till farligt avfall-bilen.
 
-[Information om farligt avfallbilen och turlista finns på Göteborgs kommuns webbsida](https://goteborg.se/wps/portal/start/avfall-och-atervinning/har-lamnar-hushall-avfall/farligt-avfall-bilen/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziTYzcDQy9TAy9_f1MnAwcvXxd_JwM3Y3cPcz0wwkpiAJKG-AAjgb6kUD95jj1BxjpB-tH6UcVpxaVZSanllQWpOpHaukX5EZUhTgqKgIAsWiiNw!!/dz/d5/L2dBISEvZ0FBIS9nQSEh/)
+[Information om farligt avfallbilen och turlista finns på Göteborgs kommuns webbsida](https://goteborg.se/wps/portal/start/avfall-och-atervinning/har-lamnar-hushall-avfall/farligtavfallbilen/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziTYzcDQy9TAy9_cM8TQ0Cgz1Nzdy8TQwMzU30w8EKDFCAo4FTkJGTsYGBu7-RfhTp-pFNIk4_HgVR-I0vyA0NDXVUVAQAPeN9Cw!!/dz/d5/L2dBISEvZ0FBIS9nQSEh/)
