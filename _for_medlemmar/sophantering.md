@@ -47,8 +47,6 @@ Visst avfall, t.ex. elektronik, är alltid gratis. Här kan du läsa mer om åte
 
 [Återvinningscentraler](https://goteborg.se/wps/portal/start/avfall-och-atervinning/har-lamnar-hushall-avfall/atervinningscentraler/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziTYzcDQy9TAy9LSwczQwcLb3dDE1NnQz9A0z1wwkpiAJKG-AAjgb6BbmhigCHN9bf/dz/d5/L2dBISEvZ0FBIS9nQSEh/)
 
-Privatpersoner får vid första besöket ett kort som gäller för 6 gratis tömningar per år. Elektronik är alltid gratis.
-
 ## Container
 
 Container beställs till föreningen regelbundet, torsdag till söndag, följande veckor (preliminär planering):
