@@ -11,7 +11,7 @@ I vårt lilla café finns mikrovågsugn, kylskåp kokplatta och diskmaskin. Det 
 
 Du ansvarar själv för att städa lokalen efter uthyrningen.
 
-Det kostar 200 SEK/dygn att hyra lokalen.
+Det kostar 200 SEK att hyra lokalen dagtid + kvällstid.
 
 Lokalen bokas genom att skicka mejl till:
 
