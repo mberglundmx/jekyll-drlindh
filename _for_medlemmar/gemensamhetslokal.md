@@ -11,7 +11,7 @@ I vårt lilla café finns mikrovågsugn, kylskåp kokplatta och diskmaskin. Det 
 
 Du ansvarar själv för att städa lokalen efter uthyrningen.
 
-Det kostar 200 SEK att hyra lokalen på dagtid (fram till kl 17) och 300 SEK för att hyra lokalen på kvällstid (efter kl 17). Dagtid+kvällstid kostar 500 SEK.
+Det kostar 200 SEK/dygn att hyra lokalen.
 
 Lokalen bokas genom att skicka mejl till:
 
@@ -21,4 +21,4 @@ Lokalen bokas genom att skicka mejl till:
 
 Ange Brf-nummer samt nummer enligt skatteverkets regler, e-postadress samt önskat datum och tid (dag /kväll) när du önskar hyra lokalen.
 
-[Information om bokning av gemensamhetslokalen (pdf)](</images/uploads/info om bokning av gemensamhetslokal_maj2018.pdf>)
+[Information om bokning av gemensamhetslokalen (pdf)](</images/uploads/Info om hyra av Gemensamhetslokalen.pdf>)
