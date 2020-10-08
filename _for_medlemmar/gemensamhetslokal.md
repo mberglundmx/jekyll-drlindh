@@ -19,6 +19,6 @@ Lokalen bokas genom att skicka mejl till:
 * Kerstin Eurenius, kerstin.eurenius@gmail.com eller
 * Gunilla.Rehn, rehngunilla@gmail.com
 
-Ange Brf-nummer samt nummer enligt skatteverkets regler, e-postadress samt önskat datum och tid (dag /kväll) när du önskar hyra lokalen.
+Ange Brf-nummer samt nummer enligt skatteverkets regler, e-postadress samt önskat datum när du önskar hyra lokalen.
 
 [Information om bokning av gemensamhetslokalen (pdf)](</images/uploads/Info_om_hyra_av_Gemensamhetslokalen.pdf>)
