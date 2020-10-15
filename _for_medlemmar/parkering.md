@@ -18,7 +18,7 @@ På parkeringsplatsen får enbart kördugligt och registrerat fordon parkeras. 
 
 **Frågor om parkeringsplatser**
 
-Vid frågor ring eller maila Revisorsringen, Jenny Bergendahl, jenny.bergendahl@revisorsringen.se, 031-7098158.
+Vid frågor ring eller maila Revisorsringen, Catharina Tagemark, catharina.tagemark@revisorsringen.se, 031-7098598.
 
 ## Besöksparkering
 
