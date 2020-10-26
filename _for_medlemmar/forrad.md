@@ -18,4 +18,4 @@ För frågor eller önskan att ställa sig i kö för stora eller små förråde
 
 ## Cykelrum
 
-I varje hus finns rum på entréeplan för cyklar. Här förvaras också en del barnvagnar och andra utomhusleksaker.
+I varje hus finns rum på entréplan för cyklar. Här förvaras också en del barnvagnar och andra utomhusleksaker.
