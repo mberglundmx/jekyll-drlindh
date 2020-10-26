@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Värme, vatten, el, belysning, balkonger mm'
+title: Värme, vatten, el, belysning, balkonger mm
 teaser: /images/uploads/stjarnor_linte.png
 feature: /images/uploads/stjarna_feature.jpg
 ---
@@ -8,7 +8,7 @@ Om installationer och annan nyttig information om våra hus.
 
 ## Värme
 
-Husen värms med fjärrvärme och det är vattenburen värme i lägenheterna. Använd termostaten på elementet för att justera temperaturen. Tänk på att inte ha full värme och sedan öppna fönstret för att det är föör varmt.
+Husen värms med fjärrvärme och det är vattenburen värme i lägenheterna. Använd termostaten på elementet för att justera temperaturen. Tänk på att inte ha full värme och sedan öppna fönstret för att det är för varmt.
 
 ## El
 
