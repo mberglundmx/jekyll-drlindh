@@ -6,7 +6,7 @@ feature: /images/uploads/lindbladet.png
 ---
 Bostadsrättsföreningens informationsblad utkommer 2-3 ggr/år med information från styrelsen samt inlägg av medlemmar. Vårnumret brukar komma i april och höstnumret i oktober.
 
-Ansvarig utgivare för Lindhbladet är föreningens ordföranden, och tidningens redaktör är Bo Jansson. Skicka gärna in material till tidningen, kontakt@drlindh.se eller brev i styrelsens brevlåda i Hus 3:s entré.
+Ansvarig utgivare för Lindhbladet är föreningens ordförande, och tidningens redaktör är Bo Jansson. Skicka gärna in material till tidningen, kontakt@drlindh.se eller brev i styrelsens brevlåda i Hus 3:s entré.
 
 Om du är intresserad av tidigare Lindhblad än de som ligger här nedan så hör av dig till kontakt@drlindh.se, det finns Lindhblad sen föreningen bildades.
 
