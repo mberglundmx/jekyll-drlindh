@@ -12,4 +12,4 @@ Glöm inte heller att kontakta valberedningen om du eller någon du känner är 
 
 Föreningsstämman är den 18 maj.
 
-[Läs arktikel från tidningen Borätt om motioner!](/images/uploads/Motioner_Boratt.pdf)
+[Läs artikel från tidningen Borätt om motioner!](/images/uploads/Motioner_Boratt.pdf)
