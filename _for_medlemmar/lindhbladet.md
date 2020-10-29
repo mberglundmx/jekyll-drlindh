@@ -8,11 +8,11 @@ Bostadsrättsföreningens informationsblad utkommer 2-3 ggr/år med information 
 
 Ansvarig utgivare för Lindhbladet är föreningens ordförande, och tidningens redaktör är Bo Jansson. Skicka gärna in material till tidningen, kontakt@drlindh.se eller brev i styrelsens brevlåda i Hus 3:s entré.
 
-Om du är intresserad av tidigare Lindhblad än de som ligger här nedan så hör av dig till kontakt@drlindh.se, det finns Lindhblad sen föreningen bildades.
+Om du är intresserad av tidigare Lindhblad än de som ligger här nedan, så hör av dig till kontakt@drlindh.se. Det finns Lindhblad sen föreningen bildades.
 
 ## Senaste numret av Lindhbladet
 
-[Lindhbladet nr 1 2020](/images/uploads/Lindhbladet_1_2020-web.pdf)
+[Lindhbladet nr 2 2020](/images/uploads/Lindhbladet_2_2020_web.pdf)
 
 ## Tidigare nummer av Lindblandet
 
