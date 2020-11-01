@@ -14,7 +14,7 @@ Om du är intresserad av tidigare Lindhblad än de som ligger här nedan, så h�
 
 [Lindhbladet nr 2 2020](/images/uploads/Lindhbladet_2_2020_web.pdf)
 
-## Tidigare nummer av Lindblandet
+## Tidigare nummer av Lindhbladet
 
 * [Lindhbladet 1: 2020](/images/uploads/Lindhbladet_1_2020-web.pdf)
 * [Lindhbladet 2: 2019](/images/uploads/Lindhbladet_2_2019-web.pdf)
