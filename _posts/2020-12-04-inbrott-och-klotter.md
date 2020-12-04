@@ -2,7 +2,7 @@
 layout: post
 title: Inbrott och klotter
 date: 2020-12-04T04:23:20.281Z
-teaser: /images/400x250.png
+teaser: /images/uploads/varning.jpg
 ---
 För en tid sedan var cykelrummet och tvättstugan i hus 4 utsatta för inbrottsförsök, lyckligtvis misslyckade sådana. Däremot var förövaren mera lyckosam vid inbrott i ett förråd, där en elcykel stals.
 
