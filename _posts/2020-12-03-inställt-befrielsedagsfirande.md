@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Inställt befrielsedagsfirande
+title: "Inställt befrielsedagsfirande "
 date: 2020-12-03T23:29:00.912Z
 teaser: /images/uploads/varmeljus.png
 ---
