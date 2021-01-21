@@ -11,10 +11,10 @@ Doktor Lindhs gata 3
 
 413 25 Göteborg 
 
-**E-postadress:** [kontakt@drlindh.se](kontakt@drlindh.se)
+**E-postadress:** kontakt@drlindh.se
 
 Önskar du kontakt med någon person i styrelsen kan du skicka ett mail till kontakt@drlindh.se, mailboxen öppnas dagligen, e-post vidarebefordras till den person det gäller.
 
 \----
 
-**Webbredaktör:** Per-Åke Jansson, använd styrelsens e-postadress för kontakt: [kontakt@drlindh.se](kontakt@drlindh.se)
+**Webbredaktör:** Per-Åke Jansson, använd styrelsens e-postadress för kontakt: kontakt@drlindh.se
