@@ -9,7 +9,7 @@ Det är viktigt att veta hur du ska agera om det börjar brinna i ett flerbostad
 * [Mer om brandskydd](https://www.msb.se/sv/Forebyggande/Brandskydd/)
 * [Brandsäkerhet i flerbostadshus](https://www.msb.se/sv/Forebyggande/Brandskydd/Brandskydd-byggnader-och-anlaggningar/Flerbostadshus/)
 
-## Brandvaranre och brandsläckare
+## Brandvarnare och brandsläckare
 
 Alla lägenhetsinnehavare ska ha brandvarnare i lägenheten. Det är enkelt att kontrollera sin brandvarnare, gör det med jämna mellanrum genom att trycka på knappen som aktiverar larmet och se till att det ljuder. Annars byt batteri.
 
@@ -31,3 +31,7 @@ I entrén i Hus 4 finns en hjärtstartare. Alla medlemmar kan komma in i Hus 4 m
 ## Lägenhetsdörrar
 
 Alla dörrar in till lägenheterna är säkerhetsdörrar (Daloc) och försedda med ett cylinderlås och ett sjutillhållarlås. Vi rekommenderar alla att använda båda låsen.
+
+## Läckageskydd under diskbänk, diskmaskin och kyl/frys
+
+Enligt Boverkets Byggregler skall läckageskydd installeras där det finns risk för utläckande vatten eller kondens på dolda ytor och anordnas så att vattnet snabbt blir synligt.
