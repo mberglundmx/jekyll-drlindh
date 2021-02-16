@@ -22,7 +22,7 @@ Att också ha en brandsläckare i lägenheten är en mycket enkel brandsäkerhet
 Räddningstjänsten har i samband med inspektion i husen gjort påpekanden om att vindsgångar, trapphus och våningsplan skall hållas helt fria från lösa föremål. Dessa ytor är våra utrymningsvägar. Detta inkluderar även dörrmattor utanför dörren.
 Bostadsrättsföreningen är skyldig att genom regelbunden kontroll se till att dessa ytor är tomma. Föreningens ansvar grundas bl. a. på Myndigheten för samhällsskydd och beredskaps föreskrifter om brandskydd.
 
-[Läs mer: Myndigheten för samhällsskydd och beredskaps](https://www.msb.se/)
+[Läs mer: Myndigheten för samhällsskydd och beredskap](https://www.msb.se/)
 
 ## Hjärtstartare
 
