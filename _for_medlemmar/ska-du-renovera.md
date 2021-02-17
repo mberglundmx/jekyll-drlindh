@@ -18,6 +18,18 @@ Ansökan till styrelsen kan lämnas via e-post eller i föreningens brevlåda i 
 
 Det är viktigt att VVS-installationer genomföres av kvalificerad personal för att undvika skador på byggnader och stammar.
 
+### Elinstallationer
+
+Elinstallationer ska utföras av behörig elektriker.
+
+Uppgraderig från 1-fas till 3-fas i små lägenheter kan utföras efter samråd med fastighetsskötaren och sker på egen bekostnad.
+
+## Vattenavstängning
+
+Om ni i lägenheten behöver stänga av varm- och kallvatten så finns det avstängningar i wc/bad på vattenledningarna på vägg och i kök på vattenledningarna i diskbänkskåpet. Dessa används när man vill göra ett servicearbete på blandare, wc-stol m.m. Då kan man stänga vattnet i exempelvis köket utan att man behöver stänga vattnet i badrummet.
+
+Om man däremot upptäcker att ett vattenrör läcker hos sig själv eller hos någon granne så gör man bäst i att använda de avstängningsventiler som sitter i den gemensamma entréhallen på respektive våningsplan. Om man lyfter på en undertaksplatta utanför entrédörren så finner man avstängningar där. Dessa är märkta med respektive lägenhetsnummer. Då stänger man av hela den berörda lägenheten inklusive alla vattenledningar där.
+
 ## Badrumsrenovering
 
 Vid badrumsrenovering måste man alltid ansöka om tillstånd från styrelsen samt följa de branschspecifika regler som gäller  för våtrum för att tillstånd ska beviljas och för att försäkringsskyddet skall gälla.
@@ -34,17 +46,13 @@ På grund av risken för läckage tillåter föreningen inte att de boende insta
 
 Föreningen tillåter montering i badrum av handdukstork med vattenburen värme.
 
-## Vattenavstängning
+## Köksrenovering
 
-Om ni i lägenheten behöver stänga av varm- och kallvatten så finns det avstängningar i wc/bad på vattenledningarna på vägg och i kök på vattenledningarna i diskbänkskåpet. Dessa används när man vill göra ett servicearbete på blandare, wc-stol m.m. Då kan man stänga vattnet i exempelvis köket utan att man behöver stänga vattnet i badrummet.
-
-Om man däremot upptäcker att ett vattenrör läcker hos sig själv eller hos någon granne så gör man bäst i att använda de avstängningsventiler som sitter i den gemensamma entréhallen på respektive våningsplan. Om man lyfter på en undertaksplatta utanför entrédörren så finner man avstängningar där. Dessa är märkta med respektive lägenhetsnummer. Då stänger man av hela den berörda lägenheten inklusive alla vattenledningar där.
-
-## Läckageskydd under diskbänk, diskmaskin och kyl/frys
+### Läckageskydd under diskbänk, diskmaskin och kyl/frys
 
 Enligt Boverkets Byggregler skall läckageskydd installeras där det finns risk för utläckande vatten eller kondens på dolda ytor och anordnas så att vattnet snabbt blir synligt.
 
-## Köksfläkt
+### Köksfläkt
 
 Föreningen accepterar följande alternativ:
 
@@ -52,17 +60,11 @@ Föreningen accepterar följande alternativ:
 
 -Fläkt ansluten till fastighetens ventilationssystem. I detta fall krävs att stryplåda (typ Sirrus KFS 125) monteras efter fläkten.  Kontakta gärna företaget Torfors AB 031-822500 beträffande detta.
 
-## Gasspis
+### Gasspis
 
 Då det gäller gasspis så har Räddningsverket informerat oss om att man får förvara upp till 5 liter gas (ca 2 kg) i en behållare i lägenheten samt upp till 26 liter (motsvarar en P11:a) på balkongen i ett flerbostadshus. OBS! Om man har en inglasad balkong får gasolhållare som förvaras på balkongen ha maximal volym 5 liter. Vid en installation ska den inkopplade flaskan förvaras i ett ”tätt men ventilerat” utrymme. Den ska ventileras ut ur huskroppen enligt Sprängämnesinspektionen.
 
 Eftersom regelverket är mycket strängt så har styrelsen beslutat att införa anmälningsplikt från den boende FÖRE installationen. Besiktning av färdig installation ska sedan ske av behörig besiktningsman som lägenhetsinnehavaren själv tillkallar och ersätter. Besiktningsprotokollet ska skickas till styrelsen. Först efter en godkänd besiktning får gasspisen tas i bruk. Kontakta styrelsen på kontakt@drlindh.se vid frågor rörande gasspisar.
-
-## Elinstallationer
-
-Elinstallationer ska utföras av behörig elektriker.
-
-Uppgraderig från 1-fas till 3-fas i små lägenheter kan utföras efter samråd med fastighetsskötaren och sker på egen bekostnad.
 
 ## Balkonger
 
