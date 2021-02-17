@@ -32,6 +32,3 @@ I entrén i Hus 4 finns en hjärtstartare. Alla medlemmar kan komma in i Hus 4 m
 
 Alla dörrar in till lägenheterna är säkerhetsdörrar (Daloc) och försedda med ett cylinderlås och ett sjutillhållarlås. Vi rekommenderar alla att använda båda låsen.
 
-## Läckageskydd under diskbänk, diskmaskin och kyl/frys
-
-Enligt Boverkets Byggregler skall läckageskydd installeras där det finns risk för utläckande vatten eller kondens på dolda ytor och anordnas så att vattnet snabbt blir synligt.
