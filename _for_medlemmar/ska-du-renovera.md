@@ -40,6 +40,10 @@ Om ni i lägenheten behöver stänga av varm- och kallvatten så finns det avst�
 
 Om man däremot upptäcker att ett vattenrör läcker hos sig själv eller hos någon granne så gör man bäst i att använda de avstängningsventiler som sitter i den gemensamma entréhallen på respektive våningsplan. Om man lyfter på en undertaksplatta utanför entrédörren så finner man avstängningar där. Dessa är märkta med respektive lägenhetsnummer. Då stänger man av hela den berörda lägenheten inklusive alla vattenledningar där.
 
+## Läckageskydd under diskbänk, diskmaskin och kyl/frys
+
+Enligt Boverkets Byggregler skall läckageskydd installeras där det finns risk för utläckande vatten eller kondens på dolda ytor och anordnas så att vattnet snabbt blir synligt.
+
 ## Köksfläkt
 
 Föreningen accepterar följande alternativ:
@@ -68,6 +72,6 @@ Borrning i balkongtak får inte göras närmare ytterkant än  20 cm, maximalt d
 
 [Regler och rekommendationer om balkonger](/images/uploads/REV_REGLER_OCH_REKOMMENDATIONER.pdf)
 
-### Parkering för hantverkare
+## Parkering för hantverkare
 
 När du som medlem anlitar hantverkare måste dessa följa samma parkeringsrelger som alla andra.
