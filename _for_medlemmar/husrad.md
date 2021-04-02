@@ -16,7 +16,7 @@ Hus 4     Kerstin Navander Eriksson
 
 Hus 6     Nisse Hinnerson
 
-Husråden sammanträder regelbundet med föreningens styrelse. Minnesanteckningar från senaste mötet hittar du här:
+Husråden sammanträder regelbundet med föreningens styrelse. Minnesanteckningar från senaste mötet 14 oktober hittar du här:
 
 [Minnesanteckningar husrådsmöte](/images/uploads/2020-10-14_Gemensamt_husr%C3%A5dsm%C3%B6te.pdf)
 
