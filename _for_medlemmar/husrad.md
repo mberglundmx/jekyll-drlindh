@@ -8,7 +8,7 @@ I varje hus finns ett Husråd som har ansvar för trivsel och trivselfrågor i h
 
 Sammankallande för husråden är:
 
-Hus 1     Tommy Åberg
+Hus 1     David Sturk
 
 Hus 3     Inga-Maja Nilsson Björling
 
