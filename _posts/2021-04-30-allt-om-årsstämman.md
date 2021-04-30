@@ -18,7 +18,7 @@ Proceduren för röstningen beskrivs i kallelsen. Observera, att röstsedel skal
 
 [Årsredovisning](/images/uploads/Arsredovisning_2020.pdf)
 
-[Motioner 2021](/images/uploads/Motioner och motionssvar 2021.pdf)
+[Motioner 2021](/images/uploads/Motioner_och_motionssvar_2021.pdf)
 
 Här kan du också läsa om de motioner som förra årets stämma biföll, och vad som sedan har hänt med dem:
 
