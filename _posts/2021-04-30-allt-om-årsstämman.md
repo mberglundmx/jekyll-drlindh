@@ -22,6 +22,6 @@ Proceduren för röstningen beskrivs i kallelsen. Observera, att röstsedel skal
 
 Här kan du också läsa om de motioner som förra årets stämma biföll, och vad som sedan har hänt med dem:
 
-[Motioner 2020](/images/uploads/Motioner_2020_+_redovisning.pdf)
+[Motioner 2020](/images/uploads/Motioner_2020.pdf)
 
 Frågor om förtydliganden och övriga upplysningar lämnas till styrelsen senast 8 maj. 
