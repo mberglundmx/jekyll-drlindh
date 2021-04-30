@@ -14,9 +14,11 @@ Kallelse till stämman samt röstsedel med kuvert har delats ut i brevlådorna. 
 
 Proceduren för röstningen beskrivs i kallelsen. Observera, att röstsedel skall lämnas in i slutet kuvert senast 16 maj. Digital röstning är ej möjlig.
 
-Årsredovisningen, samt inlämnade motioner med styrelsens yttrande över dessa kan läsas här:
+Årsredovisningen, valberedningens förslag till styrelse och revisorer, samt inlämnade motioner med styrelsens yttrande över dessa kan läsas här:
 
 [Årsredovisning](/images/uploads/Arsredovisning_2020.pdf)
+
+[Valberedningens förslag](/images/uploads/Valberedningens_förslag.pdf)
 
 [Motioner 2021](/images/uploads/Motioner_och_motionssvar_2021.pdf)
 
