@@ -21,4 +21,4 @@ Lokalen bokas genom att skicka mejl till:
 
 Ange Brf-nummer samt nummer enligt skatteverkets regler, e-postadress samt önskat datum när du önskar hyra lokalen.
 
-[Information om bokning av gemensamhetslokalen (pdf)](</images/uploads/Info_om_hyra_av_Gemensamhetslokalen.pdf>)
+[Information om bokning av gemensamhetslokalen (pdf)](</images/uploads/Riktlinjer_Hyra_av_Gemensamhetslokalen.pdf>)
