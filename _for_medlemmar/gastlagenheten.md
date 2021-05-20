@@ -12,11 +12,10 @@ Lägenheten får endast hyras av föreningens medlemmar och är tänkt som tillf
 
 ## Bokning av gästlägenheten
 
-Du bokar lägenheten genom att kontakta någon av de bokningsansvariga via e-post, ange incheckningsdag och utcheckningsdag.
+Du bokar lägenheten genom att kontakta bokningsansvarig Per-Åke Jansson via e-post, ange husnummer, lägenhetsnummer, samt incheckningsdag och utcheckningsdag.
 
-* Hans.Ragneskog@gmail.com
 * perake.jansson49@icloud.com
 
 Bokning kan ske tidigast tre månader i förväg och senast 2 dagar före incheckningsdag. En bokning får omfatta max 5 nätter. Det går bara att göra en bokning i taget och en ny bokning är möjlig först när föregående bokning är avverkad. Eventuella undantag kan beviljas av bokningsansvarig beroende av det aktuella bokningsläget.
 
-[Information om gästlägenheten i pdf-format](/images/uploads/Information_om_gästlägenheten_2020.pdf)
+[Information om gästlägenheten i pdf-format](/images/uploads/Info_om_Gästlägenhet-maj21.pdf)
