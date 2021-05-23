@@ -4,11 +4,11 @@ title: Gästlägenheten
 teaser: /images/uploads/gastlgh (liten).jpg
 feature: /images/uploads/gastlgh (feature).jpg
 ---
-Vår gästlägenhet är enkelt inredd, det finns två sängar, toa och dusch. Däremot saknas möjligheter att laga mat eller att brygga kaffe.
+Vår gästlägenhet är enkelt inredd, det finns två sängar, toa och dusch. Det finns inga möjligheter att laga mat eller att brygga kaffe.
 
 Gästlägenheten är belägen på bottenvåningen på Doktor Lindhs gata 3. Avgiften för gästlägenheten är 200 kr per dygn.
 
-Lägenheten får endast hyras av föreningens medlemmar och är tänkt som tillfällig övernattning för gäster till boende inom bostadsrättsföreningen. Sängarna är utrustade med täcken, kuddar och filtar (allt i syntetmaterial). Den som hyr gästlägenheten ska ha med sig lakan och örngott (alt sovpåse ) och handdukar. Tvål och schampo finns inte i lägenheten.
+Lägenheten får endast hyras av föreningens medlemmar och är tänkt som tillfällig övernattning för gäster till boende inom bostadsrättsföreningen. Sängarna är utrustade med täcken, kuddar och filtar (allt i syntetmaterial). Den som hyr gästlägenheten ska ha med sig lakan och örngott samt handdukar. Tvål och schampo finns inte i lägenheten.
 
 ## Bokning av gästlägenheten
 
