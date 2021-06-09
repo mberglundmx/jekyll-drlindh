@@ -14,4 +14,4 @@ Här är vad vi vet idag:
 * Alla utom fyra motorvärmaruttag på däcket försvinner.
 * Är man intresserad av laddplats kan man kontakta Revisorsringen för att ställa sig i kö (det finns lediga platser).
 * Tillägg för laddplats är 130:-/månad exklusive el (till självkostnadspris).
-* Gästlägenheten är otillgänglig under de veckorna arbeten pågår.
+* Gästlägenheten är otillgänglig under de veckorna arbeten pågår. Dock är det möjligt att boka natt mellan lördag och söndag.
