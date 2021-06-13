@@ -5,7 +5,6 @@ date: 2021-06-13T10:34:02.403Z
 teaser: /images/uploads/Parkeringsplatser 1 liten.jpg
 ---
 Föreningen har beslutat att installera laddplatser på våra parkeringsplatser.
-
 Under entreprenaden kommer gästparkeringen vara helt avstängd. Entreprenaden kommer att pågå mellan 25 juni och 16 juli. 
 
 Denna förändring medför att de flesta motorvärmaruttag kommer att tas bort. Fyra uttag kommer att behållas på parkeringsdäcket, medan samtliga uttag kommer tas bort i garaget. Detta då efterfrågan på motorvärmare varit låg, samt att det är tekniskt komplicerat att hantera både motorvärmare samt billaddare i samma elnät.
