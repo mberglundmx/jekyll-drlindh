@@ -2,7 +2,7 @@
 layout: post
 title: Viktig information om föreningens parkeringsplatser
 date: 2021-06-13T10:34:02.403Z
-teaser: /images/400x250.png
+teaser: /images/uploads/Parkeringsplatser 1 liten.jpg
 ---
 Föreningen har beslutat att installera laddplatser på våra parkeringsplatser.
 
