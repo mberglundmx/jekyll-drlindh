@@ -17,10 +17,8 @@ Vi välkommnar Ulrika Hillberg Enander, hus 4, och Ingrid Mathillas, hus 3, som 
 * **Sekreterare** Per-Åke Jansson, Hus 1
 * **Kassör** Kent Asp, Hus 4
 * **Ledamot** Stig-Olof Eriksson, Hus 4
-* **Ledamot** Markus Berglund, Hus 4 
 * **Ledamot** Christina Axelsson, Hus 1
 * **Suppleant** Ulrika Hillberg Enander, Hus 4
 * **Suppleant** Ingrid Mathillas, Hus 3
-* **Suppleant** Krishan Kent, Hus 4
 
 ### Vi önskar alla en riktigt skön sommar!
