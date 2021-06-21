@@ -16,6 +16,7 @@ Det kostar 200 SEK att hyra lokalen dagtid + kvällstid.
 Lokalen bokas genom att skicka mejl till:
 
 * Per-Åke Jansson, perake.jansson49@icloud.com
+* Ingrid Mathillas, ingrid.mathillas@icloud.com
 * Kerstin Eurenius, kerstin.eurenius@gmail.com eller
 * Gunilla Rehn, rehngunilla@gmail.com
 
