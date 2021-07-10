@@ -8,4 +8,4 @@ För att färdigställa installationen av laddplatser för elbilar kommer elen b
 
 Information om vilken dag detta sker anslås i samtliga hus, samt på föreningens hemsida.
 
-Om du har några frågor, kontakta styrelsen via e-post kontakt@drlindh.se.
+Om du har några frågor, kontakta styrelsen via e-post [kontakt@drlindh.se](<mailto: kontakt@drlindh.se>).
