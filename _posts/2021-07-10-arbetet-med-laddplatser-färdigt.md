@@ -4,7 +4,7 @@ title: Arbetet med laddplatser färdigt
 date: 2021-07-10T21:57:55.924Z
 teaser: /images/uploads/Parkeringsplatser 1 liten.jpg
 ---
-Arbetet med laddplatser är färdigt, och gästparkeringen är återställd.
+Arbetet med installation av laddplatser för elbilar är färdigt, och gästparkeringen är återställd.
 
 **Ni som haft tillfälliga platser kan nu flytta era bilar till era nya platser enligt tidigare information.** 
 
