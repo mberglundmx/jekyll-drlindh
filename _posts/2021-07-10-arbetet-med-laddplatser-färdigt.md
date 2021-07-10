@@ -12,6 +12,6 @@ Arbetet med laddplatser är färdigt, och gästparkeringen är återställd.
 
 Laddstolparna är dock ännu inte inkopplade då vissa nödvändiga komponenter ännu inte levererats. Information om hur laddstolparna kan användas kommer senare.
 
-
+Om du har några frågor, kontakta styrelsen via e-post [kontakt@drlindh.se](<mailto: kontakt@drlindh.se>).
 
 
